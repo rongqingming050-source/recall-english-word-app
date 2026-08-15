@@ -2,6 +2,16 @@
 
 本仓库包含 Recall 考研英语词汇 Android App、AI 语境文章 Worker，以及正式词库的生成与审校工具。
 
+## 界面预览
+
+<p align="center">
+  <img src="Recall_app/docs/images/splash-screen.png" width="420" alt="Recall 启动画面">
+  <img src="Recall_app/docs/images/home-screen.png" width="420" alt="Recall 首页">
+</p>
+<p align="center">
+  <sub>启动画面（左） · 首页（右）</sub>
+</p>
+
 ## 仓库结构
 
 ```text
@@ -33,7 +43,7 @@ flutter run
 - [数据模型与 API](Recall_app/docs/数据模型与API.md)
 - [贡献指南](CONTRIBUTING.md)
 
-原始参考 PDF、构建产物、依赖缓存、调试数据库、截图和本地 Secret 不进入 Git。App 运行所需的最终词库 `Recall_app/assets/vocabulary/kaoyan_clean.json` 会随仓库版本化。
+原始参考 PDF、构建产物、依赖缓存、调试数据库、临时截图和本地 Secret 不进入 Git。App 运行所需的最终词库 `Recall_app/assets/vocabulary/kaoyan_clean.json` 会随仓库版本化。
 
 ## License
 
