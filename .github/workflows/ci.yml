@@ -17,6 +17,10 @@ jobs:
       run:
         working-directory: Recall_app
     steps:
+      - name: Preserve repository line endings
+        working-directory: .
+        run: git config --global core.autocrlf true
+
       - name: Check out repository
         uses: actions/checkout@v7
 
