@@ -45,18 +45,13 @@ Recall_app/
 
 环境要求：Flutter SDK 满足 `pubspec.yaml` 中的 Dart `^3.12.2`，Android SDK 可用。项目后端另需 Node.js 与 npm。
 
-```powershell
-cd "E:\workplace1\English word app\Recall_app"
+```bash
+git clone https://github.com/rongqingming050-source/recall-english-word-app.git
+cd recall-english-word-app/Recall_app
 flutter pub get
 flutter analyze
 flutter test
 flutter run
-```
-
-若当前机器没有把 Flutter 加入 `PATH`，可使用本机已安装路径：
-
-```powershell
-& "E:\workplace1\.devtools\flutter\bin\flutter.bat" pub get
 ```
 
 AI 功能需要在 App 的“AI 服务设置”中填写 Worker URL 和 `RECALL_APP_TOKEN`。未配置或后端不可用时，用户仍可跳过文章并完成当次学习。
@@ -72,3 +67,7 @@ Worker 的本地运行和部署见[开发与运维指南](docs/开发与运维�
 - [数据模型与 API](docs/数据模型与API.md)
 
 `docs/` 中带“验收报告”或“实施指令”的文件是阶段性记录，适合追溯历史，不作为当前实现的唯一事实来源。
+
+## License
+
+Copyright © 2026 qingming Kim. All rights reserved. 本项目源代码主要用于学习、交流和项目展示；未经明确许可，不得用于商业用途或重新分发。详见仓库根目录的 [LICENSE](../LICENSE)。

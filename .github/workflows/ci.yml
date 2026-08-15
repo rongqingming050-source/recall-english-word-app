@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  flutter:
+    name: Flutter checks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Recall_app
+    steps:
+      - name: Preserve repository line endings
+        working-directory: .
+        run: git config --global core.autocrlf true
+
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.44.9'
+          channel: stable
+          cache: true
+
+      - name: Install Flutter dependencies
+        run: flutter pub get
+
+      - name: Analyze Flutter code
+        run: flutter analyze
+
+      - name: Run Flutter tests
+        run: flutter test
+
+  worker:
+    name: Cloudflare Worker checks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Recall_app/backend/recall_ai_worker
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: Recall_app/backend/recall_ai_worker/package-lock.json
+
+      - name: Install Worker dependencies
+        run: npm ci
+
+      - name: Type-check Worker
+        run: npm run typecheck
+
+      - name: Run Worker tests
+        run: npm test
