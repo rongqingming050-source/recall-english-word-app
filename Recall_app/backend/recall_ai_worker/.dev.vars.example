@@ -1,0 +1,4 @@
+AI_PROVIDER=deepseek
+AI_MODEL=deepseek-v4-flash
+RECALL_APP_TOKEN=replace-with-a-local-development-token
+DEEPSEEK_API_KEY=replace-with-your-local-deepseek-key

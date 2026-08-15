@@ -1,0 +1,8 @@
+name = "recall-ai-worker"
+main = "src/index.ts"
+compatibility_date = "2026-08-15"
+compatibility_flags = ["global_fetch_strictly_public"]
+
+[vars]
+AI_PROVIDER = "deepseek"
+AI_MODEL = "deepseek-v4-flash"

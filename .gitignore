@@ -1,0 +1,37 @@
+# Generated dependencies and build output
+**/.dart_tool/
+**/.gradle/
+**/.wrangler/
+**/build/
+**/coverage/
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+
+# Local diagnostics and disposable working data
+**/tmp/
+*.apk
+*.db
+
+# Local configuration and secrets
+**/.dev.vars
+**/.env
+**/.env.*
+!**/.env.example
+**/local.properties
+**/key.properties
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pem
+
+# Large licensed source material; generated vocabulary data remains tracked
+/蒸馏/2027红宝书.pdf
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+.idea/
+*.iml

@@ -1,0 +1,2402 @@
+[
+  {
+    "position": 15,
+    "word": "obvious",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 明显的，显而易见的；平淡无奇的，不必要的；指极为明显，以至有目共睹。；指根据事实成为显然的。；指一目了然或一想即通。",
+    "newMeaning": "adj. 明显的；显而易见的；平淡无奇的",
+    "status": "fixed"
+  },
+  {
+    "position": 62,
+    "word": "scenery",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 风景；舞台布景；意为景色、风景指全部景色，不必都眼见，为不可数名词，常指自然景色或画出的风景，如舞台布景。；意为景色为可数名词，指部分景色，为",
+    "newMeaning": "n. 风景；景色；舞台布景",
+    "status": "fixed"
+  },
+  {
+    "position": 125,
+    "word": "favourable",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 赞许的，有利的；意为消息、答复等满意的、赞许的、条件有利的后常接介词。；用作形容词，意为最喜爱的、中意的用作名词，意为最喜欢的人或物。",
+    "newMeaning": "adj. 有利的；赞许的；令人满意的",
+    "status": "fixed"
+  },
+  {
+    "position": 209,
+    "word": "financial",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 财政的，金融的",
+    "newMeaning": "adj. 财政的；金融的",
+    "status": "fixed"
+  },
+  {
+    "position": 213,
+    "word": "first",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "新车在首次试车中性能好极了。",
+    "newMeaning": "adj. 第一的；首要的；adv. 首先；最初；n. 第一次；第一名",
+    "status": "fixed"
+  },
+  {
+    "position": 274,
+    "word": "general",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "女王颁布了大赦令。",
+    "newMeaning": "adj. 一般的；普遍的；总的；n. 将军",
+    "status": "fixed"
+  },
+  {
+    "position": 275,
+    "word": "generalize",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "v. 将军缩",
+    "newMeaning": "v. 概括；归纳；推广；使一般化",
+    "status": "fixed"
+  },
+  {
+    "position": 315,
+    "word": "leadership",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "转移，更换，改变；班，轮班，轮班职工",
+    "newMeaning": "n. 领导；领导地位；领导能力；领导人员",
+    "status": "fixed"
+  },
+  {
+    "position": 411,
+    "word": "scope",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "批准专利，获得专利",
+    "newMeaning": "n. 范围；机会；余地",
+    "status": "fixed"
+  },
+  {
+    "position": 427,
+    "word": "urban",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 城市的",
+    "newMeaning": "adj. 城市的；都市的",
+    "status": "fixed"
+  },
+  {
+    "position": 441,
+    "word": "take",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 立法难且费时",
+    "newMeaning": "v. 拿；带领；吃；接受；花费；捕获；n. 一次拍摄；看法；收入",
+    "status": "fixed"
+  },
+  {
+    "position": 595,
+    "word": "bias",
+    "category": "词性标注错误",
+    "oldMeaning": "art. 偏见；偏重",
+    "newMeaning": "n. 偏见；偏重；v. 使有偏见；使偏心",
+    "status": "fixed"
+  },
+  {
+    "position": 616,
+    "word": "emerge",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 出现，浮现",
+    "newMeaning": "v. 出现；浮现；显露；摆脱出来",
+    "status": "fixed"
+  },
+  {
+    "position": 650,
+    "word": "immune",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 免除的，豁免的；可防止的，不受影响的",
+    "newMeaning": "adj. 免疫的；免除的；不受影响的",
+    "status": "fixed"
+  },
+  {
+    "position": 664,
+    "word": "born",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 出身于的，天生的，生来的",
+    "newMeaning": "adj. 出生的；天生的；生来的",
+    "status": "fixed"
+  },
+  {
+    "position": 674,
+    "word": "acute",
+    "category": "词性标注错误",
+    "oldMeaning": "adv. 有观察力的，敏锐的；剧烈的，激烈的；严重的；疾病急性的",
+    "newMeaning": "adj. 敏锐的；剧烈的；严重的；急性的",
+    "status": "fixed"
+  },
+  {
+    "position": 684,
+    "word": "follow",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "跟踪，跟随；拴住；停止。",
+    "newMeaning": "v. 跟随；接着；遵循；领会；结果是",
+    "status": "fixed"
+  },
+  {
+    "position": 685,
+    "word": "following",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 接着的，下列的；力量，力；势力",
+    "newMeaning": "adj. 接着的；下列的；n. 追随者；拥护者",
+    "status": "fixed"
+  },
+  {
+    "position": 711,
+    "word": "literature",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 文学，文学作品，文献～这门学科的文献极为丰富。备忘录",
+    "newMeaning": "n. 文学；文学作品；文献",
+    "status": "fixed"
+  },
+  {
+    "position": 802,
+    "word": "society",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "协议，交易；数量",
+    "newMeaning": "n. 社会；社团；协会；学会",
+    "status": "fixed"
+  },
+  {
+    "position": 814,
+    "word": "sound",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 中等的；中号的",
+    "newMeaning": "adj. 健康的；健全的；可靠的；明智的；n. 声音；v. 发声；听起来",
+    "status": "fixed"
+  },
+  {
+    "position": 915,
+    "word": "important",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "怀特先生在教育部里担任要职",
+    "newMeaning": "adj. 重要的；重大的；有地位的",
+    "status": "fixed"
+  },
+  {
+    "position": 939,
+    "word": "reason",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "实际人数却与这个数字相去甚远，其中一个重要的原因是其惊人的高额费用",
+    "newMeaning": "n. 原因；理由；理性；v. 推理；思考",
+    "status": "fixed"
+  },
+  {
+    "position": 945,
+    "word": "set",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "他就能创造奇迹。塞特",
+    "newMeaning": "v. 放置；设置；确定；使处于；n. 一套；一组；adj. 固定的；规定的",
+    "status": "fixed"
+  },
+  {
+    "position": 953,
+    "word": "share",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "～隔夜的交易使股票价格直线上升。",
+    "newMeaning": "n. 份额；股份；一份；v. 分享；分担；共有",
+    "status": "fixed"
+  },
+  {
+    "position": 996,
+    "word": "sense",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "我患了感冒，所以丧失了味觉。；趣味，鉴赏力",
+    "newMeaning": "n. 感觉；意识；意义；理智；v. 感觉到",
+    "status": "fixed"
+  },
+  {
+    "position": 1006,
+    "word": "together",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "僧人把枯叶耙成一堆。；大量搜索，翻检",
+    "newMeaning": "adv. 一起；共同；同时；连续地",
+    "status": "fixed"
+  },
+  {
+    "position": 1036,
+    "word": "honourable",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 尊敬，给以荣誉",
+    "newMeaning": "adj. 可敬的；光荣的；正直的；体面的",
+    "status": "fixed"
+  },
+  {
+    "position": 1048,
+    "word": "neglect",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～任何国家都不能疏忽对年青人的教育",
+    "newMeaning": "v. 忽视；疏忽；漏做；n. 忽略；疏忽",
+    "status": "fixed"
+  },
+  {
+    "position": 1068,
+    "word": "religious",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "残杀，集体屠杀",
+    "newMeaning": "adj. 宗教的；信教的；虔诚的",
+    "status": "fixed"
+  },
+  {
+    "position": 1073,
+    "word": "strategy",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "公司的税务债务战略；组成公司或团体的，法人的；全体的，共同的",
+    "newMeaning": "n. 战略；策略；行动计划",
+    "status": "fixed"
+  },
+  {
+    "position": 1079,
+    "word": "transform",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "使变形；改观一律的；制服",
+    "newMeaning": "v. 使变形；使改观；转变",
+    "status": "fixed"
+  },
+  {
+    "position": 1094,
+    "word": "visual",
+    "category": "词性标注错误",
+    "oldMeaning": "vi. 看的，视觉的",
+    "newMeaning": "adj. 视觉的；视力的；可见的",
+    "status": "fixed"
+  },
+  {
+    "position": 1102,
+    "word": "conservative",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 保守的，守旧的",
+    "newMeaning": "adj. 保守的；守旧的；n. 保守者",
+    "status": "fixed"
+  },
+  {
+    "position": 1105,
+    "word": "considerate",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 考虑周到的，体谅的",
+    "newMeaning": "adj. 考虑周到的；体谅的",
+    "status": "fixed"
+  },
+  {
+    "position": 1113,
+    "word": "confine",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 使不外出，幽禁，禁闭；限制，使局限",
+    "newMeaning": "v. 限制；使局限；幽禁；禁闭",
+    "status": "fixed"
+  },
+  {
+    "position": 1114,
+    "word": "confirm",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 加强，巩固；证实，肯定；批准，确认",
+    "newMeaning": "v. 证实；确认；批准；巩固",
+    "status": "fixed"
+  },
+  {
+    "position": 1121,
+    "word": "train",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "我在北京到上海的火车上碰见了我的一个朋友",
+    "newMeaning": "n. 火车；列车；一系列；v. 训练；培养",
+    "status": "fixed"
+  },
+  {
+    "position": 1266,
+    "word": "conform",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "使适合，使顺从使不成形；使残废",
+    "newMeaning": "v. 遵守；符合；顺应；使一致",
+    "status": "fixed"
+  },
+  {
+    "position": 1267,
+    "word": "confront",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 使面临，使遭遇；勇敢地面对，正视",
+    "newMeaning": "v. 使面临；使遭遇；勇敢面对",
+    "status": "fixed"
+  },
+  {
+    "position": 1270,
+    "word": "congress",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "～美国国会和英国的议会是对等的。",
+    "newMeaning": "n. 代表大会；国会；议会",
+    "status": "fixed"
+  },
+  {
+    "position": 1275,
+    "word": "continue",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 连续，继续做；持续，不断发生；中断后继续，再开始；继续说",
+    "newMeaning": "v. 继续；持续；延续；重新开始",
+    "status": "fixed"
+  },
+  {
+    "position": 1293,
+    "word": "modern",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 压紧；对某事物有影响",
+    "newMeaning": "adj. 现代的；近代的；新式的；n. 现代人",
+    "status": "fixed"
+  },
+  {
+    "position": 1310,
+    "word": "reform",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "改造，改进履行，执行",
+    "newMeaning": "n./v. 改革；改造；改进",
+    "status": "fixed"
+  },
+  {
+    "position": 1323,
+    "word": "standpoint",
+    "category": "词性标注错误",
+    "oldMeaning": "int. 立场，观点",
+    "newMeaning": "n. 立场；观点",
+    "status": "fixed"
+  },
+  {
+    "position": 1343,
+    "word": "anticipate",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 预期，预料，期望；早于别人做成；先发制人；预先考虑并满足请求、要求、希望等",
+    "newMeaning": "v. 预期；预料；期望；预先考虑",
+    "status": "fixed"
+  },
+  {
+    "position": 1358,
+    "word": "condemn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 谴责；宣告某人有罪，判刑；意为声讨、谴责、惩罚尤指在道义上加以谴责，语气比较重。例如",
+    "newMeaning": "v. 谴责；宣判有罪；判刑",
+    "status": "fixed"
+  },
+  {
+    "position": 1359,
+    "word": "condense",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 使压缩，使凝结，使简洁",
+    "newMeaning": "v. 压缩；凝结；使简洁",
+    "status": "fixed"
+  },
+  {
+    "position": 1376,
+    "word": "narrative",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 叙述性的；擅长叙事的作家；叙述",
+    "newMeaning": "n. 叙述；故事；adj. 叙事的",
+    "status": "fixed"
+  },
+  {
+    "position": 1380,
+    "word": "national",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 出价，投标；努力，尝试",
+    "newMeaning": "adj. 国家的；全国的；民族的；n. 国民",
+    "status": "fixed"
+  },
+  {
+    "position": 1514,
+    "word": "stable",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "今年各种物价相对稳定。",
+    "newMeaning": "adj. 稳定的；安定的；沉稳的；可靠的",
+    "status": "fixed"
+  },
+  {
+    "position": 1537,
+    "word": "critical",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "目的，宗旨",
+    "newMeaning": "adj. 批评的；关键的；危急的；临界的",
+    "status": "fixed"
+  },
+  {
+    "position": 1547,
+    "word": "due",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "必须获得正常履行合同的担保。；表演，演出；演技",
+    "newMeaning": "adj. 到期的；预定的；应得的；由于",
+    "status": "fixed"
+  },
+  {
+    "position": 1582,
+    "word": "suppose",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 我猜明天会下雨。地",
+    "newMeaning": "v. 猜想；假定；认为；期望",
+    "status": "fixed"
+  },
+  {
+    "position": 1585,
+    "word": "supreme",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "安德鲁今天将宣誓就任最高法院法官。～首席法官",
+    "newMeaning": "adj. 最高的；至高无上的；最大的",
+    "status": "fixed"
+  },
+  {
+    "position": 1591,
+    "word": "research",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "v. 精心制作；详述计划、说明",
+    "newMeaning": "n./v. 研究；调查",
+    "status": "fixed"
+  },
+  {
+    "position": 1619,
+    "word": "convene",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 召集，召开正式会议；单独使用的动词为正式会议而聚集，集合",
+    "newMeaning": "v. 召集；召开；集合",
+    "status": "fixed"
+  },
+  {
+    "position": 1621,
+    "word": "converge",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 汇合，集中，聚会，汇集；趋同",
+    "newMeaning": "v. 汇合；集中；趋同",
+    "status": "fixed"
+  },
+  {
+    "position": 1622,
+    "word": "convey",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 运送，输送，传送；表达，传达",
+    "newMeaning": "v. 运送；输送；表达；传达",
+    "status": "fixed"
+  },
+  {
+    "position": 1644,
+    "word": "expand",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "照看，留心；介意，在乎",
+    "newMeaning": "v. 扩大；扩展；膨胀；详述",
+    "status": "fixed"
+  },
+  {
+    "position": 1655,
+    "word": "institution",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 真正的生活是思想和灵魂的生活。",
+    "newMeaning": "n. 机构；制度；创立；习俗",
+    "status": "fixed"
+  },
+  {
+    "position": 1659,
+    "word": "integrate",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "常用于词组",
+    "newMeaning": "v. 使结合；使一体化；融入",
+    "status": "fixed"
+  },
+  {
+    "position": 1682,
+    "word": "purchase",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "沉淀物；存款；保证金",
+    "newMeaning": "n./v. 购买；购置；购买物",
+    "status": "fixed"
+  },
+  {
+    "position": 1693,
+    "word": "risk",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 冒的风险；冒险，风险",
+    "newMeaning": "n. 风险；危险；v. 冒险；使遭受危险",
+    "status": "fixed"
+  },
+  {
+    "position": 1800,
+    "word": "protocol",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "不忠，背信，违约等；破坏，中断；裂缺口；某人不在时代理某事",
+    "newMeaning": "n. 礼仪；外交礼节；协议；规程",
+    "status": "fixed"
+  },
+  {
+    "position": 1811,
+    "word": "attention",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "～他的注意力集中在朋友身上",
+    "newMeaning": "n. 注意；注意力；关心；立正",
+    "status": "fixed"
+  },
+  {
+    "position": 1812,
+    "word": "attitude",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "她对我的态度有点儿冷淡。～",
+    "newMeaning": "n. 态度；看法；姿势",
+    "status": "fixed"
+  },
+  {
+    "position": 1829,
+    "word": "extension",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "科学技术的目标始终是增进与改善物质文明。",
+    "newMeaning": "n. 延长；扩大；扩建部分；分机",
+    "status": "fixed"
+  },
+  {
+    "position": 1832,
+    "word": "human",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "人者，理想之动物也。人杨",
+    "newMeaning": "adj. 人的；人类的；有人性的；n. 人",
+    "status": "fixed"
+  },
+  {
+    "position": 1845,
+    "word": "international",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 国际共产主义运动的目的是建立共产主义",
+    "newMeaning": "adj. 国际的；世界性的；n. 国际比赛；国际组织",
+    "status": "fixed"
+  },
+  {
+    "position": 1847,
+    "word": "lose",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "质地稀疏的布。",
+    "newMeaning": "v. 丢失；失去；输掉；迷失；亏损",
+    "status": "fixed"
+  },
+  {
+    "position": 1872,
+    "word": "marble",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "圆屋顶是靠大理石圆柱支撑的。；列；报刊中的专栏",
+    "newMeaning": "n. 大理石；大理石制品；玻璃弹子",
+    "status": "fixed"
+  },
+  {
+    "position": 1876,
+    "word": "married",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～与结婚的",
+    "newMeaning": "adj. 已婚的；婚姻的",
+    "status": "fixed"
+  },
+  {
+    "position": 1879,
+    "word": "Marxist",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 马克思主义的；马克思主义者～马克思主义者认为",
+    "newMeaning": "adj. 马克思主义的；n. 马克思主义者",
+    "status": "fixed"
+  },
+  {
+    "position": 1889,
+    "word": "neighbourhood",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 项链～她戴着一条项链。针，指针，针状物；四邻，街坊；区域，街道",
+    "newMeaning": "n. 四邻；街坊；街区；附近地区",
+    "status": "fixed"
+  },
+  {
+    "position": 1915,
+    "word": "theatre",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "一群，禽、畜等的群；大量，众多",
+    "newMeaning": "n. 剧院；戏剧；手术室；战区",
+    "status": "fixed"
+  },
+  {
+    "position": 1924,
+    "word": "via",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "vi. 在时间的大钟上，只有两个字现英莎士比亚",
+    "newMeaning": "prep. 经由；通过；凭借",
+    "status": "fixed"
+  },
+  {
+    "position": 1992,
+    "word": "fee",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "把那棵植物在水里浸泡几分钟。；使沉浸在，使专心于",
+    "newMeaning": "n. 费用；酬金；服务费",
+    "status": "fixed"
+  },
+  {
+    "position": 1996,
+    "word": "grin",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "只有今天才真正属于你。",
+    "newMeaning": "n./v. 咧嘴笑；露齿而笑",
+    "status": "fixed"
+  },
+  {
+    "position": 2010,
+    "word": "alloy",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 同盟国，同盟者",
+    "newMeaning": "n. 合金；v. 使成合金；使降低价值",
+    "status": "fixed"
+  },
+  {
+    "position": 2011,
+    "word": "alone",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "后者",
+    "newMeaning": "adj. 单独的；独自的；adv. 单独；仅仅",
+    "status": "fixed"
+  },
+  {
+    "position": 2040,
+    "word": "may",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "级和级管理者之间的区别很可能决定了一个企业成功与否",
+    "newMeaning": "modal v. 可能；可以；也许；祝愿",
+    "status": "fixed"
+  },
+  {
+    "position": 2056,
+    "word": "play",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 对某人耍鬼花招；破旧的，衣衫褴褛的",
+    "newMeaning": "v. 玩；演奏；扮演；比赛；n. 游戏；戏剧；比赛",
+    "status": "fixed"
+  },
+  {
+    "position": 2083,
+    "word": "chairman",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 铁路～筑新铁路；由铁路运输；使议案等草草通过；举起，提高，增加；竖起，建立",
+    "newMeaning": "n. 主席；委员长；董事长",
+    "status": "fixed"
+  },
+  {
+    "position": 2135,
+    "word": "petty",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "主席，委员长，董事长",
+    "newMeaning": "adj. 琐碎的；次要的；小气的；狭隘的",
+    "status": "fixed"
+  },
+  {
+    "position": 2213,
+    "word": "nominate",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "vt. 提名，推荐；任命，指定；意为任命、委任常与或连用。例如；意为任命、提名常与连用。例如",
+    "newMeaning": "v. 提名；推荐；任命；指定",
+    "status": "fixed"
+  },
+  {
+    "position": 2226,
+    "word": "rehearse",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 除了之外；而且，还有",
+    "newMeaning": "v. 排练；排演；详述；默诵",
+    "status": "fixed"
+  },
+  {
+    "position": 2234,
+    "word": "single",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 羊或猪的排骨，肉块",
+    "newMeaning": "adj. 单一的；单个的；单身的；n. 单程票；单曲；单人间",
+    "status": "fixed"
+  },
+  {
+    "position": 2252,
+    "word": "juvenile",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 青少年的；幼稚的；青少年；少年读物",
+    "newMeaning": "adj. 青少年的；幼稚的；n. 青少年；少年读物",
+    "status": "fixed"
+  },
+  {
+    "position": 2281,
+    "word": "clip",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 常缰绳；安全绳套，保护带；控制，支配；拘束物；用缰绳勒马",
+    "newMeaning": "n. 夹子；剪下物；短片；v. 剪；修剪；夹住",
+    "status": "fixed"
+  },
+  {
+    "position": 2308,
+    "word": "medicine",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 整体中的一部分的，组成的",
+    "newMeaning": "n. 药；药物；医学；医术",
+    "status": "fixed"
+  },
+  {
+    "position": 2312,
+    "word": "melt",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 伙伴，同事；配偶，性伴侣",
+    "newMeaning": "v. 熔化；融化；逐渐消失；n. 熔化物",
+    "status": "fixed"
+  },
+  {
+    "position": 2323,
+    "word": "film",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "一部关于唐朝的史诗电影；艰苦卓绝的，漫长而艰难的",
+    "newMeaning": "n. 电影；胶片；薄膜；v. 拍摄；覆盖薄层",
+    "status": "fixed"
+  },
+  {
+    "position": 2355,
+    "word": "silly",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 淡季，萧条；便裤，宽松长裤",
+    "newMeaning": "adj. 愚蠢的；糊涂的；不明事理的",
+    "status": "fixed"
+  },
+  {
+    "position": 2409,
+    "word": "depth",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "分区，划分地带",
+    "newMeaning": "n. 深度；深处；深刻；浓度",
+    "status": "fixed"
+  },
+  {
+    "position": 2451,
+    "word": "acid",
+    "category": "词性标注错误",
+    "oldMeaning": "中性的东西既非酸性也非碱性。",
+    "newMeaning": "n. 酸；adj. 酸的；酸性的；尖刻的",
+    "status": "fixed"
+  },
+  {
+    "position": 2489,
+    "word": "faith",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "信念只有在积极的行动中才能生苏联苏霍",
+    "newMeaning": "n. 信任；信念；信仰；忠诚",
+    "status": "fixed"
+  },
+  {
+    "position": 2509,
+    "word": "path",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "斜向边的",
+    "newMeaning": "n. 小路；路线；途径；轨道",
+    "status": "fixed"
+  },
+  {
+    "position": 2541,
+    "word": "center",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 分；分值的硬币；集中；将当作主题",
+    "newMeaning": "n. 中心；中央；v. 集中；以……为中心",
+    "status": "fixed"
+  },
+  {
+    "position": 2543,
+    "word": "century",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 上世纪最后二十五年是中国经济持续增长的时期",
+    "newMeaning": "n. 世纪；一百年",
+    "status": "fixed"
+  },
+  {
+    "position": 2545,
+    "word": "centimetre",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 摄氏的略为华氏的为",
+    "newMeaning": "n. 厘米；公分",
+    "status": "fixed"
+  },
+  {
+    "position": 2546,
+    "word": "cereal",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 谷类食品，谷类；谷类的，谷类制成的",
+    "newMeaning": "n. 谷物；谷类食品；adj. 谷类的",
+    "status": "fixed"
+  },
+  {
+    "position": 2547,
+    "word": "debt",
+    "category": "词性标注错误",
+    "oldMeaning": "det. 债，债务",
+    "newMeaning": "n. 债；债务；欠款；人情债",
+    "status": "fixed"
+  },
+  {
+    "position": 2566,
+    "word": "giggle",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 咯咯笑，傻笑；娱乐；持续的笑；咯咯笑，傻笑",
+    "newMeaning": "n./v. 咯咯笑；傻笑",
+    "status": "fixed"
+  },
+  {
+    "position": 2575,
+    "word": "hasty",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 匆忙的，仓促的；草率的；策划，图谋；孵，孵出",
+    "newMeaning": "adj. 匆忙的；仓促的；草率的",
+    "status": "fixed"
+  },
+  {
+    "position": 2607,
+    "word": "undo",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "串起；缚，扎，挂",
+    "newMeaning": "v. 松开；解开；取消；撤销",
+    "status": "fixed"
+  },
+  {
+    "position": 2623,
+    "word": "heroin",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～有海洛因毒瘾的人",
+    "newMeaning": "n. 海洛因",
+    "status": "fixed"
+  },
+  {
+    "position": 2660,
+    "word": "seal",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "瓶子的封记已经老化",
+    "newMeaning": "n. 封条；印章；海豹；v. 密封；盖章",
+    "status": "fixed"
+  },
+  {
+    "position": 2664,
+    "word": "secretary",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "上船车，飞机",
+    "newMeaning": "n. 秘书；书记；部长；大臣",
+    "status": "fixed"
+  },
+  {
+    "position": 2666,
+    "word": "sector",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "在许多富裕国家，政府部门的平均收入要高于私营部门",
+    "newMeaning": "n. 部门；行业；区域；扇形",
+    "status": "fixed"
+  },
+  {
+    "position": 2689,
+    "word": "permanent",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "大部分资金将来自每封信一美分的永久性费率增加以及将邮政退休人员转入美国国家医疗保险制度",
+    "newMeaning": "adj. 永久的；持久的；固定的",
+    "status": "fixed"
+  },
+  {
+    "position": 2744,
+    "word": "warn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 警告，告诫",
+    "newMeaning": "v. 警告；告诫；提醒",
+    "status": "fixed"
+  },
+  {
+    "position": 2748,
+    "word": "affluent",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 天线",
+    "newMeaning": "adj. 富裕的；丰富的；n. 支流",
+    "status": "fixed"
+  },
+  {
+    "position": 2763,
+    "word": "light",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 太阳发出光和热。；发散，显露出",
+    "newMeaning": "n. 光；灯；adj. 轻的；浅色的；v. 点燃；照亮",
+    "status": "fixed"
+  },
+  {
+    "position": 2770,
+    "word": "bad",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "农产品由于气候寒冷而减产。；损害，损伤",
+    "newMeaning": "adj. 坏的；糟糕的；有害的；严重的",
+    "status": "fixed"
+  },
+  {
+    "position": 2849,
+    "word": "labour",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 钢琴，电脑等的键盘；用键盘输入；将信息键入计算机；工作，劳动；劳工，劳方总称；分娩，阵痛；劳动",
+    "newMeaning": "n. 劳动；劳工；分娩；v. 劳动；努力",
+    "status": "fixed"
+  },
+  {
+    "position": 2851,
+    "word": "lack",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "放弃意味着你缺乏勇气。符号表示一个未知数",
+    "newMeaning": "n./v. 缺乏；不足",
+    "status": "fixed"
+  },
+  {
+    "position": 2855,
+    "word": "machine",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "一名技术员被请来修理机器。",
+    "newMeaning": "n. 机器；机械；机构",
+    "status": "fixed"
+  },
+  {
+    "position": 2872,
+    "word": "pack",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 猎人遭狼群袭击而丧命",
+    "newMeaning": "n. 包；包裹；一群；一副；v. 打包；挤满",
+    "status": "fixed"
+  },
+  {
+    "position": 2900,
+    "word": "sacred",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 播种",
+    "newMeaning": "adj. 神圣的；宗教的；不可侵犯的",
+    "status": "fixed"
+  },
+  {
+    "position": 2905,
+    "word": "sandwich",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "vt. 批准，同意，认可；被夹入，挤进",
+    "newMeaning": "n. 三明治；v. 把……夹在中间；挤入",
+    "status": "fixed"
+  },
+  {
+    "position": 2906,
+    "word": "sane",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "当他看到这一幕，他心中充满愤怒。",
+    "newMeaning": "adj. 心智健全的；理智的；明智的",
+    "status": "fixed"
+  },
+  {
+    "position": 2918,
+    "word": "valve",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 阀；英电子管，真空管；心脏瓣膜",
+    "newMeaning": "n. 阀；电子管；心脏瓣膜",
+    "status": "fixed"
+  },
+  {
+    "position": 2922,
+    "word": "waken",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 醒来，睡醒；使觉醒，激发，引起；此三词连同虽然同义，但是通常用于觉醒、觉悟的比喻义。；虽然都可做动词，但多做及物动词因为后缀具有使之意多做不及物动词。",
+    "newMeaning": "v. 醒来；唤醒；使觉醒；激发",
+    "status": "fixed"
+  },
+  {
+    "position": 2968,
+    "word": "tailor",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "一针，针脚；一点，少许；缝，缝合，缝补",
+    "newMeaning": "n. 裁缝；v. 缝制；使适合特定需要",
+    "status": "fixed"
+  },
+  {
+    "position": 2979,
+    "word": "tax",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "许多商人从新的税法中得到好处",
+    "newMeaning": "n. 税；负担；v. 征税；使负重",
+    "status": "fixed"
+  },
+  {
+    "position": 2985,
+    "word": "vanity",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "无知的真正特点",
+    "newMeaning": "n. 虚荣；虚荣心；自负；空虚",
+    "status": "fixed"
+  },
+  {
+    "position": 3052,
+    "word": "life",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "结成伙伴，做搭档，配对",
+    "newMeaning": "n. 生命；生活；生涯；寿命；生物",
+    "status": "fixed"
+  },
+  {
+    "position": 3074,
+    "word": "orient",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 东方，总称东方国家",
+    "newMeaning": "n. 东方；东方国家；v. 确定方向；使适应",
+    "status": "fixed"
+  },
+  {
+    "position": 3079,
+    "word": "popular",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "乐队演奏了精选的流行曲子。",
+    "newMeaning": "adj. 流行的；受欢迎的；大众的；通俗的",
+    "status": "fixed"
+  },
+  {
+    "position": 3089,
+    "word": "postman",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 招贴画海报，广告",
+    "newMeaning": "n. 邮递员；邮差",
+    "status": "fixed"
+  },
+  {
+    "position": 3099,
+    "word": "repeat",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 对不起我没有听懂，请重复一遍",
+    "newMeaning": "v. 重复；重说；重做；n. 重复；重播",
+    "status": "fixed"
+  },
+  {
+    "position": 3105,
+    "word": "tiresome",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 爱戏弄他人者，缠扰者",
+    "newMeaning": "adj. 令人厌倦的；烦人的",
+    "status": "fixed"
+  },
+  {
+    "position": 3114,
+    "word": "hormone",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "本性，特征",
+    "newMeaning": "n. 激素；荷尔蒙",
+    "status": "fixed"
+  },
+  {
+    "position": 3134,
+    "word": "missile",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 计划，方案；工程，项目",
+    "newMeaning": "n. 导弹；投射物；发射物",
+    "status": "fixed"
+  },
+  {
+    "position": 3138,
+    "word": "nuclear",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "中国的核能力只以防御为目的。",
+    "newMeaning": "adj. 核的；核能的；原子核的；核心的",
+    "status": "fixed"
+  },
+  {
+    "position": 3158,
+    "word": "traffic",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 那警察在交叉路口指挥交通。酒吧的营业时间由法律规定。；校准，调节",
+    "newMeaning": "n. 交通；运输；交易；v. 做非法交易",
+    "status": "fixed"
+  },
+  {
+    "position": 3219,
+    "word": "biography",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 物质的，实体的",
+    "newMeaning": "n. 传记；传记文学",
+    "status": "fixed"
+  },
+  {
+    "position": 3234,
+    "word": "combination",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "为提供资金",
+    "newMeaning": "n. 结合；联合；组合；联合体",
+    "status": "fixed"
+  },
+  {
+    "position": 3237,
+    "word": "entire",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 那些反叛者使全镇的人感到恐惧",
+    "newMeaning": "adj. 全部的；整个的；完全的",
+    "status": "fixed"
+  },
+  {
+    "position": 3247,
+    "word": "whereby",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 第三，通过更为广泛的晕轮效应顾客和其他人会更多地考虑其产品",
+    "newMeaning": "adv. 凭此；借以；由此",
+    "status": "fixed"
+  },
+  {
+    "position": 3316,
+    "word": "discern",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 看出，觉察出；识别，区别",
+    "newMeaning": "v. 看出；觉察；识别；区别",
+    "status": "fixed"
+  },
+  {
+    "position": 3346,
+    "word": "come",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "世界人口的增长已经成为一种潜在的危机。",
+    "newMeaning": "v. 来；来到；出现；发生；成为",
+    "status": "fixed"
+  },
+  {
+    "position": 3359,
+    "word": "dialect",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 外国人，外侨；外星人，外星生物",
+    "newMeaning": "n. 方言；地方话",
+    "status": "fixed"
+  },
+  {
+    "position": 3418,
+    "word": "spacecraft",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "除非在发射前的最后一分钟暂停，不然航天器现在应该在飞行中了",
+    "newMeaning": "n. 航天器；宇宙飞船",
+    "status": "fixed"
+  },
+  {
+    "position": 3430,
+    "word": "wet",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "直达的，直通的",
+    "newMeaning": "adj. 湿的；下雨的；n. 潮湿；v. 弄湿",
+    "status": "fixed"
+  },
+  {
+    "position": 3441,
+    "word": "announce",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "评委会将宣布优胜者。",
+    "newMeaning": "v. 宣布；宣告；通知；声称",
+    "status": "fixed"
+  },
+  {
+    "position": 3453,
+    "word": "clothes",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 独家新闻，独家报道",
+    "newMeaning": "n. 衣服；服装",
+    "status": "fixed"
+  },
+  {
+    "position": 3462,
+    "word": "despair",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "做手势，用动作示意",
+    "newMeaning": "n./v. 绝望；失去希望",
+    "status": "fixed"
+  },
+  {
+    "position": 3472,
+    "word": "enquire",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 工程学",
+    "newMeaning": "v. 询问；打听；调查",
+    "status": "fixed"
+  },
+  {
+    "position": 3477,
+    "word": "fine",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "审判，判决；评定，裁判；断定，判断",
+    "newMeaning": "adj. 优良的；精细的；晴朗的；n. 罚款；v. 罚款",
+    "status": "fixed"
+  },
+  {
+    "position": 3497,
+    "word": "pole",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 整理，收拾",
+    "newMeaning": "n. 杆；柱；地极；电极",
+    "status": "fixed"
+  },
+  {
+    "position": 3561,
+    "word": "director",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "对进行民意测验；获得选票",
+    "newMeaning": "n. 主管；董事；导演；负责人",
+    "status": "fixed"
+  },
+  {
+    "position": 3573,
+    "word": "install",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "vt. 诚实的，正直的",
+    "newMeaning": "v. 安装；设置；使就职；安顿",
+    "status": "fixed"
+  },
+  {
+    "position": 3592,
+    "word": "minister",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "vt. 批准，同意，认可",
+    "newMeaning": "n. 部长；大臣；牧师；外交使节",
+    "status": "fixed"
+  },
+  {
+    "position": 3626,
+    "word": "excuse",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "老于世故的，老练的；复杂的；精密的；尖端的，高度发展的",
+    "newMeaning": "n. 借口；理由；v. 原谅；为……辩解",
+    "status": "fixed"
+  },
+  {
+    "position": 3628,
+    "word": "exercise",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "用运动、节食等减轻体重使体形苗条",
+    "newMeaning": "n. 练习；运动；锻炼；v. 练习；锻炼；行使",
+    "status": "fixed"
+  },
+  {
+    "position": 3657,
+    "word": "invaluable",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 非常宝贵的，无价的",
+    "newMeaning": "adj. 非常宝贵的；无价的",
+    "status": "fixed"
+  },
+  {
+    "position": 3671,
+    "word": "motive",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 动机，目的",
+    "newMeaning": "n. 动机；目的；adj. 运动的；发动的",
+    "status": "fixed"
+  },
+  {
+    "position": 3674,
+    "word": "mourn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 悼念，哀悼，悲悼",
+    "newMeaning": "v. 哀悼；悲悼；对……感到痛心",
+    "status": "fixed"
+  },
+  {
+    "position": 3767,
+    "word": "stream",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 不透明的；晦涩的，难理解的；决定做；决定某事物，选择某事物",
+    "newMeaning": "n. 小河；流；潮流；v. 流动；涌出",
+    "status": "fixed"
+  },
+  {
+    "position": 3789,
+    "word": "bribe",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "俯身，弯腰",
+    "newMeaning": "n. 贿赂；v. 向……行贿；收买",
+    "status": "fixed"
+  },
+  {
+    "position": 3790,
+    "word": "bridge",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 战胜",
+    "newMeaning": "n. 桥；桥梁；v. 架桥；弥合",
+    "status": "fixed"
+  },
+  {
+    "position": 3801,
+    "word": "down",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "努力，尽力",
+    "newMeaning": "adv. 向下；在下面；adj. 向下的；沮丧的；prep. 沿着",
+    "status": "fixed"
+  },
+  {
+    "position": 3812,
+    "word": "exhibit",
+    "category": "词性标注错误",
+    "oldMeaning": "art. 展出，陈列；表示，显示；展览品，陈列品",
+    "newMeaning": "v. 展出；陈列；显示；n. 展览品；证物",
+    "status": "fixed"
+  },
+  {
+    "position": 3833,
+    "word": "boss",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 工头，老板，上司；指挥，支配，发号施令",
+    "newMeaning": "n. 老板；上司；工头；v. 指挥；支配",
+    "status": "fixed"
+  },
+  {
+    "position": 3841,
+    "word": "artifact",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 清晰地表达",
+    "newMeaning": "n. 人工制品；手工艺品；人为现象",
+    "status": "fixed"
+  },
+  {
+    "position": 3844,
+    "word": "artistic",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 职业的",
+    "newMeaning": "adj. 艺术的；有艺术天赋的；精美的",
+    "status": "fixed"
+  },
+  {
+    "position": 3845,
+    "word": "disrupt",
+    "category": "词性标注错误",
+    "oldMeaning": "adj. 扰乱，破坏，分解；混乱的；瓦解的；中断的",
+    "newMeaning": "v. 扰乱；破坏；使中断",
+    "status": "fixed"
+  },
+  {
+    "position": 3855,
+    "word": "even",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 款待，请客",
+    "newMeaning": "adj. 平坦的；均匀的；偶数的；adv. 甚至；更加",
+    "status": "fixed"
+  },
+  {
+    "position": 3859,
+    "word": "for",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 法律和秩序是一个安宁的社会所必需的。；法则，规律，定律；诉诸法律；发号施令",
+    "newMeaning": "prep. 为了；给；对于；达；因为；conj. 因为",
+    "status": "fixed"
+  },
+  {
+    "position": 3862,
+    "word": "foreign",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "不再受外国统治的一个民族；易遭受的，易患的",
+    "newMeaning": "adj. 外国的；对外的；陌生的；异质的",
+    "status": "fixed"
+  },
+  {
+    "position": 3886,
+    "word": "rid",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "v. 着重，强调，突出",
+    "newMeaning": "v. 使摆脱；清除；除去",
+    "status": "fixed"
+  },
+  {
+    "position": 3903,
+    "word": "transcend",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 超越，胜过",
+    "newMeaning": "v. 超越；胜过；超出",
+    "status": "fixed"
+  },
+  {
+    "position": 3915,
+    "word": "contrive",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 设计，想出，谋划，策划坏事、恶事",
+    "newMeaning": "v. 设计；想出；谋划；设法做到",
+    "status": "fixed"
+  },
+  {
+    "position": 3917,
+    "word": "convenient",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 便利的，方便的",
+    "newMeaning": "adj. 便利的；方便的；合适的",
+    "status": "fixed"
+  },
+  {
+    "position": 3922,
+    "word": "convict",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 律经审讯证明有罪，宣判有罪；使深感有罪，使服罪",
+    "newMeaning": "v. 宣判有罪；证明有罪；n. 已决犯；囚犯",
+    "status": "fixed"
+  },
+  {
+    "position": 3924,
+    "word": "convince",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 使信服，使确信",
+    "newMeaning": "v. 使信服；使确信；说服",
+    "status": "fixed"
+  },
+  {
+    "position": 4009,
+    "word": "contain",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 包含，容纳；相当于；折合",
+    "newMeaning": "v. 包含；容纳；控制；抑制",
+    "status": "fixed"
+  },
+  {
+    "position": 4010,
+    "word": "contaminate",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 污染，玷污，毒害",
+    "newMeaning": "v. 污染；玷污；毒害",
+    "status": "fixed"
+  },
+  {
+    "position": 4014,
+    "word": "burst",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "熊熊燃烧，冒火焰",
+    "newMeaning": "v. 爆裂；突然闯入；迸发；n. 爆裂；突发",
+    "status": "fixed"
+  },
+  {
+    "position": 4032,
+    "word": "friendly",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "挥手示意，致意；飘动，挥动",
+    "newMeaning": "adj. 友好的；友善的；有利的",
+    "status": "fixed"
+  },
+  {
+    "position": 4046,
+    "word": "humiliate",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 要是你讲话时我睡着了，可别以为不敬，我太累了。；损伤，危害",
+    "newMeaning": "v. 羞辱；使丢脸",
+    "status": "fixed"
+  },
+  {
+    "position": 4047,
+    "word": "humour",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 羞辱，使丢脸，耻辱",
+    "newMeaning": "n. 幽默；诙谐；心情；v. 迁就；迎合",
+    "status": "fixed"
+  },
+  {
+    "position": 4090,
+    "word": "summit",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 全景，全景画，全景摄影；概论，概述，概观",
+    "newMeaning": "n. 顶峰；最高点；峰会",
+    "status": "fixed"
+  },
+  {
+    "position": 4091,
+    "word": "summon",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 召见，召集；传讯，传唤；使出，鼓起勇气振作精神",
+    "newMeaning": "v. 召见；召集；传唤；鼓起",
+    "status": "fixed"
+  },
+  {
+    "position": 4099,
+    "word": "audience",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "鞠躬，点头；弓形；蝴蝶结",
+    "newMeaning": "n. 听众；观众；读者；正式会见",
+    "status": "fixed"
+  },
+  {
+    "position": 4103,
+    "word": "augment",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "壮观的，壮丽的，宏伟的",
+    "newMeaning": "v. 增加；扩大；提高",
+    "status": "fixed"
+  },
+  {
+    "position": 4136,
+    "word": "drum",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "打，敲；战胜，打败；心脏跳动，搏动；指连续地打。",
+    "newMeaning": "n. 鼓；鼓状物；v. 打鼓；反复灌输",
+    "status": "fixed"
+  },
+  {
+    "position": 4168,
+    "word": "stubborn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 顽固的，倔强的，顽强的，坚持的；难对付的",
+    "newMeaning": "adj. 顽固的；倔强的；顽强的；难对付的",
+    "status": "fixed"
+  },
+  {
+    "position": 4189,
+    "word": "avenue",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 林荫大道，大街",
+    "newMeaning": "n. 林荫大道；大街；途径；手段",
+    "status": "fixed"
+  },
+  {
+    "position": 4293,
+    "word": "sympathize",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "v. 出于同情的，同情的，赞同的，支持的；讨人喜欢的",
+    "newMeaning": "v. 同情；赞同；支持",
+    "status": "fixed"
+  },
+  {
+    "position": 4295,
+    "word": "symphony",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 空向乐典",
+    "newMeaning": "n. 交响乐；交响曲；和谐",
+    "status": "fixed"
+  },
+  {
+    "position": 4304,
+    "word": "murder",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "有折磨凶杀内容的恐怖故事；指地方极其简陋的；生病，不舒服",
+    "newMeaning": "n. 谋杀；凶杀；v. 谋杀；糟蹋",
+    "status": "fixed"
+  },
+  {
+    "position": 4315,
+    "word": "pump",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 特别地，非常",
+    "newMeaning": "n. 泵；抽水机；v. 用泵抽送；盘问",
+    "status": "fixed"
+  },
+  {
+    "position": 4320,
+    "word": "pure",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "～她的突然来访真使人喜出望外。",
+    "newMeaning": "adj. 纯的；纯净的；纯粹的；清白的",
+    "status": "fixed"
+  },
+  {
+    "position": 4366,
+    "word": "again",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "回顾，复习，报告，述评；评论，评审，检查",
+    "newMeaning": "adv. 再；又；重新；另一方面",
+    "status": "fixed"
+  },
+  {
+    "position": 4371,
+    "word": "air",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "v. 只有少数乘客在这次空难中幸免于难。；比活得长；从困境等中挺过来",
+    "newMeaning": "n. 空气；天空；神态；v. 晾晒；播出；表达",
+    "status": "fixed"
+  },
+  {
+    "position": 4372,
+    "word": "albeit",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 虽然；尽管",
+    "newMeaning": "conj. 虽然；尽管",
+    "status": "fixed"
+  },
+  {
+    "position": 4380,
+    "word": "always",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 在下面，向下",
+    "newMeaning": "adv. 总是；一直；永远",
+    "status": "fixed"
+  },
+  {
+    "position": 4391,
+    "word": "ask",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "无论你问任何人，他都会给你指路。；重要人物",
+    "newMeaning": "v. 问；询问；请求；邀请；要价",
+    "status": "fixed"
+  },
+  {
+    "position": 4392,
+    "word": "at",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "踱方步，踱步于",
+    "newMeaning": "prep. 在；向；以；处于；因为",
+    "status": "fixed"
+  },
+  {
+    "position": 4425,
+    "word": "big",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "给小费；向透露消息；倾斜，翻倒；轻触，轻碰",
+    "newMeaning": "adj. 大的；重大的；年长的；成功的",
+    "status": "fixed"
+  },
+  {
+    "position": 4429,
+    "word": "borrow",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "无论你借什么杂志，你都要在一周之内还回去。",
+    "newMeaning": "v. 借；借用；借入；采用",
+    "status": "fixed"
+  },
+  {
+    "position": 4433,
+    "word": "boy",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "conj. 在之前；前面，从前，早些时候",
+    "newMeaning": "n. 男孩；少年；儿子",
+    "status": "fixed"
+  },
+  {
+    "position": 4435,
+    "word": "breakfast",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adv. 每日，天天；日报",
+    "newMeaning": "n. 早餐；早饭；v. 吃早餐",
+    "status": "fixed"
+  },
+  {
+    "position": 4457,
+    "word": "buy",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "鲍勃从银行取走存款去买自行车。",
+    "newMeaning": "v. 买；购买；收买；n. 购买；便宜货",
+    "status": "fixed"
+  },
+  {
+    "position": 4485,
+    "word": "cheap",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. ～过低贱的生活；使人难受的，讨厌的，烦人的；厉害的，严重的",
+    "newMeaning": "adj. 便宜的；低劣的；卑劣的；adv. 便宜地",
+    "status": "fixed"
+  },
+  {
+    "position": 4497,
+    "word": "china",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "前者",
+    "newMeaning": "n. 瓷器；瓷料；陶瓷餐具",
+    "status": "fixed"
+  },
+  {
+    "position": 4503,
+    "word": "church",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "天主教的礼仪",
+    "newMeaning": "n. 教堂；礼拜；教会",
+    "status": "fixed"
+  },
+  {
+    "position": 4506,
+    "word": "cinema",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 斜，倾斜；屈身，靠，倚",
+    "newMeaning": "n. 电影院；电影；电影业",
+    "status": "fixed"
+  },
+  {
+    "position": 4508,
+    "word": "city",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 城市遭到轰炸时，儿童都疏散到乡下去了。；撤离",
+    "newMeaning": "n. 城市；都市；全市居民",
+    "status": "fixed"
+  },
+  {
+    "position": 4512,
+    "word": "clean",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 清洁的，洁白的打扫，使干净",
+    "newMeaning": "adj. 清洁的；洁白的；v. 打扫；使干净；adv. 完全地",
+    "status": "fixed"
+  },
+  {
+    "position": 4554,
+    "word": "death",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "因他死去而悲伤得几乎发狂；伤心事",
+    "newMeaning": "n. 死；死亡；毁灭",
+    "status": "fixed"
+  },
+  {
+    "position": 4556,
+    "word": "deep",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "暴涨，激增；迅速发展，繁荣",
+    "newMeaning": "adj. 深的；深刻的；低沉的；adv. 深深地；n. 深处",
+    "status": "fixed"
+  },
+  {
+    "position": 4562,
+    "word": "different",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "平行线，平行面；相似物，相似处；显示相似处的比较，比拟；纬线，平行圈",
+    "newMeaning": "adj. 不同的；有差异的；各种的",
+    "status": "fixed"
+  },
+  {
+    "position": 4563,
+    "word": "difficult",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "律师的劝告帮助解决了这个难题",
+    "newMeaning": "adj. 困难的；难做的；难相处的",
+    "status": "fixed"
+  },
+  {
+    "position": 4568,
+    "word": "dirt",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 污物，污垢谈论，演说演讲，谈论",
+    "newMeaning": "n. 污物；污垢；泥土；下流话",
+    "status": "fixed"
+  },
+  {
+    "position": 4596,
+    "word": "enemy",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "把握，控制；汽车、机器等的离合器",
+    "newMeaning": "n. 敌人；敌军；危害物",
+    "status": "fixed"
+  },
+  {
+    "position": 4598,
+    "word": "enough",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "要求；声称；主张",
+    "newMeaning": "adj./pron. 足够的；adv. 足够地；相当地",
+    "status": "fixed"
+  },
+  {
+    "position": 4601,
+    "word": "exam/examination",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "考试，检查考生主考人，检查员实例，例证；典范",
+    "newMeaning": "n. 考试；检查；审查",
+    "status": "fixed"
+  },
+  {
+    "position": 4623,
+    "word": "found",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 秘密的；把某人关在房间里作私人会晤",
+    "newMeaning": "v. 建立；创办；创立",
+    "status": "fixed"
+  },
+  {
+    "position": 4628,
+    "word": "full",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～通篇缠绵伤感的爱情小说",
+    "newMeaning": "adj. 满的；充满的；完整的；吃饱的",
+    "status": "fixed"
+  },
+  {
+    "position": 4648,
+    "word": "gulf",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 阵阵乌云乘着越来越猛的风势从海湾席卷而来。；造成不愉快或不明朗的事情；阴沉，朦胧；晴朗的",
+    "newMeaning": "n. 海湾；鸿沟；分歧；深渊",
+    "status": "fixed"
+  },
+  {
+    "position": 4660,
+    "word": "hide",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 最成功的君主国极力摒弃或隐藏他们昔日的贵族生活方式",
+    "newMeaning": "v. 隐藏；隐瞒；躲藏；n. 兽皮",
+    "status": "fixed"
+  },
+  {
+    "position": 4668,
+    "word": "hospital",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "在医院的那一场面十分感人。",
+    "newMeaning": "n. 医院",
+    "status": "fixed"
+  },
+  {
+    "position": 4669,
+    "word": "hot",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 奢侈地享受一下泡在浴缸里洗上半天热水澡的美滋味",
+    "newMeaning": "adj. 热的；辣的；激烈的；热门的",
+    "status": "fixed"
+  },
+  {
+    "position": 4673,
+    "word": "hurry",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "匆忙中她把鸡蛋掉在了地上。一",
+    "newMeaning": "n./v. 匆忙；赶紧；催促",
+    "status": "fixed"
+  },
+  {
+    "position": 4674,
+    "word": "hurt",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "直截了当地攻击和含沙射影的攻击都很伤人。",
+    "newMeaning": "v. 使受伤；伤害；疼痛；n. 伤害；痛苦；adj. 受伤的",
+    "status": "fixed"
+  },
+  {
+    "position": 4685,
+    "word": "instead",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "混凝土；用混凝土修筑，浇混凝土",
+    "newMeaning": "adv. 代替；反而；却",
+    "status": "fixed"
+  },
+  {
+    "position": 4725,
+    "word": "luggage",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 在飞机上你得付超重的行李费",
+    "newMeaning": "n. 行李",
+    "status": "fixed"
+  },
+  {
+    "position": 4751,
+    "word": "noisy",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 吵闹的，喧闹的",
+    "newMeaning": "adj. 吵闹的；喧闹的",
+    "status": "fixed"
+  },
+  {
+    "position": 4801,
+    "word": "plane",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "八名航空公司职员在空难中遇难。；人事部门",
+    "newMeaning": "n. 飞机；平面；水平；刨子；v. 刨平；滑翔",
+    "status": "fixed"
+  },
+  {
+    "position": 4803,
+    "word": "pleasant",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "同你母亲在一起令人非常愉快。",
+    "newMeaning": "adj. 令人愉快的；舒适的；和蔼的",
+    "status": "fixed"
+  },
+  {
+    "position": 4805,
+    "word": "poem",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 诗诗人",
+    "newMeaning": "n. 诗；韵文",
+    "status": "fixed"
+  },
+  {
+    "position": 4808,
+    "word": "population",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "调查南方各省的人口增长情况；测量，测绘，勘测；俯视，眺望；纵览；全面考察，总体研究，审视",
+    "newMeaning": "n. 人口；全体居民；种群",
+    "status": "fixed"
+  },
+  {
+    "position": 4815,
+    "word": "president",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "尊敬，给以荣誉",
+    "newMeaning": "n. 总统；主席；校长；总裁",
+    "status": "fixed"
+  },
+  {
+    "position": 4817,
+    "word": "price",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "股价由每股便士猛降到便士。；劈，砍，剁",
+    "newMeaning": "n. 价格；代价；v. 给……定价",
+    "status": "fixed"
+  },
+  {
+    "position": 4821,
+    "word": "prison",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～由犯罪而入狱，入狱而失业，失业而犯罪。这是个恶性循环",
+    "newMeaning": "n. 监狱；牢狱；禁锢",
+    "status": "fixed"
+  },
+  {
+    "position": 4823,
+    "word": "professor",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "取得如此大的成绩，那位教授应受到称赞。",
+    "newMeaning": "n. 教授；教师",
+    "status": "fixed"
+  },
+  {
+    "position": 4840,
+    "word": "real",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "～他最后的那部影片一塌糊涂。",
+    "newMeaning": "adj. 真实的；实际的；真正的；adv. 很；非常",
+    "status": "fixed"
+  },
+  {
+    "position": 4848,
+    "word": "ring",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 闪光，灿烂的光辉",
+    "newMeaning": "n. 戒指；环；铃声；v. 按铃；鸣响；打电话",
+    "status": "fixed"
+  },
+  {
+    "position": 4856,
+    "word": "seldom",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. ～通常情况是，人们在极其愤怒的状态中很少有理智的举动",
+    "newMeaning": "adv. 很少；不常",
+    "status": "fixed"
+  },
+  {
+    "position": 4860,
+    "word": "short",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "英国的新规定提醒银行家，社会不仅对他们的短期业绩有兴趣，而且对他们的长期业",
+    "newMeaning": "adj. 短的；矮的；不足的；adv. 短暂地；突然地",
+    "status": "fixed"
+  },
+  {
+    "position": 4866,
+    "word": "slow",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "乌龟以非常慢的速度向前爬行。；植物蔓延",
+    "newMeaning": "adj. 慢的；迟缓的；adv. 缓慢地；v. 减速",
+    "status": "fixed"
+  },
+  {
+    "position": 4874,
+    "word": "soldier",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "受伤的士兵疼得大叫。；打电话；把叫做，称呼，称为",
+    "newMeaning": "n. 士兵；军人",
+    "status": "fixed"
+  },
+  {
+    "position": 4875,
+    "word": "solitary",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "v. 那个孤独的老头被怀疑与犯罪事件有关",
+    "newMeaning": "adj. 单独的；孤独的；n. 独居者",
+    "status": "fixed"
+  },
+  {
+    "position": 4876,
+    "word": "soon",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "交战的各国将很快签订和平条约",
+    "newMeaning": "adv. 不久；很快；早",
+    "status": "fixed"
+  },
+  {
+    "position": 4879,
+    "word": "southeast",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "狂怒的暴风雨席卷了日本东南沿海地区，使死难者达人",
+    "newMeaning": "n. 东南；adj. 东南的；adv. 向东南",
+    "status": "fixed"
+  },
+  {
+    "position": 4955,
+    "word": "volt",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 伏特",
+    "newMeaning": "n. 伏特",
+    "status": "fixed"
+  },
+  {
+    "position": 4960,
+    "word": "wedding",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 在西方，女子在结婚时按传统穿的是白色的婚纱",
+    "newMeaning": "n. 婚礼；结婚庆典；adj. 婚礼的",
+    "status": "fixed"
+  },
+  {
+    "position": 4961,
+    "word": "west",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 环节，联系",
+    "newMeaning": "n. 西；西方；adj. 西方的；adv. 向西",
+    "status": "fixed"
+  },
+  {
+    "position": 4967,
+    "word": "white",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 在图画中的天使通常是穿白衣，生有翅膀",
+    "newMeaning": "adj. 白色的；白皙的；n. 白色；白色物",
+    "status": "fixed"
+  },
+  {
+    "position": 4987,
+    "word": "adorn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 装饰，使生色",
+    "newMeaning": "v. 装饰；使生色",
+    "status": "fixed"
+  },
+  {
+    "position": 5032,
+    "word": "avalanche",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 雪崩；山崩",
+    "newMeaning": "n. 雪崩；山崩；大量涌入；v. 雪崩般涌来",
+    "status": "fixed"
+  },
+  {
+    "position": 5044,
+    "word": "biological",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 研究表明人的攻击性部分是受生物因素影响的",
+    "newMeaning": "adj. 生物的；生物学的；亲生的",
+    "status": "fixed"
+  },
+  {
+    "position": 5138,
+    "word": "cultural",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 中国有丰富的历史和文化遗产。；传统",
+    "newMeaning": "adj. 文化的；文明的；教养的",
+    "status": "fixed"
+  },
+  {
+    "position": 5151,
+    "word": "decoration",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "n. 坐标值",
+    "newMeaning": "n. 装饰；装饰品；勋章",
+    "status": "fixed"
+  },
+  {
+    "position": 5190,
+    "word": "economist",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "adj. 诺贝尔经济学奖获得者米尔顿弗里德曼曾写道，企业有且只有一种责任，即为增加利润而运用资源，开展活动",
+    "newMeaning": "n. 经济学家",
+    "status": "fixed"
+  },
+  {
+    "position": 5293,
+    "word": "idealize/idealise",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "v. 将视为理想，将理想化；懒惰地，空闲地",
+    "newMeaning": "v. 把……视为理想；使理想化",
+    "status": "fixed"
+  },
+  {
+    "position": 5298,
+    "word": "impend",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "v. 即将发生；正在逼近电冲击，影响；侵犯，侵占骑",
+    "newMeaning": "v. 即将发生；逼近",
+    "status": "fixed"
+  },
+  {
+    "position": 5308,
+    "word": "inborn",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 天生的，天赋的",
+    "newMeaning": "adj. 天生的；天赋的",
+    "status": "fixed"
+  },
+  {
+    "position": 5310,
+    "word": "inclement",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 恶劣的指寒冷的、潮湿的等",
+    "newMeaning": "adj. 恶劣的；严酷的",
+    "status": "fixed"
+  },
+  {
+    "position": 5327,
+    "word": "infirm",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 身体上虚弱的，心理上脆弱的",
+    "newMeaning": "adj. 虚弱的；不坚定的；不稳固的",
+    "status": "fixed"
+  },
+  {
+    "position": 5332,
+    "word": "infuse",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 注人某种特性泡茶泡制草药",
+    "newMeaning": "v. 注入；灌输；泡制",
+    "status": "fixed"
+  },
+  {
+    "position": 5366,
+    "word": "invalidate",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 证明错误，使站不住脚，使无效，使作废",
+    "newMeaning": "v. 证明错误；使无效；使作废",
+    "status": "fixed"
+  },
+  {
+    "position": 5379,
+    "word": "judiciary",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "司法部，司法系统立法机关",
+    "newMeaning": "n. 司法机关；司法系统；全体法官",
+    "status": "fixed"
+  },
+  {
+    "position": 5387,
+    "word": "landmark",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "前面有一个显著的路标",
+    "newMeaning": "n. 地标；路标；里程碑",
+    "status": "fixed"
+  },
+  {
+    "position": 5447,
+    "word": "minimal",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 极小的；极少的；最小的守极简派风格的极简抽象派艺术家；简约主义者处采矿；采矿业",
+    "newMeaning": "adj. 极小的；极少的；最低限度的",
+    "status": "fixed"
+  },
+  {
+    "position": 5499,
+    "word": "obscene",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 淫秽的；猥亵的；下流的；骇人听闻的",
+    "newMeaning": "adj. 淫秽的；猥亵的；下流的；骇人听闻的",
+    "status": "fixed"
+  },
+  {
+    "position": 5501,
+    "word": "observer",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 观测者，观察员",
+    "newMeaning": "n. 观察者；观测者；观察员",
+    "status": "fixed"
+  },
+  {
+    "position": 5551,
+    "word": "peacock",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 孔雀，好炫耀的人炫耀，神气活现地行走教育学，教授法，教学工作",
+    "newMeaning": "n. 孔雀；爱炫耀的人；v. 炫耀",
+    "status": "fixed"
+  },
+  {
+    "position": 5561,
+    "word": "persistence",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "不难，无以知君子。荀况",
+    "newMeaning": "n. 坚持；锲而不舍；持续存在",
+    "status": "fixed"
+  },
+  {
+    "position": 5579,
+    "word": "polymer",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 聚合物，聚合体人口众多的，人口稠密的",
+    "newMeaning": "n. 聚合物；聚合体",
+    "status": "fixed"
+  },
+  {
+    "position": 5595,
+    "word": "primarily",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adv. 主要地，根本地打印机；印刷商，印刷工人；印刷公司，印刷厂",
+    "newMeaning": "adv. 主要地；根本地",
+    "status": "fixed"
+  },
+  {
+    "position": 5604,
+    "word": "projection",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 预测，推断，设想；投射，放映，投影增殖，激增",
+    "newMeaning": "n. 预测；推断；投射；放映；投影",
+    "status": "fixed"
+  },
+  {
+    "position": 5612,
+    "word": "psychologist",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "眼神交流和微笑可以表明你的可交流性和信任，这一常识得到了心理学家莫妮卡摩尔的研究的支持",
+    "newMeaning": "n. 心理学家",
+    "status": "fixed"
+  },
+  {
+    "position": 5644,
+    "word": "replicate",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 复制，重做，复现；再生，再造复",
+    "newMeaning": "v. 复制；重做；复现；再生",
+    "status": "fixed"
+  },
+  {
+    "position": 5645,
+    "word": "retrofit",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 式样翻新式样翻新计更新；改进的修订，校订，修正；复习，温习",
+    "newMeaning": "n./v. 式样翻新；更新；改进",
+    "status": "fixed"
+  },
+  {
+    "position": 5648,
+    "word": "richness",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 丰富；富饶；浓烈徒公正的，正直的，正当的",
+    "newMeaning": "n. 丰富；富饶；浓烈",
+    "status": "fixed"
+  },
+  {
+    "position": 5653,
+    "word": "rotunda",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 有圆顶的圆形建筑；圆形大厅准碎石；碎砖",
+    "newMeaning": "n. 圆形大厅；有圆顶的圆形建筑",
+    "status": "fixed"
+  },
+  {
+    "position": 5655,
+    "word": "rut",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 车辙，槽，凹痕；常规，老规矩漫圣人；智者；贤人；鼠尾草睿智的；明智的",
+    "newMeaning": "n. 车辙；槽；凹痕；常规；老规矩",
+    "status": "fixed"
+  },
+  {
+    "position": 5657,
+    "word": "savanna/savannah",
+    "category": "词性标注错误",
+    "oldMeaning": "v. 常指非洲的稀树草原",
+    "newMeaning": "n. 稀树草原",
+    "status": "fixed"
+  },
+  {
+    "position": 5663,
+    "word": "sea-pink",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 海石竹灼热的；强烈的；猛烈批评的",
+    "newMeaning": "n. 海石竹",
+    "status": "fixed"
+  },
+  {
+    "position": 5667,
+    "word": "self-help",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 自助的自救的到利己主义的，自私的",
+    "newMeaning": "adj. 自助的；自救的；n. 自助；自救",
+    "status": "fixed"
+  },
+  {
+    "position": 5668,
+    "word": "sensational",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 引起轰动的；哗众取宠的；极好的；绝妙的酷体贴，体谅；悟性；敏感性",
+    "newMeaning": "adj. 引起轰动的；哗众取宠的；极好的",
+    "status": "fixed"
+  },
+  {
+    "position": 5672,
+    "word": "sermon",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "n. 布道，说教；令人生厌的冗长讲话复性行为的，性的；性别的；生殖的；有性繁殖的",
+    "newMeaning": "n. 布道；说教；冗长的训话",
+    "status": "fixed"
+  },
+  {
+    "position": 5680,
+    "word": "skint",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 身无分文的，穷光蛋的船长；队长；机长当的队长或船长、机长",
+    "newMeaning": "adj. 身无分文的；穷困的",
+    "status": "fixed"
+  },
+  {
+    "position": 5707,
+    "word": "standing",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "前部",
+    "newMeaning": "n. 地位；名望；资格；adj. 长期的；常设的；直立的",
+    "status": "fixed"
+  },
+  {
+    "position": 5708,
+    "word": "steadfast",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 坚定的；不动摇的较模板；模板绘制或印刷的文字或图案用模板印刷成速记员",
+    "newMeaning": "adj. 坚定的；不动摇的",
+    "status": "fixed"
+  },
+  {
+    "position": 5719,
+    "word": "stuck",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "医生给他扎针。；粘住，粘贴；尤指迅速或随手放置",
+    "newMeaning": "adj. 卡住的；动弹不得的；陷入困境的；stick 的过去式和过去分词",
+    "status": "fixed"
+  },
+  {
+    "position": 5779,
+    "word": "unaffordable",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 买不起的，负担不起的夯",
+    "newMeaning": "adj. 买不起的；负担不起的",
+    "status": "fixed"
+  },
+  {
+    "position": 5780,
+    "word": "unattractive",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 不悦目的，不漂亮的，难看税的；不好的，无趣的，令人反感的",
+    "newMeaning": "adj. 不悦目的；不漂亮的；无趣的；令人反感的",
+    "status": "fixed"
+  },
+  {
+    "position": 5782,
+    "word": "unbiased",
+    "category": "词性标注错误",
+    "oldMeaning": "n. 公正的，不偏不倚的，无偏见的",
+    "newMeaning": "adj. 公正的；不偏不倚的；无偏见的",
+    "status": "fixed"
+  },
+  {
+    "position": 5784,
+    "word": "uncertain",
+    "category": "确定错配/严重污染",
+    "oldMeaning": "越过，穿过；交叉，相交",
+    "newMeaning": "adj. 不确定的；无把握的；多变的",
+    "status": "fixed"
+  },
+  {
+    "position": 5785,
+    "word": "uncharted",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 人迹罕至的，无人涉足的，陌生的；地图上未绘出或未标明的理肮脏的，不洁净的",
+    "newMeaning": "adj. 地图上未标明的；人迹罕至的；陌生的",
+    "status": "fixed"
+  },
+  {
+    "position": 5797,
+    "word": "unfocused",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 漫不经心的，目的不明确的，组织不严密的，松散的音",
+    "newMeaning": "adj. 漫不经心的；目的不明确的；松散的",
+    "status": "fixed"
+  },
+  {
+    "position": 5801,
+    "word": "unintentional",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "adj. 无意的，偶然的细",
+    "newMeaning": "adj. 无意的；非故意的；偶然的",
+    "status": "fixed"
+  },
+  {
+    "position": 5806,
+    "word": "unleash",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "v. 发泄；释放；使爆发为不自然的，反常的，勉强的、前所未有的，没有先例的",
+    "newMeaning": "v. 发泄；释放；使爆发",
+    "status": "fixed"
+  },
+  {
+    "position": 5827,
+    "word": "vault",
+    "category": "释义不完整/部分污染",
+    "oldMeaning": "v. 拱顶，窖，地下室，撑竿跳，穹窿做成圆拱形，撑竿跳过成穹状弯曲，跳跃最可怕的敌人，就是法罗曼",
+    "newMeaning": "n. 拱顶；地下室；撑竿跳；v. 跳跃；撑竿跳过；使成穹状",
+    "status": "fixed"
+  }
+]

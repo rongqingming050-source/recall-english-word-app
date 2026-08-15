@@ -1,0 +1,8589 @@
+{
+  "input": "E:\\workplace1\\English word app\\蒸馏\\output\\kaoyan_v1.json",
+  "totalWords": 5847,
+  "issueCount": 848,
+  "source": {
+    "path": "E:\\workplace1\\English word app\\蒸馏\\2027红宝书.pdf",
+    "available": true,
+    "pages": 440,
+    "note": "已打开原始 PDF；释义修复以 PDF 词条和相邻词条结构作核对"
+  },
+  "issues": [
+    {
+      "position": 9,
+      "word": "obscure",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 使变暗，遮蔽；使变模糊，混淆；【词义】；费解的，不分明的；不著名的，无名的"
+    },
+    {
+      "position": 16,
+      "word": "ideal",
+      "reasons": [
+        "网页/下载文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 理想的；完美的；n. 理想",
+      "currentMeaning": "公请登陆红宝书网站在《增值服务》栏下载"
+    },
+    {
+      "position": 21,
+      "word": "identity",
+      "reasons": [
+        "与相邻词 journal 的释义高度重复（0.98）",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 本身；本体；身份；身份特征；同一性",
+      "currentMeaning": "尤指某学科或专业的定期刊物，杂志，报纸；日志，日记"
+    },
+    {
+      "position": 22,
+      "word": "journal",
+      "reasons": [
+        "与相邻词 identity 的释义高度重复（0.98）"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 尤指某学科或专业的定期刊物，杂志，报纸；日志，日记"
+    },
+    {
+      "position": 40,
+      "word": "magnify",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 放大；扩大；夸大",
+      "currentMeaning": "n. 物体，实物；情感、思想和行动的对象，客体"
+    },
+    {
+      "position": 44,
+      "word": "major",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 较大的，较重要的；【词义】；专业，主修科；专业学生；少校"
+    },
+    {
+      "position": 57,
+      "word": "savage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 野蛮的，未开化的；凶恶的，残暴的；【词义】未开化的人，野蛮人"
+    },
+    {
+      "position": 93,
+      "word": "captive",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 被俘的，被监禁的；【词义】俘虏，囚徒，战俘"
+    },
+    {
+      "position": 94,
+      "word": "capture",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 俘虏，捕获；夺得，攻占；【词义】俘虏，捕获物"
+    },
+    {
+      "position": 104,
+      "word": "cause",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 导致，引起；【词义】；原因，起因；理由，缘故"
+    },
+    {
+      "position": 105,
+      "word": "caution",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 谨慎，慎重；警告；【词义】警告，提醒"
+    },
+    {
+      "position": 115,
+      "word": "decline",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "下降，减少；衰退，衰落；倾斜；【词义】；拒绝，谢绝"
+    },
+    {
+      "position": 126,
+      "word": "favourite",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 最喜欢的，中意的；【词义】最喜爱的人或物"
+    },
+    {
+      "position": 133,
+      "word": "sketch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "素描，速写；草图，略图；概述，纲要；【词义】；画素描，画速写；概述，简述"
+    },
+    {
+      "position": 143,
+      "word": "though",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "conj. 虽然，尽管；【词义】可是，然而"
+    },
+    {
+      "position": 165,
+      "word": "incline",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 使倾斜；倾向于；n. 斜坡",
+      "currentMeaning": "v. 【助记】向倾斜，弯曲词尾倾斜"
+    },
+    {
+      "position": 172,
+      "word": "accessory",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 附件，配件；附属物；从犯；【词义】附属的；辅助的"
+    },
+    {
+      "position": 181,
+      "word": "beneficial",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 有益的；有利的",
+      "currentMeaning": "adj. 【助记】好做形容词后缀做得"
+    },
+    {
+      "position": 186,
+      "word": "chance",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 机会；可能性；偶然性，运气；【词义】碰巧，偶然发生"
+    },
+    {
+      "position": 187,
+      "word": "change",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "改变，变化；零钱，找头；【词义】；交换，兑换；改变，变化"
+    },
+    {
+      "position": 191,
+      "word": "characteristic",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 特征；特性；adj. 特有的；独特的",
+      "currentMeaning": "n. 特征，特性；【词义】特有的，独特的；防御，防卫，保卫"
+    },
+    {
+      "position": 192,
+      "word": "defend",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 防御；保卫；为……辩护",
+      "currentMeaning": "n. 特有的，独特的；防御，防卫，保卫；为辩护，为答辩"
+    },
+    {
+      "position": 198,
+      "word": "delay",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "耽搁，延迟；【词义】耽搁，延迟"
+    },
+    {
+      "position": 199,
+      "word": "deliberate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 慎重的，深思熟虑的；蓄意的，故意的；【词义】仔细考虑，商议"
+    },
+    {
+      "position": 201,
+      "word": "deliver",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 递送；交付；发表；接生；解救",
+      "currentMeaning": "【助记】分离肝把心肝"
+    },
+    {
+      "position": 206,
+      "word": "fight",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "搏斗，打仗；【词义】战斗，斗志"
+    },
+    {
+      "position": 212,
+      "word": "firm",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 坚固的；坚决的，坚定的；【词义】公司，商号"
+    },
+    {
+      "position": 214,
+      "word": "fit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "使适合，使配合，适应；安装，装配；【词义】；适合的，恰当的"
+    },
+    {
+      "position": 221,
+      "word": "abnormal",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 不正常的；异常的",
+      "currentMeaning": "【助记】不标准形"
+    },
+    {
+      "position": 223,
+      "word": "balance",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "使平衡；【词义】；天平，秤；平衡，均衡"
+    },
+    {
+      "position": 230,
+      "word": "calm",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 天气、海洋等静的，平静的；镇静的，沉着的；【词义】平静，风平浪静"
+    },
+    {
+      "position": 235,
+      "word": "date",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "日期，年代；约会；【词义】；注明的日期"
+    },
+    {
+      "position": 239,
+      "word": "debate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "争论，辩论；【词义】争论，辩论"
+    },
+    {
+      "position": 265,
+      "word": "fairly",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 相当地；公平地；还算",
+      "currentMeaning": "adj. 一般的，普遍的；总的，大体的；【词义】将军缩"
+    },
+    {
+      "position": 267,
+      "word": "fan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 扇子，风扇；影、球等迷；【词义】扇，煽动，激起"
+    },
+    {
+      "position": 273,
+      "word": "gene",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 基因",
+      "currentMeaning": "【助记】音基因"
+    },
+    {
+      "position": 282,
+      "word": "shoulder",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "肩膀，肩部；【词义】肩负，承担"
+    },
+    {
+      "position": 292,
+      "word": "giant",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 巨人；【词义】巨大的"
+    },
+    {
+      "position": 296,
+      "word": "harm",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 伤害，损害，危害；【词义】伤害，损害，危害"
+    },
+    {
+      "position": 302,
+      "word": "ill",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 有病的；坏的，不利的；恶意的；【词义】不善良地，邪恶地"
+    },
+    {
+      "position": 307,
+      "word": "image",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 形象；肖像，影像，映像；【词义】反映"
+    },
+    {
+      "position": 322,
+      "word": "lever",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "杠杆；控制操纵杆，把手；工具；手段；【词义】；用杠杆撬；操纵，控制"
+    },
+    {
+      "position": 327,
+      "word": "manifest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 显然的，明了的；【词义】；显示，表明"
+    },
+    {
+      "position": 340,
+      "word": "offer",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "提供，提出；呈现，出现；【词义】提供；出价"
+    },
+    {
+      "position": 341,
+      "word": "offset",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "补偿，抵消；【词义】补偿，抵消"
+    },
+    {
+      "position": 356,
+      "word": "quick",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 迅速的，敏捷的；置于动词后，等于【词义】迅速地，快"
+    },
+    {
+      "position": 358,
+      "word": "quest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "寻求，寻找，探索；【词义】探索，寻找，追求幸福等"
+    },
+    {
+      "position": 362,
+      "word": "spare",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 多余的，剩下的；备用的，额外的；【词义】；节约，节省；抽出，让给"
+    },
+    {
+      "position": 364,
+      "word": "scheme",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "计划，策划；搞阴谋；【词义】；计划，方案"
+    },
+    {
+      "position": 368,
+      "word": "patch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "补丁，补片；碎片，碎屑；小块土地；【词义】；修补"
+    },
+    {
+      "position": 369,
+      "word": "patent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 专利，专利权，专利品；【词义】专利的，特许的；受专利保护的"
+    },
+    {
+      "position": 371,
+      "word": "pay",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "支付，付出；给予注意进行访问等；【词义】工资，薪金"
+    },
+    {
+      "position": 374,
+      "word": "peer",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "身份或地位相同的人，同辈；英国贵族；【词义】仔细看，凝视，窥视"
+    },
+    {
+      "position": 380,
+      "word": "railroad/railway",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 铁路～筑新铁路【词性】；【词义】由铁路运输；使议案等草草通过"
+    },
+    {
+      "position": 382,
+      "word": "rally",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "集合；团结；恢复健康等重新振作；【词义】；群众集会，群众大会"
+    },
+    {
+      "position": 392,
+      "word": "maximum",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 最大值，极限；【词义】最大的，最高的，最强的"
+    },
+    {
+      "position": 393,
+      "word": "mean",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 表示的意思，意指；意欲，打算；【词义】；卑鄙的"
+    },
+    {
+      "position": 394,
+      "word": "meaning",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 意义，意思，含义；【词义】有意义的，意味深长的"
+    },
+    {
+      "position": 396,
+      "word": "meantime",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 其间，其时；【词义】同时，其间"
+    },
+    {
+      "position": 397,
+      "word": "meanwhile",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 其间，其时；【词义】同时，当时"
+    },
+    {
+      "position": 398,
+      "word": "measure",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "量，测量；【词义】；程度，地步；常措施，办法"
+    },
+    {
+      "position": 399,
+      "word": "opening",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 口子，孔；开始，开端；空缺，机会；【词义】开始的，开幕的"
+    },
+    {
+      "position": 409,
+      "word": "opposite",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 相反的，对立的；对面的；【词义】对立面，对立物；【词义】在对面"
+    },
+    {
+      "position": 424,
+      "word": "throughout",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "prep. 遍及，贯穿；【词义】到处，全部，始终"
+    },
+    {
+      "position": 430,
+      "word": "utilize",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 利用",
+      "currentMeaning": "n. 利用"
+    },
+    {
+      "position": 443,
+      "word": "target",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 目标，对象，靶子；【词义】把作为目标"
+    },
+    {
+      "position": 444,
+      "word": "taste",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 品尝，辨味；体验，感到；【词义】；滋味，味觉"
+    },
+    {
+      "position": 460,
+      "word": "terminal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 终点站；终端，终端机；电路的端子，线接头；【词义】；患绝症的，晚期的；不治的，致命的；不可救药的；无可挽回的；末端的，末梢的"
+    },
+    {
+      "position": 463,
+      "word": "trace",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 痕迹，踪迹；微量，少许；【词义】；追踪，跟踪；查出，找到"
+    },
+    {
+      "position": 464,
+      "word": "track",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 足迹，踪迹；小道，小径；【词义】跟踪，追踪"
+    },
+    {
+      "position": 473,
+      "word": "understanding",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 理解，理解力，谅解；【词义】了解的，通情达理的"
+    },
+    {
+      "position": 483,
+      "word": "unlike",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 不同的，不相似的；～这两个人的气质不同。【词性】；【词义】不像，和不同"
+    },
+    {
+      "position": 489,
+      "word": "valuable",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 贵重的，有价值的；【词义】贵重物品，财宝"
+    },
+    {
+      "position": 492,
+      "word": "variable",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 易变的，可变的，变量的；【词义】可变因素；变数"
+    },
+    {
+      "position": 499,
+      "word": "wage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 工资，报酬；【词义】进行，从事，开展"
+    },
+    {
+      "position": 501,
+      "word": "want",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "想要，希望；需要，短缺，缺少；【词义】短缺，缺少，必需品"
+    },
+    {
+      "position": 523,
+      "word": "aggregate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 总数，合计；【词义】只用于名词前总数的，总计的；【词义】常用被动态总计，合计"
+    },
+    {
+      "position": 527,
+      "word": "aid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "援助，帮助；【词义】；援助，救济；助手；辅助物，辅助设备"
+    },
+    {
+      "position": 544,
+      "word": "competition",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 竞争；比赛；竞争者",
+      "currentMeaning": "adv. ～失业严重，求职的竞争十分激烈。【派生】；凶猛地，强烈地；凶猛，强烈"
+    },
+    {
+      "position": 550,
+      "word": "complement",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 补充，补足；【词义】；补足物；余数；补语"
+    },
+    {
+      "position": 551,
+      "word": "complete",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 完成，结束；【词义】；完全的，完整的；彻底的"
+    },
+    {
+      "position": 556,
+      "word": "compliment",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "问候，致意；称赞，恭维～这是我听到过的最为令人愉快的称赞。【词性】；【词义】称赞，恭维"
+    },
+    {
+      "position": 561,
+      "word": "emphasize",
+      "reasons": [
+        "提取残留标签",
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 强调；着重",
+      "currentMeaning": "n. 强调，重点～他们提出了一项新的经济政策，更加强调降低通货膨胀。【词义】强调"
+    },
+    {
+      "position": 569,
+      "word": "end",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "端，梢；末端，结束；【词义】终止，结束"
+    },
+    {
+      "position": 570,
+      "word": "endeavour",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "努力，尽力；【词义】努力，尽力；～请尽量早一点来。辨析；正式用语，意为努力、尽力后接指为"
+    },
+    {
+      "position": 577,
+      "word": "outside",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "外部，外表；周围，外围；【词义】；在外面的，向外的；不相关，可能性极小的；～他们的胜算极小。"
+    },
+    {
+      "position": 578,
+      "word": "outward",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 向外，在外；【词义】向外的；外面的，外表的"
+    },
+    {
+      "position": 580,
+      "word": "specialist",
+      "reasons": [
+        "与相邻词 specialize 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 专家"
+    },
+    {
+      "position": 581,
+      "word": "specialize",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "与相邻词 specialist 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 专攻；专门研究；专注于；以……闻名",
+      "currentMeaning": "n. 专家"
+    },
+    {
+      "position": 582,
+      "word": "specialty",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 特产；专长；专业",
+      "currentMeaning": "n. 专攻，专门研究；专注于；以闻名"
+    },
+    {
+      "position": 588,
+      "word": "acclaim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "喝彩，欢呼；尤指对艺术成就的称誉，高度评价；【词义】称赞，赞扬"
+    },
+    {
+      "position": 602,
+      "word": "chase",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "追逐，追求；【词义】追逐，追求"
+    },
+    {
+      "position": 603,
+      "word": "demand",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 要求；查问；【词义】要求，请求"
+    },
+    {
+      "position": 613,
+      "word": "dependent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 依靠的，依赖的；取决于的；【词义】受扶养者"
+    },
+    {
+      "position": 620,
+      "word": "fear",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "害怕，畏惧；【词义】害怕，担心"
+    },
+    {
+      "position": 632,
+      "word": "government",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 政府；内阁；统治；管理",
+      "currentMeaning": "v. 政府，内阁；国家等的统治，管理，支配；政治，政体"
+    },
+    {
+      "position": 651,
+      "word": "likely",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 很可能的，有希望的；【词义】大概，多半"
+    },
+    {
+      "position": 662,
+      "word": "border",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "边界，边境，边沿；【词义】邻接，毗邻"
+    },
+    {
+      "position": 682,
+      "word": "fold",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "折叠；【词义】褶，褶痕"
+    },
+    {
+      "position": 686,
+      "word": "force",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 力量；力；势力；军队；兵力",
+      "currentMeaning": "adj. 接着的，下列的；力量，力；势力；军队；兵力"
+    },
+    {
+      "position": 688,
+      "word": "forecast",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "预测，预报；【词义】预测，预报"
+    },
+    {
+      "position": 690,
+      "word": "forge",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "锻造，打铁；伪造，仿造，编造；稳步前进，缓缓推进；【词义】锻造车间，锻铁炉，铁匠铺"
+    },
+    {
+      "position": 702,
+      "word": "incorporate",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 包含；合并；把……纳入",
+      "currentMeaning": "v. 【助记】在里面团体动词后缀，使"
+    },
+    {
+      "position": 703,
+      "word": "increase",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 增加，增长，增进；【词义】增加，增长"
+    },
+    {
+      "position": 711,
+      "word": "literature",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 文学，文学作品，文献～这门学科的文献极为丰富。【词义】备忘录"
+    },
+    {
+      "position": 712,
+      "word": "memo",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 备忘录；便笺",
+      "currentMeaning": "n. 文学，文学作品，文献～这门学科的文献极为丰富。【词义】备忘录；【词义】纪念物，纪念碑，纪念馆"
+    },
+    {
+      "position": 713,
+      "word": "memorial",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 纪念物；纪念碑；纪念馆",
+      "currentMeaning": "adj. 追悼的，纪念的；【词义】纪念物，纪念碑，纪念馆"
+    },
+    {
+      "position": 719,
+      "word": "otherwise",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "conj. 要不然，否则；【词义】；不同地；用别的方法"
+    },
+    {
+      "position": 733,
+      "word": "addict",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 使沉溺，使上瘾；【词义】有瘾的人"
+    },
+    {
+      "position": 746,
+      "word": "adult",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 成年人的，成熟的；【词义】成年人"
+    },
+    {
+      "position": 747,
+      "word": "brace",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "托架，支架；【词义】；支撑，加固；使绷紧"
+    },
+    {
+      "position": 758,
+      "word": "vice",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 不道德行为，恶习；～忘恩负义是可鄙的不道德行为。；台钳，老虎钳；【词义】副的"
+    },
+    {
+      "position": 759,
+      "word": "vicious",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 邪恶的；恶毒的；凶残的；堕落的",
+      "currentMeaning": "vi. 邪恶的，恶毒的，凶残的，堕落的"
+    },
+    {
+      "position": 761,
+      "word": "click",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 咔嗒声；【词义】；发出咔嗒声；很快成为好朋友；为某人所喜爱；突然明白或理解"
+    },
+    {
+      "position": 772,
+      "word": "format",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 设计，安排，样式；【词义】使格式化"
+    },
+    {
+      "position": 780,
+      "word": "guide",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 导游，向导，指导者；指南；入门；手册；路标；【词义】指引，指导"
+    },
+    {
+      "position": 792,
+      "word": "sell",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "出让，转让；出售，售卖；【词义】让人失望的东西"
+    },
+    {
+      "position": 796,
+      "word": "smell",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 气味，臭味；嗅觉；【词义】；嗅，闻到；有某种气味"
+    },
+    {
+      "position": 808,
+      "word": "detail",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "细节，详情；【词义】详述"
+    },
+    {
+      "position": 812,
+      "word": "sort",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "种类，类别；【词义】分类，整理"
+    },
+    {
+      "position": 830,
+      "word": "breach",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "在防御工事等上十缺口；违反，违背；【词义】；违反法规议、职责等"
+    },
+    {
+      "position": 831,
+      "word": "break",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "打断，中止；休息时间；【词义】；打破，折断，弄坏；使中止，打断"
+    },
+    {
+      "position": 837,
+      "word": "colleague",
+      "reasons": [
+        "题目/页眉文字"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 同事，同僚，同盟【助记】共同联盟同盟【真题例句】如果你不确定，那么就向值得你信任的朋友、同事、专业人士征求真诚的反馈。【年考研阅读】"
+    },
+    {
+      "position": 840,
+      "word": "collective",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 集体；【词义】集体的，共同的"
+    },
+    {
+      "position": 843,
+      "word": "combat",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "战斗，搏斗；【词义】战斗，搏斗"
+    },
+    {
+      "position": 847,
+      "word": "comment",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 评论，意见；【词义】发表意见，评论"
+    },
+    {
+      "position": 874,
+      "word": "plausible",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 似乎合理的；可信的",
+      "currentMeaning": "adj. 【助记】拍形容词后缀，能的能"
+    },
+    {
+      "position": 892,
+      "word": "design",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 设计，绘制；【词义】设计；图样"
+    },
+    {
+      "position": 895,
+      "word": "desire",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 希望，渴望；【词义】愿望，欲望，要求"
+    },
+    {
+      "position": 896,
+      "word": "flaw",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 缺点；缺陷；瑕疵",
+      "currentMeaning": "n. 【助记】法律往往是有缺陷的"
+    },
+    {
+      "position": 899,
+      "word": "flourish",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "流畅的曲线尤指书法或装饰方面的明显的大动作或手势以引起注意炫耀；【词义】；茂盛，繁荣，兴旺"
+    },
+    {
+      "position": 904,
+      "word": "hint",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "暗示；建议；线索，细微的迹象；【词义】暗示，示意"
+    },
+    {
+      "position": 909,
+      "word": "implement",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 实施；执行；贯彻；n. 工具；器具",
+      "currentMeaning": "vt. 实施，执行，贯彻"
+    },
+    {
+      "position": 922,
+      "word": "limit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "界限，限度，范围；【词义】限制，限定"
+    },
+    {
+      "position": 942,
+      "word": "serve",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 服务；提供；接待；服役",
+      "currentMeaning": "】【助记】履行职责需要勇气"
+    },
+    {
+      "position": 950,
+      "word": "several",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "pron. 几个，数个，一些；【词义】各自的；分别的"
+    },
+    {
+      "position": 952,
+      "word": "shape",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 形状，外形；体形，身段；尤指健康状况；种类；【词义】；使成形，塑造"
+    },
+    {
+      "position": 959,
+      "word": "toll",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 通行税费代价；损失；钟声；【词义】鸣钟特指宣布死亡"
+    },
+    {
+      "position": 965,
+      "word": "periodical",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 周期的，定期的；【词义】学术期刊，杂志；一般指大开本，有插图的杂志，内有小说、广"
+    },
+    {
+      "position": 977,
+      "word": "organism",
+      "reasons": [
+        "与相邻词 organization 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 生物体有机体；尤指微生物；有机组织，有机体系"
+    },
+    {
+      "position": 978,
+      "word": "organization",
+      "reasons": [
+        "与相邻词 organism 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 组织；机构；团体",
+      "currentMeaning": "n. 生物体有机体；尤指微生物；有机组织，有机体系"
+    },
+    {
+      "position": 980,
+      "word": "enhance",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 提高；增强；改善",
+      "currentMeaning": "vt. 提高价格、质量、吸引力等增加，增强"
+    },
+    {
+      "position": 989,
+      "word": "reach",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "抵达，到达；伸手，够到，触到；【词义】；能达到的范围"
+    },
+    {
+      "position": 993,
+      "word": "realize",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 意识到；认识到；实现",
+      "currentMeaning": "vt. 推荐；称赞；劝告，建议"
+    },
+    {
+      "position": 1002,
+      "word": "serial",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 连续的；连续广播的，连载的；顺序排列的；【词义】连载小说，连续电视；定期刊物"
+    },
+    {
+      "position": 1004,
+      "word": "serious",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 严肃的；认真的；严重的",
+      "currentMeaning": "n. ～由于他病得很重，所以不得不缺课。；缺乏，没有"
+    },
+    {
+      "position": 1017,
+      "word": "cheer",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "喝彩，欢呼；鼓舞，鼓励；【词义】喝彩声欢呼声"
+    },
+    {
+      "position": 1020,
+      "word": "chip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "打破；切削某物；【词义】土豆等的薄片；碎屑；集成电路块"
+    },
+    {
+      "position": 1024,
+      "word": "boast",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "自吹自擂，自夸的话；引以自豪的事物或原因；【词义】；自吹自擂，夸耀，吹嘘"
+    },
+    {
+      "position": 1027,
+      "word": "boost",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "往上推；增加，提高；【词义】增加；帮助，鼓励"
+    },
+    {
+      "position": 1054,
+      "word": "presently",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 一会儿；不久；现在；目前",
+      "currentMeaning": "v. 一会儿，不久；现在，目前"
+    },
+    {
+      "position": 1060,
+      "word": "presumably",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 推测起来；大概；据推测",
+      "currentMeaning": "v. 推测起来，大概；推测；假定，假设；认为，推定"
+    },
+    {
+      "position": 1070,
+      "word": "straight",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 直的，笔直的；整齐的，端正的；正直的；【词义】；直接地"
+    },
+    {
+      "position": 1084,
+      "word": "archive",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "档案，档案馆，档案室；【词义】把存档，把归档"
+    },
+    {
+      "position": 1091,
+      "word": "array",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 一系列；排列；数组；v. 排列；部署",
+      "currentMeaning": "【助记】加强光线强烈的光线射出显眼的"
+    },
+    {
+      "position": 1104,
+      "word": "considerable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 相当大的；可观的",
+      "currentMeaning": "n. 相当大多的，可观的"
+    },
+    {
+      "position": 1110,
+      "word": "exchange",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 交换，调换，兑换；交流，交易；【词义】；交换，互换，兑换"
+    },
+    {
+      "position": 1120,
+      "word": "trail",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "踪迹，痕迹；乡间小道；【词义】追踪，跟踪"
+    },
+    {
+      "position": 1122,
+      "word": "training",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "该课程的成功为雇员们的训练树立了榜样。；模式，样式；花样，图案；形状，方式，风格；【词性】"
+    },
+    {
+      "position": 1125,
+      "word": "viewpoint",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 观点；看法；角度",
+      "currentMeaning": "【助记】看，观看点观"
+    },
+    {
+      "position": 1144,
+      "word": "escape",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "逃跑，逃脱；【词义】；逃跑，逃脱；躲避，避免"
+    },
+    {
+      "position": 1150,
+      "word": "estimate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 估计，估价；【词义】估计，估价"
+    },
+    {
+      "position": 1152,
+      "word": "ethnic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 民族的，种族的；某文化群体的典型的；【词义】少数民族的成员，种族集团的成员"
+    },
+    {
+      "position": 1155,
+      "word": "industrialize",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 使工业化",
+      "currentMeaning": "n. 工业的，产业的"
+    },
+    {
+      "position": 1157,
+      "word": "inevitable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 不可避免的；必然发生的",
+      "currentMeaning": "n. 不可避免的，必然发生的"
+    },
+    {
+      "position": 1166,
+      "word": "negative",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 否定的，消极的；阴性的；【词义】；负数；摄影底片"
+    },
+    {
+      "position": 1172,
+      "word": "output",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 产出；输出；v. 输出",
+      "currentMeaning": "v. 【同义】；【反义】反证，证明为误【派生】"
+    },
+    {
+      "position": 1182,
+      "word": "precedent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 先例；【词义】在前的，在先的，优先的"
+    },
+    {
+      "position": 1187,
+      "word": "stress",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "压力，紧张；着重，强调；【词义】着重，强调"
+    },
+    {
+      "position": 1195,
+      "word": "remedy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 治疗，治疗法，药品；补救办法纠正办法；【词义】；医治，治疗；补救，纠正"
+    },
+    {
+      "position": 1203,
+      "word": "contest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 竞赛，比赛，控制权或权力的竞争，争夺；【词义】争夺，竞争，争论，就提出异议"
+    },
+    {
+      "position": 1207,
+      "word": "contrary",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 相反的，对抗的；好与人作对的；对方的；【词义】常作相反事物，反对，对立面"
+    },
+    {
+      "position": 1214,
+      "word": "division",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 分开；分割；分配；除法；部门",
+      "currentMeaning": "vi. 分开，分配"
+    },
+    {
+      "position": 1215,
+      "word": "document",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 公文，文件，文献，计算机文档；【词义】记录，记载详情"
+    },
+    {
+      "position": 1216,
+      "word": "documentary",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 文献的，文件的；记录的，纪实的；【词义】文献纪录片"
+    },
+    {
+      "position": 1218,
+      "word": "executive",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 实行的，执行的，行政的；【词义】；总经理，董事，高管，行政负责人；政府的行政部门"
+    },
+    {
+      "position": 1224,
+      "word": "exotic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 由外国引进的；吸引人的，漂亮的；珍奇的，奇异的；【词义】外来物，外来品种，外来语"
+    },
+    {
+      "position": 1241,
+      "word": "substitute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "代替者，代替物；【词义】代替，替换"
+    },
+    {
+      "position": 1250,
+      "word": "stick",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "棍，棒，拐杖；【词义】；刺，戳；插入"
+    },
+    {
+      "position": 1257,
+      "word": "influence",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "影响，感化；势力，权势；【词义】影响，感化"
+    },
+    {
+      "position": 1272,
+      "word": "connection",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 联系；连接；关系",
+      "currentMeaning": "v. 联系；连接"
+    },
+    {
+      "position": 1276,
+      "word": "continuous",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 连续的；持续的",
+      "currentMeaning": "n. 连续的，持续的"
+    },
+    {
+      "position": 1294,
+      "word": "modernization",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 现代化",
+      "currentMeaning": "adj. 现代的，近代的，新式的"
+    },
+    {
+      "position": 1296,
+      "word": "modify",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 修改；修饰；缓和；减轻",
+      "currentMeaning": "n. 修改；缓和，减轻；修饰"
+    },
+    {
+      "position": 1300,
+      "word": "preferable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 更可取的；更好的",
+      "currentMeaning": "adj. 【助记】喜爱形容词后缀让人喜爱的"
+    },
+    {
+      "position": 1305,
+      "word": "premise",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 前提；假定；营业场所",
+      "currentMeaning": "n. 前提；假定；营业场所；【词义】预先提出；以作为前提条件"
+    },
+    {
+      "position": 1316,
+      "word": "relative",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 亲戚，亲属；指亲属包括近亲和有法律地位的家庭成员。；指亲咸广泛地指代任何与你有亲戚关系的人。例如；远亲。【词性】"
+    },
+    {
+      "position": 1320,
+      "word": "overseas",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 外国的，海外的；【词义】在海外，在国外"
+    },
+    {
+      "position": 1322,
+      "word": "standard",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 品质的标准，水平，规格，规范；行为标准，道德水准；【词义】；普通的，正常的，标准的"
+    },
+    {
+      "position": 1328,
+      "word": "state",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "状态，情况；国，州；【词义】陈述，说明"
+    },
+    {
+      "position": 1336,
+      "word": "steady",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 稳的，牢固的，不摇晃的；坚定的，扎实的；【词义】使稳固，使稳定"
+    },
+    {
+      "position": 1338,
+      "word": "stem",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "茎，干；词干；【词义】；制止，阻止，遏制；起源于某事物"
+    },
+    {
+      "position": 1339,
+      "word": "step",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 步，脚步；台阶，梯阶；步骤，措施～你必须采取一切措施降低开支。【词性】【词义】踏，走，举步"
+    },
+    {
+      "position": 1348,
+      "word": "assault",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "攻击，袭击；【词义】攻击，袭击；语气比强，指突然猛烈地进攻暗示"
+    },
+    {
+      "position": 1361,
+      "word": "conduct",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 行为，举止，品行；【词义】；引导，带领；处理，管理"
+    },
+    {
+      "position": 1373,
+      "word": "household",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 户，家庭，全家人；【词义】家庭的"
+    },
+    {
+      "position": 1376,
+      "word": "narrative",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 叙述性的；擅长叙事的作家【词性】；【词义】叙述"
+    },
+    {
+      "position": 1382,
+      "word": "native",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 本地的，本国的；天生的；【词义】本地人，本国人"
+    },
+    {
+      "position": 1385,
+      "word": "overall",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 全面的，综合的，总体的；【词义】常套头工作服，工装裤"
+    },
+    {
+      "position": 1387,
+      "word": "overlap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 重叠，部分重叠；【词义】重叠，重叠部分"
+    },
+    {
+      "position": 1388,
+      "word": "portion",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 一部分，食物的一份；【词义】把分成若干份或部分分配"
+    },
+    {
+      "position": 1393,
+      "word": "console",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 安慰，抚慰，慰问某人；【词义】机器、电子设备等的控制台，仪表板"
+    },
+    {
+      "position": 1397,
+      "word": "constituent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 成分，要素；选民，选举人；【词义】构成的，组成的"
+    },
+    {
+      "position": 1409,
+      "word": "fund",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "资金，基金；储备，蕴藏；【词义】为提供资金，资助"
+    },
+    {
+      "position": 1413,
+      "word": "evil",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 邪恶的，罪恶的，道德败坏的；坏的；讨厌的；【词义】邪恶，罪恶，罪行祸害"
+    },
+    {
+      "position": 1415,
+      "word": "enterprise",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 企业；事业；进取心",
+      "currentMeaning": "n. 【助记】进入，着手抓住着手抓住事业进"
+    },
+    {
+      "position": 1423,
+      "word": "transplant",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 移植；移植物；v. 移植",
+      "currentMeaning": "【助记】转移种植转"
+    },
+    {
+      "position": 1428,
+      "word": "stride",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 阔步前进，大踏步走；【词义】；大步，跨步，阔步；快速的进展，发展，进步"
+    },
+    {
+      "position": 1437,
+      "word": "principal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 最重要的，主要的；【词义】；负责人，校长；资本，本金"
+    },
+    {
+      "position": 1445,
+      "word": "license",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 许可证；执照；v. 准许；许可",
+      "currentMeaning": "n. 解放，释放，使自由"
+    },
+    {
+      "position": 1450,
+      "word": "annual",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 每年的，年度的，一年一次的；全年的；【词义】；年报，年刊，年鉴"
+    },
+    {
+      "position": 1451,
+      "word": "anchor",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 锚；精神支柱，靠山，给人以安全感的人或物；【词义】；抛锚，停留"
+    },
+    {
+      "position": 1455,
+      "word": "possess",
+      "reasons": [
+        "与相邻词 possession 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 拥有；持有；具有",
+      "currentMeaning": "n. 持有，拥有；所有权；财产，所有物"
+    },
+    {
+      "position": 1456,
+      "word": "possession",
+      "reasons": [
+        "与相邻词 possess 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 持有，拥有；所有权；财产，所有物"
+    },
+    {
+      "position": 1457,
+      "word": "dilute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 稀释，冲淡；削弱，使减色，降低；【词义】稀释的，冲淡了的，掺水的"
+    },
+    {
+      "position": 1458,
+      "word": "dim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 暗淡的；模糊的；愚笨的；不乐观的；【词义】；使变暗淡，变昏暗，变微弱；使感觉等变弱，变淡漠，失去光泽"
+    },
+    {
+      "position": 1465,
+      "word": "bubble",
+      "reasons": [
+        "与相邻词 budget 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 泡，水泡，气泡；比喻幻想的计划，无法实现的意念、希望等"
+    },
+    {
+      "position": 1466,
+      "word": "budget",
+      "reasons": [
+        "与相邻词 bubble 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 预算；v. 编预算；安排开支",
+      "currentMeaning": "n. 泡，水泡，气泡；比喻幻想的计划，无法实现的意念、希望等"
+    },
+    {
+      "position": 1467,
+      "word": "build",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "体形，体格，身材；结构；【词义】建造，建设，建立"
+    },
+    {
+      "position": 1468,
+      "word": "business",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 生意；商业；事务；企业",
+      "currentMeaning": "adj. 联合的，联盟的，合伙的；副的；非正式的"
+    },
+    {
+      "position": 1471,
+      "word": "compromise",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "妥协，折中；【词义】妥协，折中"
+    },
+    {
+      "position": 1476,
+      "word": "concern",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 关心，挂念；利害关系；【词义】；涉及，关系到"
+    },
+    {
+      "position": 1477,
+      "word": "concise",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 简明的；简洁的",
+      "currentMeaning": "n. 简明的，简洁的"
+    },
+    {
+      "position": 1479,
+      "word": "conclude",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 推断出；得出结论；结束",
+      "currentMeaning": "下级，晚辈"
+    },
+    {
+      "position": 1485,
+      "word": "epic",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 史诗；史诗般的作品；adj. 史诗的；宏大的",
+      "currentMeaning": "n. 史诗；史诗般的作品；壮举，惊人之举"
+    },
+    {
+      "position": 1486,
+      "word": "epidemic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 流行性的，传染的；【词义】流行病；泛滥，传播"
+    },
+    {
+      "position": 1494,
+      "word": "mess",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "混乱，困境；混杂；脏乱；【词义】弄脏，弄乱，搞糟"
+    },
+    {
+      "position": 1495,
+      "word": "message",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 通讯，消息，信息；启示，要旨，主题思想，离意；【词义】用电脑、手机等给发消息"
+    },
+    {
+      "position": 1511,
+      "word": "spur",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 刺激，激励，鞭策；靴刺，马刺；【词义】促进，激励，鞭策"
+    },
+    {
+      "position": 1512,
+      "word": "spy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "间谍，密探；【词义】；当间谍，刺探；搜集情报；察觉，发现"
+    },
+    {
+      "position": 1520,
+      "word": "tumble",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "跌倒，滚下；价格等暴跌，权利、地位等急剧下降；打滚，翻滚；【词义】；摔倒，跌跤"
+    },
+    {
+      "position": 1524,
+      "word": "type",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 型，类型，风格；铅字，字体，字型；【词义】；分型，定型，测定的类型"
+    },
+    {
+      "position": 1531,
+      "word": "author",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 作者，创始人；【词义】写作，撰写，编写"
+    },
+    {
+      "position": 1563,
+      "word": "noble",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 高贵的，贵族的；高尚的；【词义】常贵族"
+    },
+    {
+      "position": 1573,
+      "word": "result",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 结果，成果，成绩；【词义】；导致，结果是；起因于，因而造成"
+    },
+    {
+      "position": 1578,
+      "word": "revenge",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 报仇，复仇；【词义】报仇，复仇"
+    },
+    {
+      "position": 1580,
+      "word": "supply",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 供应，供给，满足愿望补足；【词义】供应，供应量"
+    },
+    {
+      "position": 1584,
+      "word": "supplement",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 增补，补充；增刊，副刊；【词义】增补，补充"
+    },
+    {
+      "position": 1604,
+      "word": "request",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "请求，要求；【词义】请求，要求"
+    },
+    {
+      "position": 1618,
+      "word": "control",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 控制，支配；限制，管制；【词义】控制，支配"
+    },
+    {
+      "position": 1629,
+      "word": "doubt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 怀疑；【词义】怀疑；往往指缺乏必要证据而怀疑某人某事的真实性。；通常指怀疑某人有罪或某事很糟，尽管证据不足，甚"
+    },
+    {
+      "position": 1648,
+      "word": "experience",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "经验经历；【词义】体验，经历"
+    },
+    {
+      "position": 1649,
+      "word": "experiment",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "试验；【词义】进行试验"
+    },
+    {
+      "position": 1654,
+      "word": "institute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "学会，协会，学院，研究院；【词义】；建立，设立，制定"
+    },
+    {
+      "position": 1665,
+      "word": "cut",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "切口，伤口；击，抽，削；【词义】；剪，切，割，砍，削"
+    },
+    {
+      "position": 1671,
+      "word": "aware",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 意识到的；知道的",
+      "currentMeaning": "n. ～人们越来越意识到保护野生动物的重要性。【同义】【反义】遗失，丧失，损失【典型考题】【试题分析】答案。译文"
+    },
+    {
+      "position": 1678,
+      "word": "issue",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 放出，流出；发行，发表，颁布；【词义】；问题，争论点，争端；发行物报刊期号"
+    },
+    {
+      "position": 1680,
+      "word": "overturn",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 使某人某物翻转，颠倒；推翻，颠覆；【词义】倾覆，破灭，垮台，革命，毁灭"
+    },
+    {
+      "position": 1693,
+      "word": "risk",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 冒的风险；【词义】冒险，风险"
+    },
+    {
+      "position": 1694,
+      "word": "rival",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 竞争者，对手，可以相比的人物；【词义】与竞争，与媲美，与四敌；对抗"
+    },
+    {
+      "position": 1696,
+      "word": "roll",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "滚动，滚落；卷，绕；使摇晃；【词义】；一卷，卷形物，面包卷"
+    },
+    {
+      "position": 1697,
+      "word": "root",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "根，根部；根本，根源；【词义】使生根，使扎根"
+    },
+    {
+      "position": 1698,
+      "word": "route",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 路线；路程；v. 按路线发送",
+      "currentMeaning": "adj. 值得做的"
+    },
+    {
+      "position": 1699,
+      "word": "routine",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 例行公事，常规；【词义】例行的，常规的"
+    },
+    {
+      "position": 1700,
+      "word": "row",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "一排，一行；划船；吵闹，争吵；【词义】；划船；吵闹，争吵"
+    },
+    {
+      "position": 1701,
+      "word": "rule",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "统治，控制；支配；裁决，裁定；【词义】；规章，条例"
+    },
+    {
+      "position": 1705,
+      "word": "surplus",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 过剩；剩余；adj. 过剩的；多余的",
+      "currentMeaning": "【真题例句】整个图像是如何被组装和感知的仍然是一个谜，尽管它是当前研究的主题。【年考研阅读】"
+    },
+    {
+      "position": 1721,
+      "word": "switch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "开关，电闸；改变，转变；转换；枝条，鞭子；【词义】改变；转换"
+    },
+    {
+      "position": 1734,
+      "word": "prompt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 敏捷的，迅速的；即时的，即付的；【词义】；促使，推动；引起，激起，导致"
+    },
+    {
+      "position": 1735,
+      "word": "proof",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 证据，证明；校样，样张；【词义】能抵御的，能经受得住的"
+    },
+    {
+      "position": 1737,
+      "word": "reserve",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 保留，储备；预订，订购；【词义】；储备物储藏量，储备金"
+    },
+    {
+      "position": 1744,
+      "word": "respect",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 尊敬，尊重；【词义】；尊敬，尊重；敬意，问候"
+    },
+    {
+      "position": 1748,
+      "word": "responsibility",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 责任；职责；责任心",
+      "currentMeaning": "adj. 承担责任；假定，假设；假装，装出；【派生】"
+    },
+    {
+      "position": 1764,
+      "word": "suit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 合适，适合；对方便；中的意；【词义】；一套衣服，一套西服"
+    },
+    {
+      "position": 1773,
+      "word": "trigger",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "扳机；【词义】引发，引起，触发"
+    },
+    {
+      "position": 1780,
+      "word": "counsel",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 劝告，忠告；【词义】劝告，忠告"
+    },
+    {
+      "position": 1788,
+      "word": "intelligible",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 可理解的；明白易懂的；清楚的",
+      "currentMeaning": "n. 可理解的，明白易懂的，清楚的"
+    },
+    {
+      "position": 1813,
+      "word": "attribute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 把归因于，把过错的责任等归于；认为属于；【词义】本性，特征"
+    },
+    {
+      "position": 1822,
+      "word": "drug",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 药物；麻醉品，毒品；【词义】下麻药"
+    },
+    {
+      "position": 1823,
+      "word": "export",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 输出，出口；【词义】出口商品"
+    },
+    {
+      "position": 1826,
+      "word": "express",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "表达，表示；【词义】特快的，快速的"
+    },
+    {
+      "position": 1842,
+      "word": "interest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "兴趣，关心；重要性；利息；常利益，利害；【词义】使发生兴趣，引起的注意"
+    },
+    {
+      "position": 1850,
+      "word": "lower",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 较低的；下级的；下游的；【词义】降下，放低"
+    },
+    {
+      "position": 1853,
+      "word": "nervous",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 紧张不安的；神经过敏的；神经的",
+      "currentMeaning": "v. 紧张不安的，神经过敏的；神经的"
+    },
+    {
+      "position": 1854,
+      "word": "nevertheless",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "conj. 然而，尽管如此；【词义】仍然，不过"
+    },
+    {
+      "position": 1855,
+      "word": "pioneer",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "先驱，倡导者，开拓者；【词义】倡导；开创；当开拓者，当先锋"
+    },
+    {
+      "position": 1857,
+      "word": "pirate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 海盗；盗印者，盗版者，侵犯专利权者；【词义】盗印，盗版，掠夺，翻印"
+    },
+    {
+      "position": 1862,
+      "word": "plague",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "瘟疫，灾害；【词义】折磨，困扰；纠缠"
+    },
+    {
+      "position": 1878,
+      "word": "marvellous",
+      "reasons": [
+        "提取残留标签",
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 惊人的；奇妙的；不可思议的",
+      "currentMeaning": "v. 惊人的，奇迹般的，奇妙的；【词义】马克思主义者"
+    },
+    {
+      "position": 1879,
+      "word": "Marxist",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 马克思主义的；【词义】马克思主义者～马克思主义者认为"
+    },
+    {
+      "position": 1889,
+      "word": "neighbourhood",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 项链～她戴着一条项链。【词义】针，指针，针状物；四邻，街坊；区域，街道"
+    },
+    {
+      "position": 1891,
+      "word": "query",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "疑问，询问；【词义】；怀疑，表示疑虑；提问，询问"
+    },
+    {
+      "position": 1893,
+      "word": "quiver",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 颤抖，抖动；【词义】颤抖，抖动"
+    },
+    {
+      "position": 1901,
+      "word": "recycle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 使再循环，反复利用；整修，改建；【词义】再循环，再生，重复利用"
+    },
+    {
+      "position": 1905,
+      "word": "reel",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 卷筒，线轴；【词义】卷，绕"
+    },
+    {
+      "position": 1908,
+      "word": "shepherd",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "牧民，牧羊人；【词义】带领；护送"
+    },
+    {
+      "position": 1913,
+      "word": "shuttle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "穿梭往返；【词义】；往返汽车"
+    },
+    {
+      "position": 1927,
+      "word": "vicinity",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 邻近；附近",
+      "currentMeaning": "v. 邻近，附近"
+    },
+    {
+      "position": 1928,
+      "word": "video",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 电视，视频，录像；【词义】电视的，视频的，录像的"
+    },
+    {
+      "position": 1931,
+      "word": "shaft",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "轴，杆状物；【词义】亏待，欺骗尤指骗钱"
+    },
+    {
+      "position": 1932,
+      "word": "shake",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "摇动，摇晃；【词义】；摇动，摇晃；震动，颤抖"
+    },
+    {
+      "position": 1935,
+      "word": "shampoo",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 洗发膏，香波；洗发，洗头；【词义】洗发，洗头"
+    },
+    {
+      "position": 1936,
+      "word": "shatter",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 打碎；粉碎；破坏；n. 碎片",
+      "currentMeaning": "【助记】百叶窗被弄坏了"
+    },
+    {
+      "position": 1937,
+      "word": "shave",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 剃，刮，刨，削；【词义】剃，刮"
+    },
+    {
+      "position": 1947,
+      "word": "wash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "洗，洗涤；海水或河流流动，冲刷；【词义】；洗，冲洗；要洗的、洗好的衣服，洗涤物"
+    },
+    {
+      "position": 1948,
+      "word": "waste",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 浪费；使荒芜；【词义】无用的，废弃的，荒芜的"
+    },
+    {
+      "position": 1949,
+      "word": "watch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "观看，注视；看守，监视；窥视；等待；【词义】；表；看管，监视"
+    },
+    {
+      "position": 1956,
+      "word": "alike",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 相同的，相像的表语形容词，不能置于名词前，只能放在联系动词之后；【词义】同样地，一视同仁地"
+    },
+    {
+      "position": 1965,
+      "word": "chill",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 寒冷，寒气，寒颤；【词义】使寒冷，使变凉"
+    },
+    {
+      "position": 1969,
+      "word": "pin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "大头针，别针；【词义】别住，钉住"
+    },
+    {
+      "position": 1970,
+      "word": "pinch",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 捏；掐；夹；n. 捏；少量",
+      "currentMeaning": "【助记】我们要节约每一英寸土地"
+    },
+    {
+      "position": 1972,
+      "word": "delegate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 代表；【词义】；挑选或委派某人作代表；授权给"
+    },
+    {
+      "position": 1973,
+      "word": "delete",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 删除；删去",
+      "currentMeaning": "【词组】；抖掉，甩掉；公平交易；同握手"
+    },
+    {
+      "position": 1990,
+      "word": "empty",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 空的，空洞的，空虚的；【词义】把腾出来，倒空"
+    },
+    {
+      "position": 1996,
+      "word": "grin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "【词性】只有今天才真正属于你。"
+    },
+    {
+      "position": 2004,
+      "word": "all",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "det./pron./adv. 全部；所有；完全",
+      "currentMeaning": "为了送给她一件礼物，我一上午都在全市奔走寻找。一，【典型考题】【试题分析】答案。译文"
+    },
+    {
+      "position": 2013,
+      "word": "alongside",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 并肩地，并排地；【词义】在旁边，横靠，与并肩"
+    },
+    {
+      "position": 2018,
+      "word": "fellow",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 人，家伙；伙伴，同事；【词义】同样的，同类的"
+    },
+    {
+      "position": 2022,
+      "word": "fence",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 篱笆，围栏；击剑；【词义】击剑"
+    },
+    {
+      "position": 2023,
+      "word": "ferry",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "渡船；【词义】渡运人、车或物等"
+    },
+    {
+      "position": 2037,
+      "word": "kit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "成套工具，用具包，工具箱；【词义】给某人装备"
+    },
+    {
+      "position": 2038,
+      "word": "mat",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "席子，垫子；丛，簇，团；【词义】；铺席子；编织，缠结"
+    },
+    {
+      "position": 2042,
+      "word": "nest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 窝，巢；【词义】筑巢"
+    },
+    {
+      "position": 2046,
+      "word": "new",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 新的；新近的",
+      "currentMeaning": "旧条约的部分内容已收入新条约。【同义】；【词组】体现，表现【典型考题】【试题分析】答案。译文"
+    },
+    {
+      "position": 2054,
+      "word": "plateau",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 高原；发展或增长后的稳定期，停滞期；【词义】保持稳定水平，处于停滞状态"
+    },
+    {
+      "position": 2058,
+      "word": "refrain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vi. 节制，避免，制止；【词义】反复说的话；副歌"
+    },
+    {
+      "position": 2061,
+      "word": "refund",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 退还，偿还；【词义】归还，偿还额，退款"
+    },
+    {
+      "position": 2070,
+      "word": "civilian",
+      "reasons": [
+        "与相邻词 civilize 的释义高度重复（0.92）"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 平民，百姓不在军队或警察部队中服役的人"
+    },
+    {
+      "position": 2071,
+      "word": "civilize",
+      "reasons": [
+        "与相邻词 civilian 的释义高度重复（0.92）",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 使文明；教化",
+      "currentMeaning": "vt. 平民，百姓不在军队或警察部队中服役的人"
+    },
+    {
+      "position": 2072,
+      "word": "civilization",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 文明；文明社会；文明进程",
+      "currentMeaning": "adj. 使文明，开化"
+    },
+    {
+      "position": 2074,
+      "word": "gold",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 黄金，金币；【词义】黄的，金制的"
+    },
+    {
+      "position": 2075,
+      "word": "golden",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 金色的；黄金制的；珍贵的",
+      "currentMeaning": "adj. 【助记】金子形容词后缀金子般的"
+    },
+    {
+      "position": 2076,
+      "word": "grab",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 抓住夺得；【词义】抓住，掠夺"
+    },
+    {
+      "position": 2078,
+      "word": "graceful",
+      "reasons": [
+        "与相邻词 gracious 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 优美的，文雅的，得体的"
+    },
+    {
+      "position": 2079,
+      "word": "gracious",
+      "reasons": [
+        "与相邻词 graceful 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 亲切的；和蔼的；仁慈的",
+      "currentMeaning": "adj. 优美的，文雅的，得体的"
+    },
+    {
+      "position": 2081,
+      "word": "chain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 链条；镣铐；一系列，连锁；【词义】用链条拴住"
+    },
+    {
+      "position": 2083,
+      "word": "chairman",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 铁路～筑新铁路【词性】；【词义】由铁路运输；使议案等草草通过；举起，提高，增加；竖起，建立"
+    },
+    {
+      "position": 2091,
+      "word": "chart",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "图，图表；航线图，海图；【词义】；记录，跟踪进展或变化；制订行动计划；绘制的地图海图"
+    },
+    {
+      "position": 2092,
+      "word": "charter",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 租船，租车；【词义】宪章"
+    },
+    {
+      "position": 2097,
+      "word": "default",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 违约尤指未偿付债务默认值，系统设定值，预置值；【词义】违约，不履行义务尤指不偿还债务"
+    },
+    {
+      "position": 2103,
+      "word": "degenerate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vi. 衰退，堕落，退化；【词义】堕落的，颓废的；【词义】堕落者"
+    },
+    {
+      "position": 2104,
+      "word": "either",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 两者之中任一的，任何一个的；【词义】两者之中任何一个"
+    },
+    {
+      "position": 2107,
+      "word": "elastic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 弹性的；【词义】松紧带，橡皮圈"
+    },
+    {
+      "position": 2108,
+      "word": "elbow",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 肘，肘部；【词义】用肘挤"
+    },
+    {
+      "position": 2110,
+      "word": "feast",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "宴会；节日；【词义】宴请，款待"
+    },
+    {
+      "position": 2111,
+      "word": "feat",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 伟绩，伟业；【词义】灵巧的，漂亮的；整洁的；合适的"
+    },
+    {
+      "position": 2122,
+      "word": "heat",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "热，高温；热烈，激烈；【词义】使变暖，使变热，加热"
+    },
+    {
+      "position": 2125,
+      "word": "menace",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 威胁，危险物；【词义】恐吓，危及，威胁"
+    },
+    {
+      "position": 2137,
+      "word": "phone",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "电话，电话机；【词义】给打电话"
+    },
+    {
+      "position": 2138,
+      "word": "pile",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "较整齐的一堆，一叠；一大堆，大量；【词义】；堆，叠，堆积"
+    },
+    {
+      "position": 2139,
+      "word": "pilgrim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 圣地朝拜者，朝圣；【词义】；朝山进香，朝圣；流浪"
+    },
+    {
+      "position": 2151,
+      "word": "slope",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 倾斜，有坡度；【词义】；斜坡，坡地；倾斜，斜度，坡度；～"
+    },
+    {
+      "position": 2152,
+      "word": "slot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "窄缝，投币口，插槽；时间段，空位；【词义】；放入狭缝，插入；安排，放置；你能帮我安排一个面试吗"
+    },
+    {
+      "position": 2156,
+      "word": "smash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "打碎，打破，摧毁；【词义】打碎，打破，摧毁"
+    },
+    {
+      "position": 2160,
+      "word": "bear",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 忍受；承担；生育；n. 熊",
+      "currentMeaning": "【助记】熊微笑着吃"
+    },
+    {
+      "position": 2163,
+      "word": "rap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "轻快的敲击，急敲；责备或训斥某人；【词义】；敲击声，急敲声"
+    },
+    {
+      "position": 2164,
+      "word": "rape",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 掠夺，强奸；【词义】掠夺，强奸"
+    },
+    {
+      "position": 2165,
+      "word": "rapid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 快的，急速的；【词义】急流，湍流"
+    },
+    {
+      "position": 2166,
+      "word": "rash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 轻率的，匆忙的，鲁莽的；【词义】；突然大量出现的事物；皮疹，疹子"
+    },
+    {
+      "position": 2171,
+      "word": "readily",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 容易地；乐意地；迅速地",
+      "currentMeaning": "n. 她在池边向马克溅水，准备把他推进水中。【派生】"
+    },
+    {
+      "position": 2174,
+      "word": "rear",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 后部，后边，背部；【词义】后部的，后面的，背部的"
+    },
+    {
+      "position": 2176,
+      "word": "beneath",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "prep. 在下边，在之下；【词义】在下方"
+    },
+    {
+      "position": 2180,
+      "word": "analogue",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 类似物，相似物；【词义】；模拟的；钟表指针式的"
+    },
+    {
+      "position": 2182,
+      "word": "analyse/analyze",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 分析；分解",
+      "currentMeaning": "n. 分解"
+    },
+    {
+      "position": 2184,
+      "word": "analytic/analytical",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 分析的；分解的",
+      "currentMeaning": "n. 分析的，分解的"
+    },
+    {
+      "position": 2186,
+      "word": "infant",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 婴儿，幼儿；【词义】；供婴幼儿用的；初期的，初创期的"
+    },
+    {
+      "position": 2197,
+      "word": "knot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 绳结；树节；节海里小时；【词义】打结"
+    },
+    {
+      "position": 2202,
+      "word": "leak",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 漏洞，裂缝；漏出物；泄露，透露；【词义】；漏，渗"
+    },
+    {
+      "position": 2205,
+      "word": "lease",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "租借，租约，租期；【词义】出租，租出，租得"
+    },
+    {
+      "position": 2215,
+      "word": "pledge",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "保证，誓言，誓约；抵押，典押；【词义】；许诺，保证，发誓；用抵押，用典押"
+    },
+    {
+      "position": 2219,
+      "word": "poison",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 放毒，毒害，毒死；【词义】毒物，毒药"
+    },
+    {
+      "position": 2223,
+      "word": "regardless",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 不管怎样；不顾",
+      "currentMeaning": "【助记】注意形容词否定后缀，不的"
+    },
+    {
+      "position": 2226,
+      "word": "rehearse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 除了之外；【词义】而且，还有"
+    },
+    {
+      "position": 2232,
+      "word": "sin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 罪，罪恶；【词义】犯过错"
+    },
+    {
+      "position": 2237,
+      "word": "sip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "小口地喝，呷茶，啜饮；【词义】啜，呷"
+    },
+    {
+      "position": 2240,
+      "word": "thunder",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 雷声轰隆声；【词义】打雷，雷鸣；大声说，吼叫"
+    },
+    {
+      "position": 2241,
+      "word": "tick",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "钟声等发出的滴答声；核对账目等时画的记号如钩号、点子等；【词义】；发出滴答声；给标记号"
+    },
+    {
+      "position": 2248,
+      "word": "wedge",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 楔子，三角木；楔形物；【词义】；楔入，楔牢；挤入，插入"
+    },
+    {
+      "position": 2252,
+      "word": "juvenile",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 青少年的；幼稚的；【词义】青少年；少年读物"
+    },
+    {
+      "position": 2253,
+      "word": "junk",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 垃圾，质量低劣的东西，废品；【词义】把无用的东西丢弃，废弃"
+    },
+    {
+      "position": 2258,
+      "word": "upward",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 向上，往上，以上；【词义】向上的，上升的"
+    },
+    {
+      "position": 2260,
+      "word": "ski",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 雪橇，滑雪【词性】；【词义】滑雪"
+    },
+    {
+      "position": 2265,
+      "word": "skin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 皮，皮肤；兽皮，皮毛；外皮，外壳；【词义】剥皮"
+    },
+    {
+      "position": 2266,
+      "word": "skip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "跳，蹦；很快地改变话题、职业等；跳读，遗漏；【词义】跳跃，轻快的跳"
+    },
+    {
+      "position": 2270,
+      "word": "slap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "拍，掌击；【词义】拍，掌击"
+    },
+    {
+      "position": 2274,
+      "word": "slice",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 薄片，切片；部分，份；【词义】切"
+    },
+    {
+      "position": 2281,
+      "word": "clip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 常缰绳；安全绳套，保护带；控制，支配；拘束物；【词义】；用缰绳勒马"
+    },
+    {
+      "position": 2282,
+      "word": "cloak",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 外套，斗篷；【词义】掩盖，掩饰"
+    },
+    {
+      "position": 2284,
+      "word": "clone",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "无性繁殖；复制；【词义】使无性繁殖；比喻复制"
+    },
+    {
+      "position": 2288,
+      "word": "desert",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 沙漠，不毛之地；【词义】抛弃会弃"
+    },
+    {
+      "position": 2296,
+      "word": "grave",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 坟墓；【词义】严肃的，庄重的"
+    },
+    {
+      "position": 2299,
+      "word": "grease",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 油脂，动物脂；【词义】；抹油，润滑；使便于通过"
+    },
+    {
+      "position": 2307,
+      "word": "medical",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 医学的；医疗的",
+      "currentMeaning": "重伤号比轻伤号优先得到医疗照顾。；优先事项，最重要的事；【词组】；给予优先权；优先考虑；按照资格或时间的次序，依次【真题例句】"
+    },
+    {
+      "position": 2313,
+      "word": "plight",
+      "reasons": [
+        "提取残留标签",
+        "与相邻词 plough 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "苦难，困境；【词义】保证，约定"
+    },
+    {
+      "position": 2314,
+      "word": "plough",
+      "reasons": [
+        "提取残留标签",
+        "与相邻词 plight 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 犁；耕地；v. 犁地；耕作",
+      "currentMeaning": "苦难，困境；【词义】保证，约定"
+    },
+    {
+      "position": 2315,
+      "word": "plug",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 塞子，栓；插头，插座；【词义】；堵塞；给接通电源；连接"
+    },
+    {
+      "position": 2318,
+      "word": "plural",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 复数的；【词义】复数"
+    },
+    {
+      "position": 2319,
+      "word": "plus",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "prep. 加上，加；【词义】正的，加的；电阳性的；【词义】加号，正号；正数，正量"
+    },
+    {
+      "position": 2320,
+      "word": "fiber",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 纤维；纤维质",
+      "currentMeaning": "n. 正的，加的；电阳性的；【词义】加号，正号；正数，正量"
+    },
+    {
+      "position": 2321,
+      "word": "file",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 锉刀；文件，档案；【词义】；锉；存档，归档；提交，呈报"
+    },
+    {
+      "position": 2324,
+      "word": "filter",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 滤器，滤纸；【词义】过滤"
+    },
+    {
+      "position": 2330,
+      "word": "relish",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 美食等的享受，乐趣；食欲，胃口；意味，寓意；【词义】从某事物中获得乐趣；有的风味；品味，享受；调味"
+    },
+    {
+      "position": 2332,
+      "word": "treasure",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 财宝，财富；珍品，珍藏品；【词义】珍爱，珍视，珍藏"
+    },
+    {
+      "position": 2338,
+      "word": "utmost",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 最远的，极度的，极端的；【词义】极限，极度，最大可能"
+    },
+    {
+      "position": 2340,
+      "word": "bolt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "闩门关窗，栓住；【词义】螺栓，门、窗的插销"
+    },
+    {
+      "position": 2342,
+      "word": "bomb",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "炸弹；【词义】轰炸，投弹于"
+    },
+    {
+      "position": 2346,
+      "word": "side",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "侧面，旁边，一边；一方，一派；方面；【词义】站在的一边"
+    },
+    {
+      "position": 2349,
+      "word": "sigh",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 叹息，叹息声；【词义】叹息，叹气"
+    },
+    {
+      "position": 2356,
+      "word": "silver",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 银；银器，银币；【词义】镀银"
+    },
+    {
+      "position": 2361,
+      "word": "thrust",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "用力推，刺，戳，插，挤；【词义】；猛推，插，一刺；劲头，推动力"
+    },
+    {
+      "position": 2363,
+      "word": "unfortunately",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 不幸地；遗憾地",
+      "currentMeaning": "n. 不幸地"
+    },
+    {
+      "position": 2365,
+      "word": "unit",
+      "reasons": [
+        "目录/附录文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 单位；单元；部件；部门",
+      "currentMeaning": "基础词超纲词历年真题重点超纲词系统归类附录附录部分国家或地区名称及相附录大洲名和大洋名附录常见缩写词附录必考词、基础词检索表"
+    },
+    {
+      "position": 2368,
+      "word": "violet",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 紫罗兰；蓝紫色；【词义】野生紫罗兰色的；蓝紫色的"
+    },
+    {
+      "position": 2369,
+      "word": "virgin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 纯净的，原始的，未开垦的；【词义】处女，未婚女子；童男"
+    },
+    {
+      "position": 2371,
+      "word": "vocal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 声音的，有声的；口头的；歌唱的；【词义】元音；声乐作品"
+    },
+    {
+      "position": 2372,
+      "word": "vocation",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 职业；行业；天职",
+      "currentMeaning": "v. 职业，行业"
+    },
+    {
+      "position": 2373,
+      "word": "voice",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 声音，嗓音；语态；【词义】说出，表达"
+    },
+    {
+      "position": 2376,
+      "word": "voyage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 航海，航程；【词义】航海，航行，旅行"
+    },
+    {
+      "position": 2387,
+      "word": "belly",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "腹部；【词义】张满；凸出"
+    },
+    {
+      "position": 2388,
+      "word": "beloved",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 爱人，心爱的人；【词义】受爱戴的，敬爱的"
+    },
+    {
+      "position": 2392,
+      "word": "clap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "拍手，拍；轻拍；【词义】拍手，掌声；霹雳声"
+    },
+    {
+      "position": 2395,
+      "word": "clash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "碰撞；冲突；【词义】碰撞声冲突"
+    },
+    {
+      "position": 2396,
+      "word": "clasp",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 拥抱，握手；扣子，钩子；【词义】握手，紧抱"
+    },
+    {
+      "position": 2398,
+      "word": "classic",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 杰作；名著；adj. 第一流的；古典的",
+      "currentMeaning": "n. 杰作，名著；【词义】第一流的，不朽的，古典的"
+    },
+    {
+      "position": 2414,
+      "word": "gossip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "流言蜚语；闲聊；爱说长道短的人；【词义】；传播流言蜚语"
+    },
+    {
+      "position": 2433,
+      "word": "herd",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "放牧，把赶在一起；群集，聚在一起；【词义】兽群，牧群"
+    },
+    {
+      "position": 2435,
+      "word": "sail",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "帆，航行；【词义】航行"
+    },
+    {
+      "position": 2441,
+      "word": "salute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "敬礼，致敬；祝贺；迎接，欢迎；【词义】；敬礼，祝贺；迎接，欢迎"
+    },
+    {
+      "position": 2450,
+      "word": "ache",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 疼痛；【词义】疼痛"
+    },
+    {
+      "position": 2454,
+      "word": "ballot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "无记名投票，票数；【词义】投票"
+    },
+    {
+      "position": 2457,
+      "word": "bang",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 巨响；砰砰声；v. 猛撞；砰地发出声",
+      "currentMeaning": "【助记】音砰巨响，发出砰的一声【助记】音幽默"
+    },
+    {
+      "position": 2458,
+      "word": "bankrupt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 破产的；【词义】使破产"
+    },
+    {
+      "position": 2462,
+      "word": "bark",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "吠，咆哮；【词义】；吠声，狗叫声；树皮"
+    },
+    {
+      "position": 2465,
+      "word": "barren",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 不生育的；不结果实的；贫瘠的；【词义】荒地"
+    },
+    {
+      "position": 2468,
+      "word": "camp",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 野营，营地；帐篷；阵营；【词义】设营，宿营"
+    },
+    {
+      "position": 2474,
+      "word": "captain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 首领，队长，船长，上尉；【词义】做的首领，指挥"
+    },
+    {
+      "position": 2477,
+      "word": "cardinal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "红衣主教；深红色；【词义】；主要的，最重要的；深红色的"
+    },
+    {
+      "position": 2478,
+      "word": "cargo",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 发现；被发现的事物～我们热烈祝贺他的惊人的发现。【词义】举起，升起，吊起"
+    },
+    {
+      "position": 2484,
+      "word": "eccentric",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 反常的，古怪的；指圆形没有共同圆心的【词性】；【词义】；古怪的人"
+    },
+    {
+      "position": 2485,
+      "word": "echo",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 回声，反响，共鸣；【词义】回声，反响，共鸣"
+    },
+    {
+      "position": 2488,
+      "word": "faint",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 不清楚的，模糊的，微弱的；【词义】昏倒"
+    },
+    {
+      "position": 2501,
+      "word": "male",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 男性，雄性；【词义】男性的，雄性的"
+    },
+    {
+      "position": 2506,
+      "word": "paste",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "糊，酱；【词义】粘，贴"
+    },
+    {
+      "position": 2515,
+      "word": "pause",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 中止，暂停；【词义】中止，暂停"
+    },
+    {
+      "position": 2518,
+      "word": "dance",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 跳舞；n. 舞蹈；舞会",
+      "currentMeaning": "adj. 使高兴，使快乐"
+    },
+    {
+      "position": 2521,
+      "word": "dawn",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 黎明；开端；v. 开始明白",
+      "currentMeaning": "n. 【词性】"
+    },
+    {
+      "position": 2529,
+      "word": "adolescent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 青少年的，青春期的；【词义】大约到岁之间的青少年"
+    },
+    {
+      "position": 2537,
+      "word": "cement",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 水泥；胶合剂；【词义】胶合；巩固，加强"
+    },
+    {
+      "position": 2541,
+      "word": "center",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 分；分值的硬币；【词义】集中；将当作主题"
+    },
+    {
+      "position": 2544,
+      "word": "centigrade",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 摄氏的；n. 摄氏温度",
+      "currentMeaning": "【试题分析】答案。译文"
+    },
+    {
+      "position": 2546,
+      "word": "cereal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 谷类食品，谷类；【词义】谷类的，谷类制成的"
+    },
+    {
+      "position": 2549,
+      "word": "decay",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vi. 腐朽，腐烂；失去权力，活力，影响等；～我们的体力到老年时就衰退。【词性】；【词义】；衰退；腐朽，腐烂"
+    },
+    {
+      "position": 2553,
+      "word": "decimal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 十进位的；小数的；【词义】小数"
+    },
+    {
+      "position": 2557,
+      "word": "farther",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 更远地，再往前地；【词义】更远的"
+    },
+    {
+      "position": 2562,
+      "word": "fatigue",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 疲劳；【词义】使疲劳"
+    },
+    {
+      "position": 2565,
+      "word": "fax",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "传真机、件；【词义】传真，传输"
+    },
+    {
+      "position": 2566,
+      "word": "giggle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 咯咯笑，傻笑；娱乐；持续的笑；【词义】咯咯笑，傻笑"
+    },
+    {
+      "position": 2568,
+      "word": "glare",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 怒视，瞪眼；发强光，发耀眼的光；【词义】；怒视，瞪眼"
+    },
+    {
+      "position": 2569,
+      "word": "glance",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 一瞥，扫视；【词义】看，扫视"
+    },
+    {
+      "position": 2570,
+      "word": "glimpse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 一瞥，一看；【词义】一瞥，一看；意为一瞥比较强调动作的结果。例如"
+    },
+    {
+      "position": 2579,
+      "word": "hawk",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "鹰，隼；【词义】兜售，沿街叫卖"
+    },
+    {
+      "position": 2582,
+      "word": "he",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "pron. 他",
+      "currentMeaning": "公你本公载其他考研英语词汇资料"
+    },
+    {
+      "position": 2584,
+      "word": "joint",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 接头，接缝，接合处；关节；【词义】共同的，联合的"
+    },
+    {
+      "position": 2585,
+      "word": "jolly",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 欢乐的，高兴的；【词义】非常地"
+    },
+    {
+      "position": 2586,
+      "word": "kid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "小孩，儿童；【词义】戏弄，嘲弄；别戏弄我，我知道你没有说真话。"
+    },
+    {
+      "position": 2590,
+      "word": "late",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 迟的，晚的，晚期的；已故的；【词义】迟，晚"
+    },
+    {
+      "position": 2592,
+      "word": "later",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 后来，以后；其后；【词义】后来的，以后的"
+    },
+    {
+      "position": 2602,
+      "word": "telegraph",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "电报机，打电报；【词义】打电报传达消息报告"
+    },
+    {
+      "position": 2605,
+      "word": "tease",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 戏弄，取笑；挑逗，撩拨；【词义】爱戏弄他人者，缠扰者"
+    },
+    {
+      "position": 2613,
+      "word": "pedestrian",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "步行者，行人；【词义】徒步的；平凡的，通俗的"
+    },
+    {
+      "position": 2615,
+      "word": "harbour",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "港口，海湾；避难所，藏身处；【词义】隐匿，窝藏，包庇"
+    },
+    {
+      "position": 2626,
+      "word": "imperative",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 紧急的，重要的；命令式的，专断的；语法祈使的；【词义】必要的事，必要性"
+    },
+    {
+      "position": 2631,
+      "word": "lap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "大腿；跑道的一圈；【词义】；舔食；拍击多指海水"
+    },
+    {
+      "position": 2632,
+      "word": "lapse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 小错，尤指记错，疏忽；堕落，失足；时间的流逝，过去；【词义】；陷入或进入某种状态"
+    },
+    {
+      "position": 2636,
+      "word": "manoeuvre",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 策略，调动；【词义】用策略，调动，敏捷地操纵"
+    },
+    {
+      "position": 2637,
+      "word": "manual",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 手的，手工做的，体力的；【词义】手册，指南"
+    },
+    {
+      "position": 2638,
+      "word": "manufacture",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 制造，加工；【词义】；制造，制造业"
+    },
+    {
+      "position": 2649,
+      "word": "scout",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 侦察员，侦察机舰；【词义】搜索，侦察"
+    },
+    {
+      "position": 2654,
+      "word": "scream",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "尖声叫，嚎叫；【词义】尖声叫，嚎叫"
+    },
+    {
+      "position": 2656,
+      "word": "screw",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 螺旋，螺丝；【词义】拧，拧紧"
+    },
+    {
+      "position": 2659,
+      "word": "sculpture",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 雕刻，雕刻品，雕塑，雕塑品；【词义】雕刻，雕塑"
+    },
+    {
+      "position": 2672,
+      "word": "velocity",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 速度；速率",
+      "currentMeaning": "v. 速度，速率"
+    },
+    {
+      "position": 2680,
+      "word": "peel",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "剥落，脱落；脱衣；削皮，剥皮；【词义】水果、蔬菜、嫩枝等的皮"
+    },
+    {
+      "position": 2692,
+      "word": "permit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 通行证，许可证，执照；【词义】许可，允许"
+    },
+    {
+      "position": 2698,
+      "word": "rack",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "架子，支架，行李架；～杯子架；肉体或精神上的剧烈痛苦；【词义】使肉体或精神上受剧烈痛"
+    },
+    {
+      "position": 2700,
+      "word": "radio",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 收音机，无线电讯，无线电广播；【词义】用无线电发送讯息"
+    },
+    {
+      "position": 2704,
+      "word": "rage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 一阵狂怒，一阵盛怒；【词义】；发怒，怒斥；肆虐，猖獗；意为狂怒表示已愤怒到失去自我控制的地步，有"
+    },
+    {
+      "position": 2705,
+      "word": "raid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 袭击，搜查；【词义】袭击，突然搜查"
+    },
+    {
+      "position": 2715,
+      "word": "shine",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 照耀，发光；珠宝在光下闪耀。；擦亮；【词义】光，光泽"
+    },
+    {
+      "position": 2724,
+      "word": "shove",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "口推，挤；【词义】口推挤，猛推；乱放，乱塞"
+    },
+    {
+      "position": 2729,
+      "word": "tense",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 时态；【词义】拉紧的，紧张的"
+    },
+    {
+      "position": 2731,
+      "word": "then",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 然后；那时；那么",
+      "currentMeaning": "【试题分析】答案。译文，医生给受伤的战士治好了伤，把他们送往前线。本题考查动词与介词的搭配。给某人动手术；给打补钉，缝补"
+    },
+    {
+      "position": 2734,
+      "word": "therefore",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 因此，所以；【词义】因此"
+    },
+    {
+      "position": 2737,
+      "word": "veto",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "否决，否决权，否决权的行使；禁止，反对；【词义】否决，禁止，反对"
+    },
+    {
+      "position": 2741,
+      "word": "warehouse",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 仓库；货栈",
+      "currentMeaning": "n. 桶；枪管，炮管"
+    },
+    {
+      "position": 2745,
+      "word": "warrant",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 授权，批准正当理由，根据；许可证，委任状，证书；【词义】；授权给，批准"
+    },
+    {
+      "position": 2747,
+      "word": "aerial",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 空中的，航空的；【词义】天线"
+    },
+    {
+      "position": 2751,
+      "word": "age",
+      "reasons": [
+        "释义异常偏长（138 字符）",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 年龄；时代；时期；v. 变老",
+      "currentMeaning": "老成得与其年龄不相称的年轻人；复杂的；精密的；尖端的，高度发展的；表示复杂的、不易懂的指机械、设备、武器装备等的结构复杂或技术高、精、尖。另外，也指人的世故老练或心灵活动的复杂高深。；表示复杂的、难懂的、难弄的形容非常复杂，因此很难理解、解决、解释的问题或事物，语气比更强烈。"
+    },
+    {
+      "position": 2752,
+      "word": "coach",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 铁路客车厢长途汽车；辅导员，教练；【词义】指导，辅导"
+    },
+    {
+      "position": 2759,
+      "word": "ink",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 墨水，墨汁，油墨；【词义】给上油墨；签署，签订合同等"
+    },
+    {
+      "position": 2760,
+      "word": "inland",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 国内的，内地的，内陆的；【词义】在内陆，向内地"
+    },
+    {
+      "position": 2764,
+      "word": "lightning",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 闪电；【词义】闪电般的，快速的；～闪电式的访问警察突然查抄了那家旅馆。"
+    },
+    {
+      "position": 2766,
+      "word": "bait",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "在鱼钩上、陷阱中等放诱饵；【词义】饵，诱惑物"
+    },
+    {
+      "position": 2777,
+      "word": "aboard",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 在船、飞机、火车等上；【词义】上船、飞机、火车等"
+    },
+    {
+      "position": 2786,
+      "word": "cable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 电缆；电报；v. 给……发电报",
+      "currentMeaning": "n. 电报"
+    },
+    {
+      "position": 2789,
+      "word": "damage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 损害，毁坏；【词义】；损害，毁坏，伤害；损害赔偿费"
+    },
+    {
+      "position": 2790,
+      "word": "damn",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 该死的表示不满振、不耐烦等；【词义】；指上帝罚某人入地狱受罪；严厉地批坪某集物；表示厌烦市怒等"
+    },
+    {
+      "position": 2797,
+      "word": "east",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 通常加东，东方；【词义】东方的，从东方来的；【词义】在东方，向东方；指风从东方"
+    },
+    {
+      "position": 2798,
+      "word": "ebb",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "退潮，落潮；衰退，衰落；【词义】；退潮，落潮；减少，衰落，衰退"
+    },
+    {
+      "position": 2805,
+      "word": "gaol/jail",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 监狱；【词义】监禁某人"
+    },
+    {
+      "position": 2809,
+      "word": "gasp",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "喘气，喘息；【词义】；喘息；喘着气说出或发出；渴望"
+    },
+    {
+      "position": 2813,
+      "word": "gaze",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "凝视，注视；【词义】凝视，注视"
+    },
+    {
+      "position": 2814,
+      "word": "gear",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 齿轮，传动装置，排档；【词义】使适应，使适合"
+    },
+    {
+      "position": 2818,
+      "word": "halt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 行进中的暂停前进，中止，终止；【词义】行进中的暂停前进"
+    },
+    {
+      "position": 2825,
+      "word": "ham",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 火腿，火腿肉；蹩脚演员；业余爱好者；【词义】；火腿肉的；演员蹩脚的；业余无线电收发报的"
+    },
+    {
+      "position": 2826,
+      "word": "hammer",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 锤击，敲打；【词义】铁锤，榔头"
+    },
+    {
+      "position": 2827,
+      "word": "ice",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 冰；【词义】使结冰"
+    },
+    {
+      "position": 2828,
+      "word": "idiom",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 习语；成语；惯用语",
+      "currentMeaning": "【助记】这傻瓜不会说方"
+    },
+    {
+      "position": 2835,
+      "word": "jam",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 阻塞，拥挤；果酱；【词义】使阻塞，使卡住不动"
+    },
+    {
+      "position": 2839,
+      "word": "jet",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "喷气发动机，喷气式飞机；喷口，喷嘴；【词义】喷出，喷射"
+    },
+    {
+      "position": 2848,
+      "word": "keyboard",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "钢琴，电脑等的键盘；【词义】用键盘输入；将信息键入计算机"
+    },
+    {
+      "position": 2849,
+      "word": "labour",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 钢琴，电脑等的键盘；【词义】用键盘输入；将信息键入计算机【词性】【词义】；工作，劳动；劳工，劳方总称；分娩，阵痛；【词义】；劳动"
+    },
+    {
+      "position": 2850,
+      "word": "lace",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 花边；带子，鞋带；【词义】系牢，系紧"
+    },
+    {
+      "position": 2853,
+      "word": "lamb",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 羔羊；羊羔肉；v. 产羊羔",
+      "currentMeaning": "【助记】有只跛的小羊卧"
+    },
+    {
+      "position": 2859,
+      "word": "magic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 魔法，魔术，戏法；【词义】有魔力的，魔术的"
+    },
+    {
+      "position": 2863,
+      "word": "maiden",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 少女，处女；【词义】未婚的，纯洁的，处女的；无经验的；首次的"
+    },
+    {
+      "position": 2875,
+      "word": "pad",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 垫，衬垫；便笺簿，拍纸簿；【词义】；用软物填塞，填衬；拉长；虚报"
+    },
+    {
+      "position": 2876,
+      "word": "paddle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "短桨；桨状物；【词义】涉水；用桨划"
+    },
+    {
+      "position": 2879,
+      "word": "paint",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "油漆；颜料；【词义】；涂，涂漆；描绘，描述"
+    },
+    {
+      "position": 2881,
+      "word": "pair",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "一对，一双，一副；【词义】成对，配对"
+    },
+    {
+      "position": 2887,
+      "word": "paper",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "文件；文章，论文；【词义】裱糊"
+    },
+    {
+      "position": 2889,
+      "word": "parachute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 降落伞；【词义】跳伞"
+    },
+    {
+      "position": 2890,
+      "word": "parade",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "游行，检阅；【词义】使列队行进，使游行"
+    },
+    {
+      "position": 2896,
+      "word": "parcel",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 包裹，邮包；【词义】打包，捆扎"
+    },
+    {
+      "position": 2897,
+      "word": "pardon",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "原谅，宽恕；请再说一遍；【词义】原谅，宽恕，赦免"
+    },
+    {
+      "position": 2899,
+      "word": "sack",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 麻袋，纸袋，塑料袋；口开除，解雇；【词义】开除，解雇"
+    },
+    {
+      "position": 2903,
+      "word": "sample",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 样品；样本；v. 抽样；品尝",
+      "currentMeaning": "vt. 鞍，马鞍，鞍状物"
+    },
+    {
+      "position": 2904,
+      "word": "sanction",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 制裁；批准；v. 批准；认可；制裁",
+      "currentMeaning": "vt. 抽样试验，抽样调查可引申为品尝、试尝、体验；批准，同意；制裁；认可，支持，赞许"
+    },
+    {
+      "position": 2905,
+      "word": "sandwich",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 批准，同意，认可；被【词义】夹入，挤进"
+    },
+    {
+      "position": 2923,
+      "word": "X-ray",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "射线，射线照片；【词义】用光线检查、治疗或拍摄"
+    },
+    {
+      "position": 2925,
+      "word": "yawn",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 打哈欠；【词义】哈欠；乏味的事情"
+    },
+    {
+      "position": 2926,
+      "word": "yearly",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 每年的，一年一度的；【词义】每年，一年一度"
+    },
+    {
+      "position": 2928,
+      "word": "yet",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 尚，还，仍然；【词义】然而，而，但是"
+    },
+    {
+      "position": 2930,
+      "word": "zero",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "零，零点，零度；【词义】将注意力集中于某人某事物上"
+    },
+    {
+      "position": 2931,
+      "word": "zip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "拉链；尖啸声，嘘；精神，精力，活力；演【词义】拉开或拉上；突进，直冲"
+    },
+    {
+      "position": 2933,
+      "word": "agenda",
+      "reasons": [
+        "与相邻词 agony 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 议事日程"
+    },
+    {
+      "position": 2934,
+      "word": "agony",
+      "reasons": [
+        "与相邻词 agenda 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 苦恼；极大的痛苦",
+      "currentMeaning": "n. 议事日程"
+    },
+    {
+      "position": 2949,
+      "word": "saw",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "锯子，锯床；【词义】锯，锯开"
+    },
+    {
+      "position": 2950,
+      "word": "scan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 细看，审视；浏览，扫描；【词义】；细看，审视"
+    },
+    {
+      "position": 2954,
+      "word": "scarcely",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 几乎不；简直不",
+      "currentMeaning": "v. ～他忍不住要笑出声来。【同义】；【反义】表达，表露【派生】压制，镇压；抑制，阻止"
+    },
+    {
+      "position": 2965,
+      "word": "tackle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 用具，装备；滑车，滑轮；钓具；尤指美式足球或橄榄球中的擒抱，阻挡【词性】；【词义】对付，处理，解决；与交涉"
+    },
+    {
+      "position": 2968,
+      "word": "tailor",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "一针，针脚；一点，少许；【词义】缝，缝合，缝补"
+    },
+    {
+      "position": 2969,
+      "word": "tale",
+      "reasons": [
+        "释义异常偏长（149 字符）",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 故事",
+      "currentMeaning": "n. 故事，传说～神话故事；童话辨析都含某事件的口头或笔头记述、故事的意思。其中；指虚构的、古代的或神话的故事，即使故事有事实根据，也往往加以演绎，而结构较松散。；系常用词，指虚构的故事，强调严密的结构，可以是散文或诗歌等文学形式。；属正式用语，指把真实的事或经历以连续、或有趣的方式叙述成的故事。"
+    },
+    {
+      "position": 2970,
+      "word": "tame",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 驯服的；温顺的；v. 驯服",
+      "currentMeaning": "【助记】这个游戏的内容是"
+    },
+    {
+      "position": 2971,
+      "word": "tan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 棕黄色，黄褐色；【词义】晒成棕褐色；【词义】棕黄色的，棕褐色的"
+    },
+    {
+      "position": 2976,
+      "word": "tap",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 水龙头；轻拍；v. 轻拍；利用",
+      "currentMeaning": "【助记】磁带里有窃听的内"
+    },
+    {
+      "position": 2977,
+      "word": "tape",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "带子录音带，磁带；【词义】；录音；系，捆"
+    },
+    {
+      "position": 2981,
+      "word": "underground",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 地下的，地面下的；秘密的；【词义】地铁；反抗敌人或反政府的地下组织，秘密组织"
+    },
+    {
+      "position": 2983,
+      "word": "underneath",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "prep. 在下面；【词义】在下面，在底下"
+    },
+    {
+      "position": 2987,
+      "word": "vegetarian",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 素食者；adj. 素食的",
+      "currentMeaning": "n. 【助记】植物表示人吃植物的人素"
+    },
+    {
+      "position": 2990,
+      "word": "cash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "现款，现金；【词义】兑现，付收现款"
+    },
+    {
+      "position": 2991,
+      "word": "cashier",
+      "reasons": [
+        "与相邻词 catalogue 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 收银员，出纳员"
+    },
+    {
+      "position": 2992,
+      "word": "catalogue",
+      "reasons": [
+        "与相邻词 cashier 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 目录；商品目录；目录册；v. 编目",
+      "currentMeaning": "n. 收银员，出纳员"
+    },
+    {
+      "position": 2998,
+      "word": "dean",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 院长；系主任；长老",
+      "currentMeaning": "n. 教长，主任牧师；在某些大学中的学监，系主任"
+    },
+    {
+      "position": 3003,
+      "word": "editorial",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 编辑的；【词义】社论，社评"
+    },
+    {
+      "position": 3010,
+      "word": "fantastic",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 奇异的；异想天开的；极好的",
+      "currentMeaning": "n. 奇异的，异想天开的；极好的"
+    },
+    {
+      "position": 3023,
+      "word": "sob",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "哭泣，呜咽；【词义】哭泣，呜咽"
+    },
+    {
+      "position": 3026,
+      "word": "soil",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 土壤；土地；污物；v. 弄脏",
+      "currentMeaning": "犁地耕地"
+    },
+    {
+      "position": 3030,
+      "word": "solid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 固体的，实心的；结实的，稳固的，可靠的；【词义】固体"
+    },
+    {
+      "position": 3032,
+      "word": "solo",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 独奏曲；【词义】单独的"
+    },
+    {
+      "position": 3036,
+      "word": "hike",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "远足，徒步旅行；价格、价值等的提高，增加；【词义】；作远足旅行，作徒步旅行"
+    },
+    {
+      "position": 3040,
+      "word": "hip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 臀部，屁股；【词义】新潮的，赶时髦的"
+    },
+    {
+      "position": 3043,
+      "word": "inside",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 里面的，内部的，内幕的；【词义】在里面，在内部"
+    },
+    {
+      "position": 3049,
+      "word": "lick",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "舔；【词义】舔"
+    },
+    {
+      "position": 3054,
+      "word": "lift",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 提，举；解除；升起；消散；【词义】电梯；升降机"
+    },
+    {
+      "position": 3070,
+      "word": "orbit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "轨道；【词义】使沿轨道运行"
+    },
+    {
+      "position": 3072,
+      "word": "orderly",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 整齐的，有秩序的，有条理的；【词义】医院的勤杂工；勤务兵"
+    },
+    {
+      "position": 3077,
+      "word": "pop",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 现代流行风格尤指音乐的；发出砰的一声；【词义】；通俗的；流行的"
+    },
+    {
+      "position": 3080,
+      "word": "porcelain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 瓷，瓷器；【词义】精制的，瓷制器的"
+    },
+    {
+      "position": 3086,
+      "word": "post",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "贴出；宣布，公告；投寄，邮寄；【词义】；支柱，标杆；起点或终点标志；邮政，邮寄"
+    },
+    {
+      "position": 3092,
+      "word": "remnant",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "残余，剩余；遗迹，遗风；幸存者；【词义】剩余的，残留的"
+    },
+    {
+      "position": 3096,
+      "word": "rent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "租金；【词义】租，租赁"
+    },
+    {
+      "position": 3097,
+      "word": "repair",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 修理，修补；补救，偿还；【词义】修理，修补"
+    },
+    {
+      "position": 3107,
+      "word": "toil",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 长时间苦干，辛勤劳作；艰难缓慢地移动跋涉；【词义】苦工；劳累的工作"
+    },
+    {
+      "position": 3109,
+      "word": "blame",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 责备，责怪；归咎于；负责；【词义】；指责，责备；过错、事故等的责任"
+    },
+    {
+      "position": 3116,
+      "word": "horrible",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 可怕的；令人恐惧的",
+      "currentMeaning": "v. 可怕的回忆萦绕在他心头。【反义】逃跑，逃脱【派生】；实施，履行；追求；依据的，按照的，遵照的"
+    },
+    {
+      "position": 3119,
+      "word": "hose",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "用软管淋浇、冲洗；【词义】；水龙管，软管；长筒袜"
+    },
+    {
+      "position": 3125,
+      "word": "insult",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 侮辱，辱骂；攻击，袭击；【词义】；侮辱，凌辱"
+    },
+    {
+      "position": 3128,
+      "word": "litter",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "乱七八糟的东西，杂物，废弃物；一窝；担架；【词义】；乱扔"
+    },
+    {
+      "position": 3137,
+      "word": "missionary",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 传教士；【词义】传教的，传教士的"
+    },
+    {
+      "position": 3148,
+      "word": "sprout",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 抽条，发芽，长出；迅速成长，迅速出现；【词义】新芽，嫩枝"
+    },
+    {
+      "position": 3149,
+      "word": "square",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 正方形；广场；平方；【词义】正方形的，平方的；结实的；乏味的，古板的；【词义】使成方形，求平方，求的面积；使打成平局"
+    },
+    {
+      "position": 3150,
+      "word": "squeeze",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "榨，挤；硬挤，硬塞；【词义】；榨，挤压；拮据，短缺"
+    },
+    {
+      "position": 3153,
+      "word": "stagger",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "摇晃，蹒跚，摇摆；【词义】摇晃，蹒跚"
+    },
+    {
+      "position": 3164,
+      "word": "arrogant",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 傲慢的；自大的",
+      "currentMeaning": "adj. 【助记】为了要求形容词后缀"
+    },
+    {
+      "position": 3172,
+      "word": "conspicuous",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 显眼的；明显的；引人注目的",
+      "currentMeaning": "n. 显眼的，明显的，引人注目的"
+    },
+    {
+      "position": 3176,
+      "word": "wipe",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 擦，拭，抹；消灭，使消失；【词义】抹，擦，拭"
+    },
+    {
+      "position": 3177,
+      "word": "wire",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 金属丝，金属线；电线；电话，电报；【词义】打电报给，用电报传送"
+    },
+    {
+      "position": 3184,
+      "word": "snap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "猛咬；突然折断；劈啪声；【词义】；猛咬；抓住；谩骂；突然折断；使劈啪地响"
+    },
+    {
+      "position": 3186,
+      "word": "sneak",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "偷偷地走，潜行；口偷窃；【词义】鬼鬼祟祟的人；偷偷摸摸的行为；【词义】不声不响进行的；偷偷的"
+    },
+    {
+      "position": 3187,
+      "word": "sneeze",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vi. 喷嚏；轻视；【词义】打喷嚏"
+    },
+    {
+      "position": 3197,
+      "word": "flame",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "火焰，火苗；热情；光辉；【词义】燃烧"
+    },
+    {
+      "position": 3198,
+      "word": "flap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 垂下物，帽檐，袋盖；慌乱，紧张；【词义】拍打，拍动"
+    },
+    {
+      "position": 3200,
+      "word": "flash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 闪光，闪烁；【词义】；闪光，闪耀；闪现"
+    },
+    {
+      "position": 3210,
+      "word": "anything",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "pron. 任何事物；无论什么",
+      "currentMeaning": "她虽然什么也没说，但我已意识到她不喜欢这个主意。【词组】；恢复理性，醒悟过来；从某种意义上说；讲得通，言之成理【真题例句】"
+    },
+    {
+      "position": 3227,
+      "word": "coin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "硬币，金属货币；【词义】；铸币；发明，杜撰新字等"
+    },
+    {
+      "position": 3228,
+      "word": "coke",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 焦煤，焦炭；可卡因；可口可乐；【词义】将煤制成焦炭"
+    },
+    {
+      "position": 3233,
+      "word": "colony",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 殖民地；群体；菌落",
+      "currentMeaning": "【词组】设法抓住"
+    },
+    {
+      "position": 3236,
+      "word": "enthusiastic",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 热情的；热心的",
+      "currentMeaning": "n. 热情的，热心的"
+    },
+    {
+      "position": 3244,
+      "word": "whatever",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "pron. 引出状语从句或名词从句无论什么不管怎样；【词义】无论什么样的"
+    },
+    {
+      "position": 3248,
+      "word": "wherever",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "conj. 在任何地方；【词义】；究竟在哪里，究竞到哪里；无论在哪里，无论到哪里"
+    },
+    {
+      "position": 3249,
+      "word": "whichever",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "pron. 无论哪个，无论哪些；【词义】无论哪个，无论哪些"
+    },
+    {
+      "position": 3251,
+      "word": "whip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 鞭子；【词义】；抽打，鞭答；搅打，打成泡沫；偷某物"
+    },
+    {
+      "position": 3258,
+      "word": "blunder",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "因无知、粗心等而犯大错；踉踉跄跄地走；【词义】大错；意为失误、大错一般指较严重的、愚蠢的错误。"
+    },
+    {
+      "position": 3260,
+      "word": "blur",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "模糊不清；【词义】使模糊，使看不清"
+    },
+    {
+      "position": 3262,
+      "word": "praise",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "赞扬，称赞；【词义】称赞，赞美，赞美的话～他对她的工作大加赞赏。"
+    },
+    {
+      "position": 3269,
+      "word": "resident",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 居民，常住者；【词义】居住的"
+    },
+    {
+      "position": 3281,
+      "word": "spin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "纺线纺纱；旋转；吐丝；结网；编织；【词义】旋转，自转"
+    },
+    {
+      "position": 3286,
+      "word": "spit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "吐出；吐痰；【词义】唾液"
+    },
+    {
+      "position": 3287,
+      "word": "spite",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 恶意，怨恨；【词义】刁难，使恼怒"
+    },
+    {
+      "position": 3288,
+      "word": "splash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "溅泼，溅湿；【词义】溅，泼"
+    },
+    {
+      "position": 3292,
+      "word": "spot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "玷污，弄脏；发现，认出；【词义】；斑点，污点；地点，场所"
+    },
+    {
+      "position": 3299,
+      "word": "tower",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "塔，塔楼，高楼；【词义】高耸，屹立"
+    },
+    {
+      "position": 3330,
+      "word": "focus",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "焦点，焦距；活动、兴趣等的中心；【词义】使聚集，集中"
+    },
+    {
+      "position": 3331,
+      "word": "fog",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "雾；【词义】雾气笼罩某物有雾气"
+    },
+    {
+      "position": 3338,
+      "word": "ape",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "类人猿；【词义】；为了取笑而模仿；模仿，照搬别人的做法"
+    },
+    {
+      "position": 3343,
+      "word": "blend",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 混合物；【词义】；混合，混杂；使混合"
+    },
+    {
+      "position": 3345,
+      "word": "comfort",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 舒适；安慰；【词义】安慰；使舒适"
+    },
+    {
+      "position": 3349,
+      "word": "comic",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 喜剧演员；儿童连环画册；【词义】；可笑的，滑稽的"
+    },
+    {
+      "position": 3354,
+      "word": "commute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 上下班往返，通勤；减刑；【词义】通勤的路程"
+    },
+    {
+      "position": 3361,
+      "word": "dictate",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 口述；命令；支配",
+      "currentMeaning": "v. 【助记】说话动词后缀，使做使某人"
+    },
+    {
+      "position": 3366,
+      "word": "digest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 消化；【词义】摘要，文摘"
+    },
+    {
+      "position": 3370,
+      "word": "envy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "羡慕，妒忌；【词义】羡慕，妒忌"
+    },
+    {
+      "position": 3376,
+      "word": "float",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 浮动，飘动；【词义】救生筏"
+    },
+    {
+      "position": 3379,
+      "word": "flow",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "流，流动；【词义】流量，流速"
+    },
+    {
+      "position": 3380,
+      "word": "flu",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 流感",
+      "currentMeaning": "n. 流利的，流畅的"
+    },
+    {
+      "position": 3383,
+      "word": "fluid",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 流动的，液体的；【词义】流体，液体"
+    },
+    {
+      "position": 3384,
+      "word": "flush",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "脸红；水奔流；冲洗；兴奋；得意；【词义】；脸红；奔流；红光；冲洗"
+    },
+    {
+      "position": 3385,
+      "word": "fly",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 苍蝇，会飞的昆虫；【词义】；指鸟或昆虫飞，飞翔；飞行，航行；驾驶飞机等操纵飞行器等空运货物或乘客"
+    },
+    {
+      "position": 3400,
+      "word": "ornament",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 装饰品点缀品；增添光彩的人或行动；【词义】装饰，点缀"
+    },
+    {
+      "position": 3403,
+      "word": "pound",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 英镑；磅；【词义】连续猛击，猛烈敲打，捣碎"
+    },
+    {
+      "position": 3406,
+      "word": "representative",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "代表，代理人；【词义】有代表性的，典型的"
+    },
+    {
+      "position": 3408,
+      "word": "reproach",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 责备；耻辱；v. 责备",
+      "currentMeaning": "n. 【助记】他的态度生硬，因此受到了指责【词性】"
+    },
+    {
+      "position": 3412,
+      "word": "sore",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 痛的，痛苦的，痛心的；难堪的，生气的；【词义】痛处，疮"
+    },
+    {
+      "position": 3420,
+      "word": "tie",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 扎，系，捆；【词义】；领带，领结；联系，关系，纽带"
+    },
+    {
+      "position": 3423,
+      "word": "tight",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 紧的，紧身的，装紧的；密封的，不透的；【词义】紧紧地"
+    },
+    {
+      "position": 3424,
+      "word": "tilt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "使倾斜，使倾侧；【词义】歪，倾向"
+    },
+    {
+      "position": 3428,
+      "word": "weep",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "为哭泣，流泪；渗出；【词义】哭泣，眼泪"
+    },
+    {
+      "position": 3437,
+      "word": "anger",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "怒，怒气，怒火；【词义】使发怒，激怒"
+    },
+    {
+      "position": 3443,
+      "word": "antique",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 古时的，因古老和稀少而珍贵的；旧式的，过时的；【词义】古物，古董；古式，古风"
+    },
+    {
+      "position": 3444,
+      "word": "bet",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 打赌，赌博；【词义】打赌，赌注"
+    },
+    {
+      "position": 3461,
+      "word": "desolate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 孤独凄凉的，可怜的；荒芜的，不毛的；【词义】；感到凄凉，使悲惨"
+    },
+    {
+      "position": 3470,
+      "word": "engineering",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 工程学；工程技术",
+      "currentMeaning": "n. 工程学"
+    },
+    {
+      "position": 3487,
+      "word": "input",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "输入；【词义】输入"
+    },
+    {
+      "position": 3488,
+      "word": "inquiry",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 询问；调查；探究",
+      "currentMeaning": "n. 输入；【词义】输入"
+    },
+    {
+      "position": 3495,
+      "word": "poke",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "戳，刺，捅；伸出；拨弄；【词义】捅，戳，刺"
+    },
+    {
+      "position": 3512,
+      "word": "block",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "大块木料石料、金属；一排房子，街区；阻塞，障碍物；【词义】阻塞，阻碍，封锁"
+    },
+    {
+      "position": 3518,
+      "word": "top",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 最高的；【词义】高过，超过，到达的顶部；顶部上边，上面"
+    },
+    {
+      "position": 3521,
+      "word": "torture",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 拷打，拷问；折磨，痛苦；歪曲，扭曲；【词义】；拷打，拷问"
+    },
+    {
+      "position": 3533,
+      "word": "approximate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 近似的，大约的；【词义】近似，接近"
+    },
+    {
+      "position": 3536,
+      "word": "compact",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 紧密的，坚实的；集中的，紧凑的，袖珍的；【词义】协定，合同，契约；【词义】使紧密结合，把压实或塞紧等"
+    },
+    {
+      "position": 3538,
+      "word": "company",
+      "reasons": [
+        "题目/页眉文字"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "～市场调研有助于公司对产品的定位。【同义】【词组】能够不能够【真题例句】"
+    },
+    {
+      "position": 3543,
+      "word": "composite",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 合成的，复合的，混成的，集成的；【词义】合成物；混合客车；综合照片；混合式建筑物"
+    },
+    {
+      "position": 3557,
+      "word": "dip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "浸，蘸；【词义】洗澡，泡水"
+    },
+    {
+      "position": 3566,
+      "word": "groan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "呻吟；【词义】呻吟"
+    },
+    {
+      "position": 3578,
+      "word": "instantaneous",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 瞬间的；即刻的",
+      "currentMeaning": "n. 睦间发生的，即刻的"
+    },
+    {
+      "position": 3580,
+      "word": "limp",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 软的，松沓的；软弱的，无生气的；【词义】跛行"
+    },
+    {
+      "position": 3586,
+      "word": "mine",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "矿，矿山，矿井；【词义】采矿；布雷，用雷炸毁"
+    },
+    {
+      "position": 3587,
+      "word": "mineral",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 矿物，矿石；【词义】矿物的，矿质的"
+    },
+    {
+      "position": 3589,
+      "word": "miniature",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 缩小的模型，缩图；【词义】微型的，缩小的"
+    },
+    {
+      "position": 3590,
+      "word": "minimize",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 使减到最少；低估",
+      "currentMeaning": "adj. 微型的，缩小的"
+    },
+    {
+      "position": 3591,
+      "word": "minimum",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 最低限度，最少量，最低点；【词义】最低的，最小的"
+    },
+    {
+      "position": 3594,
+      "word": "minor",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 较小的；较少的；较不重要的；【词义】；副修科目；未成年人；【词义】副修某科"
+    },
+    {
+      "position": 3602,
+      "word": "lumber",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "木材，木料；废旧家具；无用杂物；【词义】；笨重地移动；零乱地堆积在中，以破烂堆满"
+    },
+    {
+      "position": 3607,
+      "word": "lyric",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 抒情的；吟唱的；为吟唱谱写的；【词义】歌词"
+    },
+    {
+      "position": 3609,
+      "word": "brake",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 制动器闸，刹车；【词义】刹车"
+    },
+    {
+      "position": 3611,
+      "word": "brave",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 勇敢的，大胆的；【词义】；冒风雨，危险等；勇敢面对，不怕，不顾"
+    },
+    {
+      "position": 3615,
+      "word": "cosy/cozy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 舒适的，安逸的；亲切友好的；自满的，自得的；【词义】保暖罩；～茶壶暖罩"
+    },
+    {
+      "position": 3616,
+      "word": "couch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "长沙发，睡椅，长榻；诊察台；【词义】用某种文体或方式表达，措辞"
+    },
+    {
+      "position": 3627,
+      "word": "exempt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 免除的，被豁免的；【词义】使某人事免除或豁免"
+    },
+    {
+      "position": 3639,
+      "word": "hound",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "猎犬；卑鄙的人；【词义】烦扰，纠缠，狩猎"
+    },
+    {
+      "position": 3641,
+      "word": "howl",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "狗、狼等的长嚎，嗥叫；高声叫喊；狂风等的啸鸣；【词义】；尖声嚎叫，大声叫喊"
+    },
+    {
+      "position": 3645,
+      "word": "dose",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "剂量，一服，一剂；【词义】给服药"
+    },
+    {
+      "position": 3660,
+      "word": "rip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "扯破，撕裂；【词义】裂口，裂缝"
+    },
+    {
+      "position": 3667,
+      "word": "rock",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "岩石，石块；【词义】使震惊；摇动；指剧烈地摇动。；指上端固定，下端摇动。；指下端固定，上端摇动。"
+    },
+    {
+      "position": 3682,
+      "word": "bounce",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "弹起，反弹；俚解雇，开除，逐出；【词义】弹，反弹，跳，跃"
+    },
+    {
+      "position": 3686,
+      "word": "trash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 拙劣的材料，作品等；垃圾，废物；【词义】；毁坏；丢弃；贬低，抨击"
+    },
+    {
+      "position": 3702,
+      "word": "copy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "副本，复制品；一本，一册；【词义】仿效，仿制"
+    },
+    {
+      "position": 3708,
+      "word": "corn",
+      "reasons": [
+        "与相邻词 coronavirus 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 玉米，谷物；庄稼"
+    },
+    {
+      "position": 3709,
+      "word": "coronavirus",
+      "reasons": [
+        "与相邻词 corn 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 冠状病毒",
+      "currentMeaning": "n. 玉米，谷物；庄稼"
+    },
+    {
+      "position": 3712,
+      "word": "correspond",
+      "reasons": [
+        "与相邻词 correspondence 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 通信；符合；一致",
+      "currentMeaning": "n. 通信，信件；符合，一致"
+    },
+    {
+      "position": 3713,
+      "word": "correspondence",
+      "reasons": [
+        "与相邻词 correspond 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 通信，信件；符合，一致"
+    },
+    {
+      "position": 3717,
+      "word": "dive",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "潜水，跳水；【词义】潜水，跳水；俯冲"
+    },
+    {
+      "position": 3718,
+      "word": "divine",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 神的，神圣的；极好的，可爱的等；【词义】；猜测；占卜，预测"
+    },
+    {
+      "position": 3730,
+      "word": "excess",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 过量；过剩；过度",
+      "currentMeaning": "【助记】以外，超出行超出限度的行为过"
+    },
+    {
+      "position": 3734,
+      "word": "interim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 在其间，在其时；【词义】暂时的，临时的"
+    },
+    {
+      "position": 3735,
+      "word": "intermediate",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 中间的；中级的；n. 中间人",
+      "currentMeaning": "【助记】在之间中间形容词兼名词后缀中间的"
+    },
+    {
+      "position": 3752,
+      "word": "monitor",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "学校的班长；监测器，监控器；【词义】监控，监听，监测，监视"
+    },
+    {
+      "position": 3755,
+      "word": "pride",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "自豪；自满，骄傲；【词义】使自豪，使自夸"
+    },
+    {
+      "position": 3757,
+      "word": "prize",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 奖品；奖金；v. 珍视；高度重视",
+      "currentMeaning": "adv. 首先，第一，最初；强调不愿意宁可，宁愿；【词义】；空前的成就，前所未有的事情"
+    },
+    {
+      "position": 3761,
+      "word": "storm",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "风暴，暴风雨，暴风雪；阵发，爆发，迸发；【词义】；暴怒，大发雷霆；猛攻，直捣"
+    },
+    {
+      "position": 3765,
+      "word": "strap",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 带，皮带；【词义】用带子系、扎、捆绑开车前请乘客务必系好安全带。"
+    },
+    {
+      "position": 3775,
+      "word": "trim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 整齐的，整洁的；苗条的，修长的；【词义】；整理，修理，装饰；调整，削减"
+    },
+    {
+      "position": 3776,
+      "word": "trip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "旅行，旅游；失足，失误；【词义】；绊倒；使失误，使犯错误；使绊倒；使失误，使失败"
+    },
+    {
+      "position": 3777,
+      "word": "triple",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 三倍的，三重的，三部分的，三方的；【词义】使增至三倍"
+    },
+    {
+      "position": 3778,
+      "word": "worldwide",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 全世界的，世界范围的；【词义】遍及世界各地"
+    },
+    {
+      "position": 3781,
+      "word": "worse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 更坏的，更差的；【词义】更坏，更差"
+    },
+    {
+      "position": 3783,
+      "word": "wrap",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 包；裹；n. 包裹；围巾",
+      "currentMeaning": "【助记】妈妈责备我把她的围巾掉进了陷阱里"
+    },
+    {
+      "position": 3791,
+      "word": "bright",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 发光的，反光的，明亮的；鲜明的，晴朗的；～鲜红色；愉快的，高兴的，美好的；【词义】光明地，明亮地"
+    },
+    {
+      "position": 3798,
+      "word": "cow",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 母牛尤指奶牛给奶牛挤奶【词性】【词义】恐吓，使害怕"
+    },
+    {
+      "position": 3800,
+      "word": "downtown",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 在或往城市的商业区，在市区；【词义】城市商业区的，市区的"
+    },
+    {
+      "position": 3806,
+      "word": "drain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 慢慢排去；渐渐耗尽，使逐渐消失；【词义】；排水沟，阴沟"
+    },
+    {
+      "position": 3812,
+      "word": "exhibit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "art. 展出，陈列；表示，显示；【词义】展览品，陈列品"
+    },
+    {
+      "position": 3814,
+      "word": "exile",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 流放，放逐，充军；长期离国或离家；流亡；【词义】放逐某人使充军，发配"
+    },
+    {
+      "position": 3817,
+      "word": "forward",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 向前，前进；【词义】；向前的，前部的；进步的"
+    },
+    {
+      "position": 3818,
+      "word": "foster",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 培养，培育；领养，收养，照顾；【词义】养育者，鼓励者"
+    },
+    {
+      "position": 3823,
+      "word": "fracture",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 裂缝，裂痕；骨折；【词义】使折断"
+    },
+    {
+      "position": 3827,
+      "word": "mortal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 凡人；【词义】；致命的；终有一死的"
+    },
+    {
+      "position": 3828,
+      "word": "mortgage",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 抵押借款；【词义】抵押借款"
+    },
+    {
+      "position": 3833,
+      "word": "boss",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 工头，老板，上司；【词义】指挥，支配，发号施令"
+    },
+    {
+      "position": 3845,
+      "word": "disrupt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 扰乱，破坏，分解；【词义】混乱的；瓦解的；中断的"
+    },
+    {
+      "position": 3848,
+      "word": "distant",
+      "reasons": [
+        "与相邻词 distill 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 远的，久远的"
+    },
+    {
+      "position": 3849,
+      "word": "distill",
+      "reasons": [
+        "与相邻词 distant 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 蒸馏；提取；净化",
+      "currentMeaning": "adj. 远的，久远的"
+    },
+    {
+      "position": 3872,
+      "word": "moan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "呻吟声，呜咽声；不满，牢骚；【词义】；呻吟，呜咽"
+    },
+    {
+      "position": 3873,
+      "word": "mob",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "暴徒，乌合之众，盗贼等的一群；【词义】成群暴动，聚众滋扰，团团围住某人"
+    },
+    {
+      "position": 3875,
+      "word": "mobilize",
+      "reasons": [
+        "动词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 动员；调动；鼓动",
+      "currentMeaning": "adj. 可动的，活动的，运动的；动员；调动，鼓动起；模数，模块；登月舱，指令舱"
+    },
+    {
+      "position": 3876,
+      "word": "module",
+      "reasons": [
+        "与相邻词 mould 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 模数，模块；登月舱，指令舱"
+    },
+    {
+      "position": 3877,
+      "word": "mould",
+      "reasons": [
+        "与相邻词 module 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 模具；霉；v. 塑造；使成形",
+      "currentMeaning": "n. 模数，模块；登月舱，指令舱"
+    },
+    {
+      "position": 3879,
+      "word": "pretty",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 漂亮的，秀丽的；【词义】相当地，颇"
+    },
+    {
+      "position": 3893,
+      "word": "riot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 骚乱，放纵，挥霍；【词义】暴乱，骚动"
+    },
+    {
+      "position": 3901,
+      "word": "stereotype",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "模式化的形象，老一套，成见；印铅版；【词义】对形成模式化的看法，对有成见；飞机、火车或轮船上的乘务员，服务员；大学等的伙食管理员；私人家的管家"
+    },
+    {
+      "position": 3908,
+      "word": "transparent",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 透明的；显而易见的",
+      "currentMeaning": "adj. 【助记】穿过出现形容词后缀能让"
+    },
+    {
+      "position": 3912,
+      "word": "interference",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 干涉；干预；介入",
+      "currentMeaning": "int. 干涉，干预，介入"
+    },
+    {
+      "position": 3921,
+      "word": "convert",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 使转变；转换；改信；n. 改变者；皈依者",
+      "currentMeaning": "n. 使转变，转化"
+    },
+    {
+      "position": 3927,
+      "word": "living",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "～为生活忙碌可能指的是以极度紧张为特征的一种生活。【词性】"
+    },
+    {
+      "position": 3928,
+      "word": "loaf",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "游荡，闲逛；【词义】一条块面包"
+    },
+    {
+      "position": 3929,
+      "word": "loan",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 贷款；借出；【词义】借出"
+    },
+    {
+      "position": 3931,
+      "word": "locomotive",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "火车头，机车；【词义】运动的，移动的，运载的"
+    },
+    {
+      "position": 3943,
+      "word": "disguise",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 假装，伪装；【词义】假装，伪装"
+    },
+    {
+      "position": 3944,
+      "word": "disgust",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 厌恶，反感；【词义】使反感，使厌恶；指对于令人不快、生厌或坏的东西怀有强烈的憎恶。"
+    },
+    {
+      "position": 3946,
+      "word": "dismay",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 惊慌，惊愕；沮丧，灰心；【词义】；使惊愕"
+    },
+    {
+      "position": 3951,
+      "word": "esteem",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "尊重，尊敬；把看作，认为；【词义】尊重，看重"
+    },
+    {
+      "position": 3966,
+      "word": "numb",
+      "reasons": [
+        "提取残留标签",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 麻木的；无感觉的；v. 使麻木",
+      "currentMeaning": "adj. 【词性】"
+    },
+    {
+      "position": 3984,
+      "word": "retort",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "反驳，反击；后【词义】反驳"
+    },
+    {
+      "position": 3986,
+      "word": "retrieve",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 重新得到，恢复，补偿；更正；拯救；想起忘记的事情；【词义】找回，恢复，挽回"
+    },
+    {
+      "position": 3987,
+      "word": "retrospect",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 回顾，追溯；【词义】追忆"
+    },
+    {
+      "position": 3988,
+      "word": "revolt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "反抗，反叛，违抗；【词义】反抗，反叛，叛乱；与同源，因而词形相近，词义相仿，类"
+    },
+    {
+      "position": 3993,
+      "word": "stain",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 玷污，污染；染色；【词义】污点，污迹，瑕疵"
+    },
+    {
+      "position": 3997,
+      "word": "staple",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 订书钉；主要产品或商品主要成分；【词义】主要的，大量生产的"
+    },
+    {
+      "position": 4006,
+      "word": "boycott",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "联合起来抵制，拒绝参加；【词义】联合起来抵制"
+    },
+    {
+      "position": 4011,
+      "word": "contingent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 志趣相投、尤指来自同一地方的一组与会者，代表团；军队的分遣队，小分队；【词义】依情况而定的"
+    },
+    {
+      "position": 4012,
+      "word": "bump",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 肿块；碰撞；v. 碰撞；颠簸",
+      "currentMeaning": "【助记】音；碰，撞"
+    },
+    {
+      "position": 4013,
+      "word": "burn",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 烧伤，灼伤；【词义】燃烧，烧毁，烧伤"
+    },
+    {
+      "position": 4017,
+      "word": "criminal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 罪犯，犯人；【词义】犯罪的，刑事的；不道德的"
+    },
+    {
+      "position": 4024,
+      "word": "crowd",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "聚集，群集；挤满，拥挤；【词义】人群，一群"
+    },
+    {
+      "position": 4025,
+      "word": "crown",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "王冠，皇冠；【词义】加冕"
+    },
+    {
+      "position": 4029,
+      "word": "extra",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 额外的，附加的；【词义】附加物，额外的东西"
+    },
+    {
+      "position": 4036,
+      "word": "fringe",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 刘海儿；外衣、小地毯等的饰边，流苏；外围，边缘；【词义】给某物做穗，以穗装饰"
+    },
+    {
+      "position": 4042,
+      "word": "fume",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "冒烟，冒气；熏；愤怒，大怒；【词义】烟，气，汽"
+    },
+    {
+      "position": 4049,
+      "word": "hunt",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 打猎，猎取；搜索，寻找；【词义】；打猎，猎取；搜寻，寻找"
+    },
+    {
+      "position": 4058,
+      "word": "inventory",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "列出清单，编入目录，存盘；【词义】详细目录，清单，存盘，存货"
+    },
+    {
+      "position": 4059,
+      "word": "inverse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 相反的，反向的；翻转的，倒转的；的倒数是【词义】；反数，倒数"
+    },
+    {
+      "position": 4063,
+      "word": "oval",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 卵形的，椭圆的；【词义】卵形，椭圆形；～小女孩在沙滩上画了一个椭圆。"
+    },
+    {
+      "position": 4072,
+      "word": "overtime",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "超时；加班，加班的时间；【词义】超时地"
+    },
+    {
+      "position": 4079,
+      "word": "rope",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 绳；绳索",
+      "currentMeaning": "n. 绳，索"
+    },
+    {
+      "position": 4081,
+      "word": "rot",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "v. 腐烂，腐朽，腐化；逐渐衰败；【词义】腐烂，腐坏"
+    },
+    {
+      "position": 4084,
+      "word": "round",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 圆的，球形的；【词义】围绕；【词义】在周围"
+    },
+    {
+      "position": 4085,
+      "word": "roundabout",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 绕道的，说话、行事等绕圈子的，不直接的；【词义】绕行路线；环行交叉，环形交通枢纽"
+    },
+    {
+      "position": 4088,
+      "word": "sum",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 总数，和；金额；算术题；【词义】合计，总计"
+    },
+    {
+      "position": 4089,
+      "word": "summary",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 总结，概要；【词义】概括的，总结性的，扼要的"
+    },
+    {
+      "position": 4093,
+      "word": "sunset",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 日落；日落时分",
+      "currentMeaning": "n. 日落"
+    },
+    {
+      "position": 4095,
+      "word": "hug",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "热烈拥抱，紧抱；【词义】热烈拥抱，紧抱"
+    },
+    {
+      "position": 4101,
+      "word": "audit",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 审计，稽核，查账；【词义】；查账，稽核；审计"
+    },
+    {
+      "position": 4107,
+      "word": "broadcast",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "广播节目播送，转播；【词义】广播"
+    },
+    {
+      "position": 4108,
+      "word": "bruise",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 碰伤，青肿；【词义】使出现伤痕；感情受伤害"
+    },
+    {
+      "position": 4111,
+      "word": "bud",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 芽，花苞；【词义】发芽"
+    },
+    {
+      "position": 4113,
+      "word": "buffet",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 自助餐，车站等处的快餐部，饮食柜台；【词义】尤指风、雨或海浪连续猛击，打击"
+    },
+    {
+      "position": 4115,
+      "word": "crack",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "裂缝，缝隙；破裂声，爆裂声；【词义】使破裂"
+    },
+    {
+      "position": 4118,
+      "word": "crash",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "碰撞，坠毁；【词义】；失败，瓦解"
+    },
+    {
+      "position": 4123,
+      "word": "crawl",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vi. 爬行，蠕动；缓慢的行进；【词义】爬行，缓慢的行进"
+    },
+    {
+      "position": 4128,
+      "word": "dress",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 服装，衣服；【词义】穿衣，打扮"
+    },
+    {
+      "position": 4129,
+      "word": "drift",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "飘，漂流，游荡；随意，移动，方向；【词义】；漂流，漂泊"
+    },
+    {
+      "position": 4131,
+      "word": "drip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "滴落，漏下；【词义】水滴，滴水声"
+    },
+    {
+      "position": 4137,
+      "word": "expedition",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 远征；探险；考察",
+      "currentMeaning": "adj. 净的，纯净的"
+    },
+    {
+      "position": 4147,
+      "word": "frame",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 框架，骨架；体制，模式；组织，机构；【词义】；给加框；制订，拟订；组织，建立"
+    },
+    {
+      "position": 4153,
+      "word": "freelance",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 自由职业的；【词义】从事自由职业；【词义】作为自由职业者"
+    },
+    {
+      "position": 4157,
+      "word": "frequent",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 时常发生的，频繁的；【词义】常到，时常出没于"
+    },
+    {
+      "position": 4162,
+      "word": "struggle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "奋斗，努力；争取；斗争，搏斗；争夺；【词义】斗争；奋斗；搏斗"
+    },
+    {
+      "position": 4163,
+      "word": "strip",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "狭长条，带状物；【词义】；剥去，除去；脱去"
+    },
+    {
+      "position": 4166,
+      "word": "stroll",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 漫步，闲逛，四处流浪，游荡，巡回演出；【词义】闲逛，漫步，在游荡"
+    },
+    {
+      "position": 4170,
+      "word": "stuff",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "原料，材料；物品，东西；【词义】填满，塞满"
+    },
+    {
+      "position": 4174,
+      "word": "submarine",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 潜水艇；【词义】水底的，海底的"
+    },
+    {
+      "position": 4178,
+      "word": "tug",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "用力拖或拉；【词义】猛拉，牵引；拖"
+    },
+    {
+      "position": 4192,
+      "word": "awe",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "敬畏；惊惧；【词义】使某人敬畏或惊惧"
+    },
+    {
+      "position": 4194,
+      "word": "axe/ax",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "斧子；裁减；被解雇；倒闭；被停业；【词义】；大量削减经费等精简机构等砍掉，取消"
+    },
+    {
+      "position": 4199,
+      "word": "button",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 纽扣；按钮开关；【词义】扣紧，扣上纽扣"
+    },
+    {
+      "position": 4202,
+      "word": "bypass",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "绕过城市的旁路，旁道；心脏、动脉的分流术，搭桥术；旁通管；【词义】；经过，绕过；越过；忽视，不请示；置于不顾"
+    },
+    {
+      "position": 4206,
+      "word": "crush",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "拥挤的人群；挤压；【词义】；压碎，压坏；压榨"
+    },
+    {
+      "position": 4208,
+      "word": "crystal",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "水晶结晶体；【词义】水晶的；清澈的，透明的"
+    },
+    {
+      "position": 4212,
+      "word": "duplicate",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 完全一样的，复制的；成对的，两重的；【词义】副本，复制品"
+    },
+    {
+      "position": 4214,
+      "word": "dwarf",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "vt. 矮子，侏儒，矮生植物；神话中的有魔法的小矮人；【词义】；使变矮小；阻碍生长"
+    },
+    {
+      "position": 4216,
+      "word": "dye",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "染料；【词义】染，染色"
+    },
+    {
+      "position": 4220,
+      "word": "further",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv./adj. 更远；进一步；促进",
+      "currentMeaning": "n. 【试题分析】答案。译文"
+    },
+    {
+      "position": 4225,
+      "word": "iron",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 铁；熨斗；v. 熨烫",
+      "currentMeaning": "镀，电镀"
+    },
+    {
+      "position": 4230,
+      "word": "isle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "小岛，岛屿；【词义】使成为岛屿，使隔离，住在岛屿上"
+    },
+    {
+      "position": 4235,
+      "word": "mute",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 沉默的，无声的；【词义】；哑巴；弱音器"
+    },
+    {
+      "position": 4248,
+      "word": "protest",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "抗议，反对；【词义】抗议，反对"
+    },
+    {
+      "position": 4257,
+      "word": "rubber",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 橡胶，橡皮；橡胶制品，胶鞋；【词义】橡胶的"
+    },
+    {
+      "position": 4273,
+      "word": "curl",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "使卷曲，蜷缩；【词义】馨发，卷曲状，卷曲物"
+    },
+    {
+      "position": 4275,
+      "word": "curse",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 诅咒，咒骂；【词义】诅咒，咒骂"
+    },
+    {
+      "position": 4276,
+      "word": "curve",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 曲线，弯曲物；【词义】弄弯，成曲形"
+    },
+    {
+      "position": 4283,
+      "word": "swallow",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 吞，咽；忍受，抑制；因恐惧等咽下口水；【词义】吞，咽"
+    },
+    {
+      "position": 4286,
+      "word": "sweat",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 汗；【词义】使出汗"
+    },
+    {
+      "position": 4289,
+      "word": "swim",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "游泳；眩晕；浸，泡；【词义】游泳"
+    },
+    {
+      "position": 4296,
+      "word": "symposium",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 讨论会；专题研讨会",
+      "currentMeaning": "n. 【助记】相同的放名词后缀把相同"
+    },
+    {
+      "position": 4301,
+      "word": "much",
+      "reasons": [
+        "题目/页眉文字",
+        "释义异常偏长（143 字符）"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "一顿饭吃这么多是不正常的。【典型考题】【试题分析】答案。译文；他的反常行为让他的父母担忱。本题是词义辨析题。指无规律的、不正规的、偏离风俗习惯和常规做法等；指不常发生的、少有的、独特而奇怪的；相当于表示奇特的、古怪的，多指人的性格、行为古怪；指偏离正常或社会可接受行为而显得反常、异常。"
+    },
+    {
+      "position": 4303,
+      "word": "mug",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "杯子；脸，嘴；【词义】；行凶抢劫，打劫；给拍照"
+    },
+    {
+      "position": 4306,
+      "word": "multiple",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 多种多样的；【词义】倍数"
+    },
+    {
+      "position": 4309,
+      "word": "municipal",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 市政的；地方政府的",
+      "currentMeaning": "adj. 【助记】服务拿来形容词后"
+    },
+    {
+      "position": 4312,
+      "word": "puff",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 一口气一阵风；【词义】喘气，喷气"
+    },
+    {
+      "position": 4316,
+      "word": "punch",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "冲压机，冲床；穿孔机；【词义】冲压，穿孔"
+    },
+    {
+      "position": 4323,
+      "word": "purse",
+      "reasons": [
+        "与相邻词 rumour 的释义完全相同"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 女士用的钱包"
+    },
+    {
+      "position": 4324,
+      "word": "rumour",
+      "reasons": [
+        "与相邻词 purse 的释义完全相同",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 传闻；谣言",
+      "currentMeaning": "n. 女士用的钱包"
+    },
+    {
+      "position": 4328,
+      "word": "rust",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 锈，铁锈；能力的荒废，荒疏；【词义】；生锈；脑子等衰退，变迟钝"
+    },
+    {
+      "position": 4349,
+      "word": "twin",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 双的，成对的，挛生的；同时出现的，密切相关的；【词义】李生子，双生子"
+    },
+    {
+      "position": 4350,
+      "word": "twinkle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "闪烁，闪耀，闪亮；【词义】闪烁，闪耀，闪亮"
+    },
+    {
+      "position": 4352,
+      "word": "wrinkle",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "n. 皱，皱纹；【词义】皱起，起皱"
+    },
+    {
+      "position": 4363,
+      "word": "after",
+      "reasons": [
+        "题目/页眉文字"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "他们仿照一件唐代原件的样式制作了这件珠宝。【真题例句】"
+    },
+    {
+      "position": 4433,
+      "word": "boy",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "conj. 在之前；【词义】前面，从前，早些时候"
+    },
+    {
+      "position": 4435,
+      "word": "breakfast",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adv. 每日，天天；【词义】日报"
+    },
+    {
+      "position": 4502,
+      "word": "Christmas",
+      "reasons": [
+        "释义中没有中文内容",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 圣诞节",
+      "currentMeaning": "～"
+    },
+    {
+      "position": 4535,
+      "word": "cousin",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 堂/表兄弟姐妹；同辈亲属",
+      "currentMeaning": "护送某人"
+    },
+    {
+      "position": 4555,
+      "word": "December",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 十二月",
+      "currentMeaning": "尊敬，敬意"
+    },
+    {
+      "position": 4584,
+      "word": "earthquake",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 地震",
+      "currentMeaning": "【试题分析】答案。译文"
+    },
+    {
+      "position": 4588,
+      "word": "electricity",
+      "reasons": [
+        "题目/页眉文字"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "发电～产生蒸汽产生对某人才能的怀疑；引起，导致；【真题例句】"
+    },
+    {
+      "position": 4610,
+      "word": "few",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "～在才干方面几乎没有哪个经理比得上我父亲。；为取得某种预期效果找商量，同联系；着手处理，开始对付；【词性】"
+    },
+    {
+      "position": 4623,
+      "word": "found",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "adj. 秘密的；【词义】把某人关在房间里作私人会晤"
+    },
+    {
+      "position": 4646,
+      "word": "goodness",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 善良；美德；int. 天哪",
+      "currentMeaning": "int. 天哪美德，善良"
+    },
+    {
+      "position": 4685,
+      "word": "instead",
+      "reasons": [
+        "提取残留标签"
+      ],
+      "severity": "medium",
+      "suggestedMeaning": "",
+      "currentMeaning": "混凝土；【词义】用混凝土修筑，浇混凝土"
+    },
+    {
+      "position": 4798,
+      "word": "pity",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 遗憾；怜悯；v. 同情；惋惜",
+      "currentMeaning": "v. 觉得可怜，惋惜憾事，怜悯"
+    },
+    {
+      "position": 4834,
+      "word": "rabbit",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 兔；兔肉",
+      "currentMeaning": "n. 兔子"
+    },
+    {
+      "position": 4838,
+      "word": "rather",
+      "reasons": [
+        "题目/页眉文字"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "",
+      "currentMeaning": "父母们被鼓励依靠说服的方法而不要靠惩罚。【真题例句】"
+    },
+    {
+      "position": 4841,
+      "word": "really",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 真正地；确实；事实上",
+      "currentMeaning": "【试题分析】答案。译文"
+    },
+    {
+      "position": 4976,
+      "word": "abbreviation",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 缩略；缩写；缩写形式",
+      "currentMeaning": "vi. 缩略，缩写；缩写形式"
+    },
+    {
+      "position": 5009,
+      "word": "antagonistic",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 对立的；敌对的；敌意的",
+      "currentMeaning": "n. 对立的；敌对的；敌意的"
+    },
+    {
+      "position": 5056,
+      "word": "bodily",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 身体的；adv. 全身地；完全地",
+      "currentMeaning": "adj. 人体的；具体的移动全身地；用力地；整个地，完全地"
+    },
+    {
+      "position": 5158,
+      "word": "depredation",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 掠夺；破坏；损害",
+      "currentMeaning": "det. 掠夺；破坏；损害"
+    },
+    {
+      "position": 5186,
+      "word": "download",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 下载",
+      "currentMeaning": "v. 下载已下载的数据"
+    },
+    {
+      "position": 5194,
+      "word": "electronics",
+      "reasons": [
+        "题目/页眉文字",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 电子学；电子设备",
+      "currentMeaning": "【试题分析】答案。译文"
+    },
+    {
+      "position": 5211,
+      "word": "envision",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "v. 想象；展望",
+      "currentMeaning": "vi. 想象，展望"
+    },
+    {
+      "position": 5339,
+      "word": "injurious",
+      "reasons": [
+        "形容词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 有害的；有损害的",
+      "currentMeaning": "n. 有害的"
+    },
+    {
+      "position": 5359,
+      "word": "intentionally",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 有意地；故意地",
+      "currentMeaning": "n. 有意地，故意地"
+    },
+    {
+      "position": 5365,
+      "word": "intuitively",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 凭直觉地；直观地",
+      "currentMeaning": "n. 有直觉力地"
+    },
+    {
+      "position": 5487,
+      "word": "noisily",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 吵闹地；喧闹地",
+      "currentMeaning": "n. 吵闹地"
+    },
+    {
+      "position": 5511,
+      "word": "opposition",
+      "reasons": [
+        "名词后缀与当前词性不一致",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "n. 反对；反抗；敌对；反对派",
+      "currentMeaning": "adv. 他克服了重重障碍、反对势力与债务负担。【派生】可怕地；难以应付地"
+    },
+    {
+      "position": 5619,
+      "word": "questionable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 可疑的；有问题的；未必准确的",
+      "currentMeaning": "n. 可疑的；有问题的；未必准确或正确的；可能不诚实或不道德的；别有用心的"
+    },
+    {
+      "position": 5739,
+      "word": "surprisingly",
+      "reasons": [
+        "-ly 词形通常为副词，但当前词性不是 adv.",
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adv. 惊人地；出人意料地",
+      "currentMeaning": "n. 成年人"
+    },
+    {
+      "position": 5796,
+      "word": "unfashionable",
+      "reasons": [
+        "存在预先核定的高置信度释义修复"
+      ],
+      "severity": "high",
+      "suggestedMeaning": "adj. 不时兴的；不时髦的；过时的",
+      "currentMeaning": "n. 不时兴的，不时髦的，过时的迹不利的，有害的；不赞同的沉"
+    }
+  ]
+}
